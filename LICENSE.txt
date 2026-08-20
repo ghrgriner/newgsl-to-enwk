@@ -1,0 +1,166 @@
+---------------------------------------
+License for Python code in this package
+---------------------------------------
+The code (*.py files) in this repository is licensed under the
+GNU General Public License v3. See LICENSE_GPL_v3_for_py_files.txt
+in the src/ directory for the license.
+
+-------------------------------------------------------------
+License and attribution information for files in input/ and output/ directories.
+-------------------------------------------------------------
+Files in the input/ and output/ directories are made available
+under the CC BY 3.0 license.
+
+URL of a human-readable summary of the CC BY 3.0 license:
+    https://creativecommons.org/licenses/by/3.0/.
+
+URL of the license itself. The summary is not a substitute for the license:
+    https://creativecommons.org/licenses/by/3.0/legalcode.
+
+Note the disclaimer of warranties in the CC BY 3.0 license:
+
+5. Representations, Warranties and Disclaimer
+
+UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING AND
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR OFFERS
+THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND
+CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING,
+WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE ABSENCE OF LATENT OR OTHER
+DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS, WHETHER OR NOT
+DISCOVERABLE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED
+WARRANTIES, SO THIS EXCLUSION MAY NOT APPLY TO YOU.
+
+6. Limitation on Liability.
+
+EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR BE
+LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL,
+PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE
+WORK, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+--------------------------------------------------------------------
+License and Attribution information for English Language Wiktionary.
+--------------------------------------------------------------------
+
+The repository contains programs designed to work with selected information
+from the August 2026 dump file of the English Language Wiktionary from:
+    https://dumps.wikimedia.org/enwiktionary/20260801/
+
+Wiktionary licenses this text under the Creative Commons Attribution-ShareAlike
+4.0 International (CC BY-SA 4.0).
+
+The analysis results that we upload to the repository are summaries (counts
+and proportions) based on the data in Wiktionary. Users who run these
+programs themselves and generate the detail-level intermediate data
+files should be aware that these intermediate files will contain both
+CC BY 3.0 data and CC BY-SA 4.0 data.
+
+--------------------------------------------------------------------
+License and Attribution information for New General Service List (new-GSL) 
+--------------------------------------------------------------------
+
+The repository contains selected information from the
+New General Service List (new-GSL) (Brezina and Gablasova, 2013).
+
+  The citation for the new-GSL is:
+  Brezina V, Gablasova B (2015). Is there a core general vocabulary? Introducing
+    the *New General Services List*. Applied Linguistics 36(1):1-22.
+    https://doi.org/10.1093/applin/amt018
+
+  The file used is available at the 'Supplementary Data' link at the page
+  given above which has filename 'amt018_Supplementary_Data.zip'. Inside
+  the zip file is a file named 'new_GSL_alphabetical.docx' with a timestamp
+  of July 21, 2013.
+
+Note that there is a different New General Serivces List (NGSL) list from
+different authors (Browne and Culligan) that also came out in 2013. The
+Browne and Culligan NGSL is not used in this repository.
+
+The webpage linked above for the new-GSL states:
+"This is an Open Access article distributed under the terms of the
+Creative Commons Attribution License (http://creativecommons.org/licenses/by/3.0/),
+which permits unrestricted reuse, distribution, and reproduction in any
+medium, provided the original work is properly cited."
+
+We provide the elements of the list both
+(a) in text format with no modifications (variables: newgsl_line and 
+    those variables described below that extract its components, e.g.,
+    newgsl_pos, newgsl_freq_rank); and
+(b) with minor modifications that convert the words and parts of speech in
+    the new-GSL to headwords and part-of-speech headers in Wiktionary that
+    have translations. (Variables: en_hw, enwk_pos)
+
+Note that for (a), each entry in the list is stored unmodified, but the
+data is stored in a file that is at least one record per new-GSL
+part-of-speech code. The original list can be recreated by removing
+duplicates.
+
+We provide this data in the file `output/deck/newgsl_deck.txt` where `newgsl_line`
+is the unmodified entry as it appears in the new-GSL. We then decomposed
+the entry into the part-of-speech code(s) (`newgsl_pos`), frequency
+information (`newgsl_freq_rank`), and remainder of the entry after
+normalizing the capitalization (`newgsl_word`). Our aim was to create a
+file that was one record per new-GSL entry per new-GSL part-of-speech code.
+However, there were a small number of entries where we needed additional
+records because different translation senses had their translations on
+different pages. We searched under the `newgsl_word` headword in Wiktionary
+and checked if the page had the appropriate part-of-speech sections with
+translation information. Not all values of `newgsl_word` returned matches,
+so we determined the correct page by looking up the word in Wiktionary.
+The correct page for each record is stored in `en_hw`. For example,
+`newgsl_word` might not have yielded a match because:
+  1. we kept parentheses and brackets in `newgsl_word` (e.g., for
+     `newgsl_word == 'data [PL]'` we set `en_hw = 'data'` instead)
+  2. the new-GSL uses British spelling and Wiktionary sometimes provides
+     the translations on the pages using American spelling
+  3. the translation table for the section sometimes instructs the user to
+     see the page of a synonym for (all) translations
+We created a flag `en_hw_diff` that is 'Y' if `en_hw != newgsl_word`.
+
+While doing this, in order to perform the lookup, we also mapped the new-GSL
+part-of-speech code to the matching Wiktionary part-of-speech information
+available in section headers. Usually the correct section header could be
+determined by a simple mapping (e.g., 'n' in new-GSL matches the
+Wiktionary 'Noun' header). The Wiktionary section header with the
+appropriate translation table (if it exists) is stored in `enwk_pos`. We
+created a flag (`pos_diff`) that we set to 'Y' if `enwk_pos` did not
+match an expected section header. The table below gives the expected
+Wiktionary section headers for each new-GSL part-of-speech (word class)
+code.
+
+|---------------------------------------------------------------------|
+| new-GSL | new-GSL description | Expected Wiktionary Section Headers |
+|  code   |                     |                                     |
+|---------------------------------------------------------------------|
+| n       | Noun                | Noun, Proper noun [a]               |
+| v       | Verb                | Verb                                |
+| mod     | Modal               | Verb                                |
+| adj     | Adjective           | Adjective                           |
+| adv     | Adverb              | Adverb                              |
+| avp     | Adverbial particle  | Adverb                              |
+|         |   in phrasal verbs  |                                     |
+| con     | Preposition or      | Preposition, Conjunction            |
+|         |   conjunction       |                                     |
+| pron    | Pronoun             | Pronoun                             |
+| x       | Determiner,         | Determiner, Numeral, Particle       |
+|         |   quantifier, or    |                                     |
+|         |   particle          |                                     |
+| abr     | Abbreviation        | - [b]                               |
+| e       | Existential there   | - [c]                               |
+| t       | to as infinitive    | Particle                            |
+|         |   marker            |                                     |
+|----------------------------------------------------------------------
+[a] Wiktionary uses 'Proper noun' headers for months and 'Internet'
+[b] Wiktionary instructs authors not to use 'Abbreviation' as a
+    part-of-speech header.
+[c] This exists in Wiktionary on the 'there be' page in section 'Verb',
+    but it doesn't seem particularly expected to us, so we leave the
+    'expected' list blank.
+
+---------------------------------------------------------------------------
+
+Any copyrightable modifications made to the source material
+are © Raymond Griner, 2026. However, we're not sure there are any.
+
+The Python programs, README.md file and documentation on the repository
+wiki are © Raymond Griner, 2026.
