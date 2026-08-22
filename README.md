@@ -27,12 +27,19 @@ details for the above-listed resources and for this repository.
 The repository wiki has additional details related to the above
 objectives as well as summary results for Objective 2.
 
-# Similar Project
+# Similar project using vocabulary from a first-year German textbook and grammar
 
 We've performed a similar project using the English translations
 for the vocabulary provided in the open-source German textbook _Deutsch im Blick_
-and its companion grammar _Grimm Grammar_. Code for that analysis
-is in a separate repository.
+and its companion grammar _Grimm Grammar_. These works are authored by
+Dr Zsuzsanna Abrams and published by the Center for Open Educational
+Resources and Language Learning (COERLL) at the University of Texas-Austin.
+
+Code for that analysis we performed using these works is in a
+[separate repository](https://github.com/ghrgriner/deutsch-im-blick), but
+we present the results alongside those of the new-GSL in this repository.
+Further details on these works and their licensing information are in
+[LICENSE.txt](LICENSE.txt).
 
 # References 
 [1] Brezina V, Gablasova B (2015). Is there a core general vocabulary? Introducing
