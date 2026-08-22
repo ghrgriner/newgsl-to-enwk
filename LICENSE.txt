@@ -72,7 +72,7 @@ New General Service List (new-GSL) (Brezina and Gablasova, 2013).
   the zip file is a file named 'new_GSL_alphabetical.docx' with a timestamp
   of July 21, 2013.
 
-Note that there is a different New General Serivces List (NGSL) list from
+Note that there is also a New General Serivces List (NGSL) list from
 different authors (Browne and Culligan) that also came out in 2013. The
 Browne and Culligan NGSL is not used in this repository.
 
@@ -158,8 +158,38 @@ code.
     'expected' list blank.
 
 ---------------------------------------------------------------------------
+The program 'src/run_combine_table.py' creates a table and figure that
+combine the counts obtained for the new-GSL with the counts obtained
+using a vocabulary list from Deutsch im Blick and Grimm Grammar (description
+to follow). The results are presented in the wiki.
 
-Any copyrightable modifications made to the source material
+Deutsch im Blick (2nd edition, 2017) and Grimm Grammar are a free
+online first-year German textbook and companion grammar authored by
+Dr Zsuzsanna Abrams and published by the Center for Open Educational
+Resources and Language Learning (COERLL) at the University of Texas-Austin.
+
+The vocabulary list used consists of vocabulary from the end of each
+chapter in Deutsch im Blick. Selected elements of Grimm Grammar
+or vocabulary introduced in the chapter text are also included.
+
+URL of the Deutsch im Blick homepage: https://coerll.utexas.edu/dib/
+
+URL of the Grimm Grammar homepage: https://coerll.utexas.edu/gg/
+
+Deutsch im Blick and Grimm Grammar are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) (https://creativecommons.org/licenses/by/4.0/).
+
+This repository is not affiliated with or endorsed by Dr. Abrams or COERLL.
+
+Note that we do not include the vocabulary list from Deutsch im Blick and
+Grimm Grammar in this repository. We only present the counts in Wiktionary.
+The repository https://github.com/ghrgriner/deutsch-im-blick has the
+vocabulary list and the programs we used to calculate the counts.
+The deutsch-im-blick repository is distributed under a different license
+than this repository.
+
+---------------------------------------------------------------------------
+
+Any copyrightable modifications made to the (new-GSL) source material
 are © Raymond Griner, 2026. However, we're not sure there are any.
 
 The Python programs, README.md file and documentation on the repository
