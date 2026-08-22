@@ -51,12 +51,22 @@ plt.savefig("../output/translations/newgsl_by_dib_scatterplot.png")
 final_df = mrg.sort_values(['pct100_ngsl'], ascending=False)
 #print(final_df[pd.isna(final_df.pct100str_ngsl)])
 
-final_df['md_row'] = ('| ' + final_df.lang_ngsl + 
+final_df['md_row'] = ('| ' + final_df.lang_ngsl +
                      ' | ' + final_df.lang_desc_ngsl +
-                     ' | ' + final_df.num_ngsl.astype(str) + 
-                     ' (' + final_df.pct100str_ngsl.astype(str) + 
-                     ')| ' + final_df.num_dib.astype(str) + 
-                     ' (' + final_df.pct100str_dib.astype(str) + 
+                     ' | ' + final_df.num_ngsl.astype(str) +
+                     ' (' + final_df.pct100str_ngsl.astype(str) +
+                     ')| ' + final_df.num_1_ngsl.astype(str) +
+                     ' (' + final_df.pct100str_1_ngsl.astype(str) +
+                     ')| ' + final_df.num_2_ngsl.astype(str) +
+                     ' (' + final_df.pct100str_2_ngsl.astype(str) +
+                     ')| ' + final_df.num_3_ngsl.astype(str) +
+                     ' (' + final_df.pct100str_3_ngsl.astype(str) +
+                     ')| ' + final_df.num_4_ngsl.astype(str) +
+                     ' (' + final_df.pct100str_4_ngsl.astype(str) +
+                     ')| ' + final_df.num_5_ngsl.astype(str) +
+                     ' (' + final_df.pct100str_5_ngsl.astype(str) +
+                     ')| ' + final_df.num_dib.astype(str) +
+                     ' (' + final_df.pct100str_dib.astype(str) +
                      ')|')
 final_df['md_row'].to_csv(MD_ROW_FILE, sep='\t', quoting=csv.QUOTE_NONE, index=False)
 

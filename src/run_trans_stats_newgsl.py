@@ -29,7 +29,10 @@ TRANS_LANG_SENSE_FILE = '../output/intermediate/tr_lang_sense_newgsl.txt'
 TRANS_LS_ADDL_VARS = ['trans_count','transtop_line','translation']
 
 TRANS_STATS_FILE = '../output/translations/tr_stats_newgsl.txt'
-TRANS_STATS_VARS = ['lang','lang_desc','denom','num','pct100str','pct100']
+SECT_VARS = ['denom','num','pct100str','pct100']
+TRANS_STATS_VARS = ['lang','lang_desc']
+for q in ['','_1','_2','_3','_4','_5']:
+    TRANS_STATS_VARS.extend([item + q for item in SECT_VARS])
 NROWS = None # rows to use from ENWK_TRANS_FILE
 MD_ROW_FILE = '../output/intermediate/tr_stats_newgsl.txt'
 
@@ -52,6 +55,15 @@ def has_trans(x):
         return False
     else:
         return True
+
+def freq_to_cat(x):
+    if x>0 and x <= 500: return 1
+    elif x > 500 and x <= 1000: return 2
+    elif x > 1000 and x <= 1500: return 3
+    elif x > 1500 and x <= 2000: return 4
+    elif x > 2000 and x <= 2497: return 5
+    else:
+        raise ValueError(f'bad freq={x}')
 
 def dupkey(df, vars_, error=True):
     probs = df.duplicated(subset=vars_, keep=False)
@@ -102,8 +114,10 @@ print(t_df)
 # Input deck
 
 df = pd.read_csv(NEWGSL_FILE, sep='\t', quoting=csv.QUOTE_NONE,
-                 usecols=['word_id','newgsl_line','sseq','enwk_pos','enwk_page','enwk_def'],
+                 usecols=['word_id','newgsl_line','sseq','enwk_pos','enwk_page','enwk_def','newgsl_freq_rank'],
                  na_filter=False)
+df['freq_cat'] = df.newgsl_freq_rank.map(freq_to_cat)
+print(df.freq_cat.value_counts())
 word_ids = df[ df.enwk_def != '_NOSENSE' ][['word_id']]
 df.loc[ df.enwk_def == '_NOSENSE', 'enwk_page' ] = ''
 
@@ -130,7 +144,7 @@ x_df['page'] = x_df.enwk_page_1tok.copy()
 # 3. 
 
 tk_df = t_df.merge(
-    x_df[['word_id','newgsl_line','sseq','page','enwk_pos','seq_of_ref']],
+    x_df[['word_id','newgsl_line','sseq','page','enwk_pos','freq_cat','seq_of_ref']],
     how='inner', on=['page'], indicator=True)
 print('\nPrinting tk_df')
 print(tk_df[ tk_df.word_id == 'NBG_as_con'][['word_id','page','enwk_pos','transtop_line','enwk_part_of_speech']])
@@ -174,10 +188,15 @@ tk_long[TRANS_AVAIL_VARS + TRANS_LS_ADDL_VARS].to_csv(
 #   all `word_id` records are True
 
 tk_for_summ = tk_long.groupby(
-       ['word_id','newgsl_line','sseq','lang'])['has_trans'].agg(any).reset_index()
+       ['word_id','newgsl_line','sseq','lang','freq_cat'])['has_trans'].agg(any).reset_index()
 print(tk_for_summ)
 
 final_df = tk_for_summ.groupby('lang').apply(calc_has_trans_freq, include_groups=False)
+for q in [1,2,3,4,5]:
+    tk_for_summ_subset = tk_for_summ[tk_for_summ.freq_cat == q]
+    add_df = tk_for_summ_subset.groupby('lang').apply(calc_has_trans_freq, include_groups=False)
+    final_df = final_df.merge(add_df, left_index=True, right_index=True, how='inner',
+                              suffixes=('', f'_{q}'))
 final_df = final_df.sort_values(by='pct100', ascending=False)
 final_df.reset_index(inplace=True)
 final_df['lang_desc'] = final_df.lang.map(lambda x: LANG_DICT[x])
@@ -193,3 +212,6 @@ deck_copy['avail'] = deck_copy.enwk_def.map(lambda x: x if x.startswith('_') els
 deck_copy.loc[deck_copy.word_id.isin(unexnm.word_id), 'avail'] = '_UNEXNM'
 print(deck_copy.avail.value_counts())
 print(deck_copy.avail.value_counts(normalize=True))
+haslink = deck_copy[deck_copy.avail == 'LINK']
+print(haslink.freq_cat.value_counts())
+print(haslink.freq_cat.value_counts(normalize=True))
