@@ -32,7 +32,7 @@ from extract_enwk_trans import extract_enwk_trans
 # Dump or file export from Wikimedia. See `extract_enwk_trans` docstring for
 # considerations.
 INPUT_FILE = ('../input/enwk/'
-              'enwiktionary-20260801-pages-articles-multistream.xml.bz2')
+              'enwiktionary-20260701-pages-articles-multistream.xml.bz2')
 MAX_PAGES = None # int or None (no maximum)
 
 OUT_TRANS_FILE = '../output/intermediate/en_all_trans.txt'

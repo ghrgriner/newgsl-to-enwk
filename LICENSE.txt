@@ -43,8 +43,8 @@ License and Attribution information for English Language Wiktionary.
 --------------------------------------------------------------------
 
 The repository contains programs designed to work with selected information
-from the August 2026 dump file of the English Language Wiktionary from:
-    https://dumps.wikimedia.org/enwiktionary/20260801/
+from the July 2026 dump file of the English Language Wiktionary from:
+    https://dumps.wikimedia.org/enwiktionary/20260701/
 
 Wiktionary licenses this text under the Creative Commons Attribution-ShareAlike
 4.0 International (CC BY-SA 4.0).
