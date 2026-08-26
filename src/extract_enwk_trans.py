@@ -17,7 +17,7 @@
 
 '''Extract translations for selected languages from English Wiktionary
 
-See `extract_enwk_trans` docstring below for details.
+See `extract_enwk_tr_wide` docstring below for details.
 '''
 
 import bz2
@@ -149,7 +149,7 @@ def _process_mainspace_page(opf, otf_writer, title, word, languages):
 #-----------------------------------------------------------------------------
 # Public Functions
 #-----------------------------------------------------------------------------
-def extract_enwk_trans(input_file, languages, output_trans_file,
+def extract_enwk_tr_wide(input_file, languages, output_trans_file,
                        output_page_file, max_pages=None):
     '''Create file of translations from English Wiktionary dump/export.
 

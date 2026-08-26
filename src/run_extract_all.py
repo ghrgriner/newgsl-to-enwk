@@ -23,7 +23,7 @@ See `extract_enwk_trans` docstring for extraction details.
 '''
 
 from all_languages import LANGUAGES
-from extract_enwk_trans import extract_enwk_trans
+from extract_enwk_trans import extract_enwk_tr_wide
 
 #-----------------------------------------------------------------------------
 # Parameters
@@ -35,13 +35,13 @@ INPUT_FILE = ('../input/enwk/'
               'enwiktionary-20260701-pages-articles-multistream.xml.bz2')
 MAX_PAGES = None # int or None (no maximum)
 
-OUT_TRANS_FILE = '../output/intermediate/en_all_trans.txt'
-OUT_PAGE_FILE = '../output/intermediate/en_all_pages.txt'
+OUT_TRANS_FILE = '../output/intermediate/en_sel_wide_trans.txt'
+OUT_PAGE_FILE = '../output/intermediate/en_sel_wide_pages.txt'
 
 #-----------------------------------------------------------------------------
 # Main entry point
 #-----------------------------------------------------------------------------
-extract_enwk_trans(input_file=INPUT_FILE,
+extract_enwk_tr_wide(input_file=INPUT_FILE,
                    max_pages=MAX_PAGES,
                    languages=LANGUAGES,
                    output_trans_file=OUT_TRANS_FILE,
