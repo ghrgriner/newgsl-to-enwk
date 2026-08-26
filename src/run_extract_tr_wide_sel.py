@@ -32,8 +32,8 @@ This was previously called `extract_enwk_trans`.
 This was previously called `run_extract_all.py` and it created
 `../output/intermediate/en_all_trans.txt` and `en_all_pages.txt`.
 
-See `selected_langs.py` docstring for why this is 'almost all' and not
-'all'.
+See `selected_langs.py` docstring for why this is 'some' and not 'all'
+languages.
 
 See `extract_enwk_tr_wide` docstring for extraction details.
 '''
