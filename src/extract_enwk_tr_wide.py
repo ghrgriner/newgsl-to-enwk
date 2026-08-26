@@ -18,6 +18,18 @@
 '''Extract translations for selected languages from English Wiktionary
 
 See `extract_enwk_tr_wide` docstring below for details.
+
+DO NOT USE. This program is kept for historical purposes and has been
+replaced by another program. We will eventually remove it from the working
+directory and keep the history in the repository, but for now we keep it.
+
+It was replaced because it was only retrieving translation information for
+selected languages and was only identifying languages by their current
+line. We would like at least one output table/file that reports on
+translation completion for all languages. We also want to use the hierarchy
+information when necessary to identify the languages.
+
+This was previously called `extract_enwk_trans`.
 '''
 
 import bz2

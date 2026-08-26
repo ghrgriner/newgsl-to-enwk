@@ -17,13 +17,28 @@
 
 '''Extract almost all translations from English Wiktionary
 
+DO NOT USE. This program is kept for historical purposes and has been
+replaced by another program. We will eventually remove it from the working
+directory and keep the history in the repository, but for now we keep it.
+
+It was replaced because it was only retrieving translation information for
+selected languages and was only identifying languages by their current
+line. We would like at least one output table/file that reports on
+translation completion for all languages. We also want to use the hierarchy
+information when necessary to identify the languages.
+
+This was previously called `extract_enwk_trans`.
+
+This was previously called `run_extract_all.py` and it created
+`../output/intermediate/en_all_trans.txt` and `en_all_pages.txt`.
+
 See `all_languages.py` docstring for why this is 'almost all' and not 'all'.
 
-See `extract_enwk_trans` docstring for extraction details.
+See `extract_enwk_tr_wide` docstring for extraction details.
 '''
 
 from all_languages import LANGUAGES
-from extract_enwk_trans import extract_enwk_tr_wide
+from extract_enwk_tr_wide import extract_enwk_tr_wide
 
 #-----------------------------------------------------------------------------
 # Parameters
