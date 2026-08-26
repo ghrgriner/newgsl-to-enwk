@@ -38,7 +38,7 @@ languages.
 See `extract_enwk_tr_wide` docstring for extraction details.
 '''
 
-from all_languages import LANGUAGES
+from selected_langs import LANGUAGES
 from extract_enwk_tr_wide import extract_enwk_tr_wide
 
 #-----------------------------------------------------------------------------
