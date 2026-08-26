@@ -15,7 +15,7 @@
 #   along with this program.  If not, see <https://www.gnu.org/licenses/>.
 #------------------------------------------------------------------------------
 
-'''Extract almost all translations from English Wiktionary
+'''Extract (wide) translations for some languages from English Wiktionary
 
 DO NOT USE. This program is kept for historical purposes and has been
 replaced by another program. We will eventually remove it from the working
@@ -32,7 +32,8 @@ This was previously called `extract_enwk_trans`.
 This was previously called `run_extract_all.py` and it created
 `../output/intermediate/en_all_trans.txt` and `en_all_pages.txt`.
 
-See `all_languages.py` docstring for why this is 'almost all' and not 'all'.
+See `selected_langs.py` docstring for why this is 'almost all' and not
+'all'.
 
 See `extract_enwk_tr_wide` docstring for extraction details.
 '''

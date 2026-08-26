@@ -75,7 +75,7 @@ def _check_for_duplicate_lang_codes(languages):
     dup_lang_codes = [item for item, count in counts.items() if count > 1]
     if dup_lang_codes:
         print(dup_lang_codes)
-        raise ValueError('Duplicate language codes in all_languages.py')
+        raise ValueError('Duplicate language codes in selected_langs.py')
 
 def writerow(otf_writer, trec):
     data = ([trec.title, trec.h3, trec.h4, trec.transtop_line]
@@ -200,7 +200,7 @@ def extract_enwk_tr_wide(input_file, languages, output_trans_file,
         Note that not all languages can be extracted using this program
         if the text string that starts the line is used for multiple
         languages, which can occur by the line is a subheading. See
-        `all_languages.py` for slightly more details.
+        `selected_langs.py` for slightly more details.
     max_pages: int or None
         Specify maximum number of pages to process. None will process all
         pages.
