@@ -76,6 +76,13 @@ print(df.columns)
 #df_nodups = df[~df[PIVOT_KEY + ['lang_name1','lang_name2','lang_name3','has_trans']
 #                  ].duplicated(keep='last')
 #              ]
+print(df.has_trans.value_counts())
+print(f'Unique lang_name1: {len(df.lang_name1.unique())}')
+
+print(f'Pages with at least one translation: '
+      f'{len(df[df.has_trans == "Y"][["page"]].drop_duplicates())}')
+print(f'Translation table entries with at least one translation: '
+      f'{len(df[df.has_trans == "Y"][["page","tteseq"]].drop_duplicates())}')
 
 df_summ = df.groupby(
               ['lang_name1','lang_name2','lang_name3','has_trans']

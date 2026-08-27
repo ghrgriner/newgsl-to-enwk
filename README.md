@@ -1,6 +1,6 @@
 # Overview
 
-This project has two objectives. The objectives are:
+This project has four objectives. The objectives are:
 
 1. Slightly modify an open-source word list, so that
    all entries are linked to Wiktionary pages and part of speech headings
@@ -11,9 +11,18 @@ This project has two objectives. The objectives are:
    and provide programs for users to extract these translations
    (but not fully transclude the wikitext in the translations).
 
+3. Present the results for #2 alongside similar results we have
+   [previously generated](#similiar-project-using-vocabulary-from-a-first-year-German-textbook-and-grammar)
+   using a vocabulary list from an open-source first-year German
+   textbook.
+
+4. Assess translation availability on all English-language entries
+   in Wiktionary.
+
 ## Source of vocabulary list
 
-The word list used is the New General Service List (new-GSL) of
+The word list used for Objectives 1 and 2 is the
+New General Service List (new-GSL) of
 Brezina and Gablasova (2013) [[1]](#References).
 
 Selected information from the English-language Wiktionary is also
@@ -25,7 +34,7 @@ details for the above-listed resources and for this repository.
 # Wiki
 
 The repository wiki has additional details related to the above
-objectives as well as summary results for Objective 2.
+objectives as well as summary results for Objectives 2-4.
 
 # Similar project using vocabulary from a first-year German textbook and grammar
 
