@@ -14,7 +14,10 @@ import numpy as np
 # Suppress the fragmentation performance warning
 warnings.simplefilter(action="ignore", category=pd.errors.PerformanceWarning)
 
-def lev12_to_code(level1, level2):
+def lev12_to_code(level1, level2, level3):
+    if (not pd.isna(level3)) and level3 != '':
+        return ''
+
     if not level2:
         return DESC_TO_CODE_DICT.get(level1 + ':', '')
     else:
@@ -36,8 +39,9 @@ for lang_code, lang_desc in LANGUAGES:
         raise ValueError(f'{lang_desc} already exists!')
     DESC_TO_CODE_DICT[lang_desc] = lang_code
 
-df['lang_code'] = [ lev12_to_code(level1, level2) for
-                    level1, level2 in df[['lev1','lev2']].values ]
+df['lang_code'] = [ lev12_to_code(level1, level2, level3) for
+                    level1, level2, level3 in df[['lev1','lev2','lev3']].values ]
+print(df[ df.trans.str.contains(r'da\|ordbog') ])
 df['count_line'] = [ countit(level2, trans) for level2, trans in df[['lev2','trans']].values ]
 df['trans_count'] = df.groupby(PIVOT_KEY)['count_line'].transform('sum')
 df['trans_count'] = df['trans_count'].fillna(0)
