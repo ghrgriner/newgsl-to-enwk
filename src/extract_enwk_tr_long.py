@@ -90,7 +90,7 @@ def _process_mainspace_page(opf, otf_writer, title, word, ctr):
     lines = word.wikitext.split('\n')
     english_entries = 0
     in_english = False
-    pending_trec = False        
+    pending_trec = False
     for line in lines:
         if line == '==English==':
             if not english_entries:  # only write once per file
@@ -213,17 +213,35 @@ def extract_enwk_tr_long(input_file, output_trans_file,
                 starts with 'transtop'
         - h3:   Third-level header for section with translation table
         - h4:   Fourth-level header for section with translation table
-        - lev1: First-level header within one section of a translation
-                table. These are formated as '* [LANGUAGE DESC]:'
-        - lev2: Second-level header within one section of a translation
-                table. These are formated as '*: [LANGUAGE DESC]:'
-        - lev3: Third-level header within one section of a translation
-                table. These are formated as '*:: [LANGUAGE DESC]:'
+        - lang_name_b1: First-level header (including the language name and
+                bullet) within one section of a translation table. These
+                are from lines formatted as '* [LANGUAGE NAME]:', but the
+                ':' is not included in the output. In cases where the
+                headings are hiearchical / indented, this value is stored
+                and repeated on the file records that give the later
+                headings. For example, for Serbo-Croatian, there will be
+                one row with `lang_name_b1 == '* Serbo-Croatian'` and
+                `trans` empty, and then a row with
+                `lang_name_b1 == '* Serbo-Croatian'` and
+                `lang_name_b2 == '*: Cyrillic'` with `trans` populated, and
+                then a row with
+                `lang_name_b1 == '* Serbo-Croatian'` and
+                `lang_name_b2 == '*: Latin'` with `trans` populated.
+
+                Lastly, note that this field is simply any text starting
+                with '* ' until a colon. We do not check here whether the
+                text actually contains a language name.
+        - lang_name_b2: Second-level header within one section of a
+                translation table. These are from lines formatted as
+                '*: [LANGUAGE NAME]:'.
+        - lang_name_b3: Third-level header within one section of a
+                translation table. These are from lines formatted as
+                '*: [LANGUAGE NAME]:'.
         - has_trans: Indicates Y/N if a translation is present. This is
                 determined by checking `trans != ''` and
                 `'t-needed' not in trans`
         - trans: Translation from the translation table (i.e., text after
-                the colon following the language description). 
+                the colon following the language name).
                 `str.strip()` is called on the text before saving.
     output_page_file: str
         File name of output file with page information. This file will
@@ -247,7 +265,9 @@ def extract_enwk_tr_long(input_file, output_trans_file,
                             quoting=csv.QUOTE_NONE,
                             quotechar=None,
                             lineterminator='\n')
-        writer.writerow(['page','eeseq','tteseq','transtop_line','h3','h4','lev1','lev2','lev3','has_trans','trans'])
+        writer.writerow(['page','eeseq','tteseq','transtop_line','h3','h4',
+                         'lang_name_b1','lang_name_b2','lang_name_b3',
+                         'has_trans','trans'])
         context = ET.iterparse(f, events=('end',))
 
         _, root = next(context)

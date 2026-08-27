@@ -16,7 +16,7 @@ Note that this program creates a dummy `note_class` that is always 'C'.
 #------------------------------------------------------------------------------
 # Parameters
 #------------------------------------------------------------------------------
-ENWK_TRANS_FILE = '../output/intermediate/en_sel_wide_trans_fl.txt'
+ENWK_TRANS_FILE = '../output/intermediate/en_sel_wide_trans.txt'
 #DECK_FILE = '../output/deck/dib_deck.txt'
 #DECK_FIELDS_FILE = '../output/deck/dib_deck_fields.txt'
 NEWGSL_FILE = '../output/deck/newgsl_deck.txt'
