@@ -33,7 +33,8 @@ details for the above-listed resources and for this repository.
 
 # Wiki
 
-The repository wiki has additional details related to the above
+The repository [wiki](https://github.com/ghrgriner/newgsl-to-enwk/wiki)
+has additional details related to the above
 objectives as well as summary results for Objectives 2-4.
 
 # Similar project using vocabulary from a first-year German textbook and grammar
