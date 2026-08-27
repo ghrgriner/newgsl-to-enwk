@@ -8,8 +8,14 @@ in the src/ directory for the license.
 -------------------------------------------------------------
 License and attribution information for files in input/ and output/ directories.
 -------------------------------------------------------------
-Files in the input/ and output/ directories are made available
+Most files in the input/ and output/ directories are made available
 under the CC BY 3.0 license.
+
+These files are:
+    1. output/deck/newgsl_deck.txt
+    2. output/translations/tr_stats_newgsl.txt
+    3. output/translations/newgsl_by_dib_scatterplot.png
+    4. output/translations/tr_comp_by_freq_cat_[N].png, for N=1, 2, etc.
 
 URL of a human-readable summary of the CC BY 3.0 license:
     https://creativecommons.org/licenses/by/3.0/.
@@ -49,11 +55,20 @@ from the July 2026 dump file of the English Language Wiktionary from:
 Wiktionary licenses this text under the Creative Commons Attribution-ShareAlike
 4.0 International (CC BY-SA 4.0).
 
-The analysis results that we upload to the repository are summaries (counts
+Many of the analysis results that we upload to the repository are summaries (counts
 and proportions) based on the data in Wiktionary. Users who run these
 programs themselves and generate the detail-level intermediate data
 files should be aware that these intermediate files will contain both
 CC BY 3.0 data and CC BY-SA 4.0 data.
+
+The repository file 'output/translations/count_trans_all_langs.txt' has
+columns `lang_name1` - `lang_name3` created by extracting the language
+names used in translation table entries of English-language entries. The
+combinations are modified slightly from what is present in Wiktionary.
+In particular, we deleted values where we extracted a second-level language
+name with no matching first-level language name. A small number of combinations
+that we think reflect data formatting or entry errors (or non-standard approaches)
+were also omitted. These are listed in 'input/not_lang_names.txt'.
 
 --------------------------------------------------------------------
 License and Attribution information for New General Service List (new-GSL) 
@@ -186,6 +201,46 @@ The repository https://github.com/ghrgriner/deutsch-im-blick has the
 vocabulary list and the programs we used to calculate the counts.
 The deutsch-im-blick repository is distributed under a different license
 than this repository.
+
+-------------------------------------------------------------
+License and attribution information for CC BY-SA 4.0 files in input/ and output/ directories.
+-------------------------------------------------------------
+The following files in the input and output directories are made available
+under the CC BY-SA 4.0 license:
+
+    1. input/not_lang_names.txt
+    2. output/translations/count_trans_all_langs.txt
+
+URL of a human-readable summary of the CC BY-SA 4.0 license:
+    https://creativecommons.org/licenses/by-sa/4.0/.
+
+URL of the license itself. The summary is not a substitute for the license:
+    https://creativecommons.org/licenses/by-sa/4.0/legalcode.
+
+Note the disclaimer of warranties in the CC BY-SA 4.0 license:
+
+Section 5 – Disclaimer of Warranties and Limitation of Liability.
+
+    Unless otherwise separately undertaken by the Licensor, to the extent
+possible, the Licensor offers the Licensed Material as-is and as-available,
+and makes no representations or warranties of any kind concerning the
+Licensed Material, whether express, implied, statutory, or other. This
+includes, without limitation, warranties of title, merchantability, fitness
+for a particular purpose, non-infringement, absence of latent or other
+defects, accuracy, or the presence or absence of errors, whether or not
+known or discoverable. Where disclaimers of warranties are not allowed in
+full or in part, this disclaimer may not apply to You.
+    To the extent possible, in no event will the Licensor be liable to You
+on any legal theory (including, without limitation, negligence) or
+otherwise for any direct, special, indirect, incidental, consequential,
+punitive, exemplary, or other losses, costs, expenses, or damages arising
+out of this Public License or use of the Licensed Material, even if the
+Licensor has been advised of the possibility of such losses, costs,
+expenses, or damages. Where a limitation of liability is not allowed in
+full or in part, this limitation may not apply to You.
+    The disclaimer of warranties and limitation of liability provided above
+shall be interpreted in a manner that, to the extent possible, most closely
+approximates an absolute disclaimer and waiver of all liability.
 
 ---------------------------------------------------------------------------
 

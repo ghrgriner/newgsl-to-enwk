@@ -1,0 +1,24 @@
+lang_name1	lang_name2	comment
+ Irish	
+French	''See also
+German	''Germany since 1958 has a unified [[state examination|exam]] to qualify as an attorney, public prosecutor and judge''
+German	''internationally
+Japanese	{{qualifier|Kansai}}+
+Korean	{{sense|general greeting}}
+Macedonian	{{q|of animals}}
+Russian	Age of Sail
+Russian	Historical
+Russian	Latin
+Russian	Modern
+Russian	dreadnoughts and later designs
+Russian	large steam-powered boat
+Russian	motor torpedo boat
+Russian	pre-dreadnought designs
+Russian	small steam-powered boat
+Serbo-Croatian	Дебрецин
+Spanish	Less spread out
+Spanish	More spread out
+{{R	
+Βulgarian		Not latin script
+Мongolian		Not latin script
+Мongolian	Cyrillic	Not latin script

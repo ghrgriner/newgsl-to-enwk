@@ -1,0 +1,5707 @@
+lang_name1	lang_name2	lang_name3	n_tte_w_tr	n_tte_wo_tr
+'Are'are			17	0
+A-Pucikwar			4	0
+Aari			18	0
+Aasax			6	0
+Aba			2	0
+Abaga			14	0
+Abai			1	0
+Abanyom			4	0
+Abau			19	0
+Abaza			138	0
+Abenaki			100	1
+Abhkazian			1	0
+Abidji			1	0
+Abinomn			16	0
+Abipón			1	0
+Abishira			0	1
+Abkhaz			1173	28
+Abom			1	0
+Abon			1	0
+Abron			0	2
+Abu			3	1
+Abu'			4	0
+Abua			2	0
+Abui			1	0
+Abun			1	0
+Abung			3	0
+Abure			1	0
+Abé			1	0
+Acehnese			300	23
+Achaemenid Elamite			1	0
+Achagua			2	0
+Achang			8	2
+Achang	Ngochang		1	0
+Achehnese			1	0
+Acheron			1	0
+Achi			4	0
+Acholi			18	1
+Achuar			11	2
+Achumawi			2	0
+Aché			4	0
+Adamorobe Sign Language			0	1
+Adang			2	0
+Adangme			16	0
+Adele			3	0
+Adi			1	0
+Adioukrou			1	0
+Adnyamathanha			20	0
+Adyghe			1	1
+Adzera			2	0
+Aeka			1	0
+Aekyom			1	0
+Afade			1	0
+Afar			238	31
+Afghan Sign Language			0	3
+Afrikaans			10022	169
+Agarabi			2	0
+Agatu			1	0
+Aghem			1	0
+Aghu Tharrnggala			1	0
+Aghul			22	0
+Aghwan			280	32
+Agi			2	0
+Agob			1	0
+Agta			0	87
+Agta	Alabat Island Agta		1	0
+Agta	Camarines Norte Agta		2	0
+Agta	Casiguran Dumagat Agta		9	0
+Agta	Central Cagayan Agta		4	0
+Agta	Dicamay Agta		1	0
+Agta	Dinapigue Agta		1	0
+Agta	Dupaningan Agta		80	0
+Agta	Nagtipunan Agta		1	0
+Agta	Pahanan Agta		1	0
+Agta	Remontado Agta		2	0
+Agta	Umiray Dumaget Agta		1	0
+Aguacatec			1	0
+Aguacateca			1	0
+Aguaruna			21	0
+Agutaynen			7	0
+Ahanta			1	0
+Ahirani			3	0
+Ahom			141	1
+Ahtna			268	0
+Ahwai			1	0
+Ai-Cham			2	0
+Aikanã			1	0
+Aimele			2	0
+Ainu			421	20
+Airoran			0	1
+Aisi			2	0
+Aiton			17	44
+Aja (East Africa)			3	0
+Aja (West Africa)			8	1
+Ajië			8	2
+Ak			0	1
+Aka (Central Africa)			1	0
+Aka-Bea			2	0
+Aka-Bo			2	0
+Aka-Cari			2	0
+Aka-Kede			2	0
+Aka-Kora			1	0
+Akan			299	33
+Akan	Fante Akan		1	0
+Akan	Twi Akan		3	0
+Akar-Bale			1	0
+Akatek			11	0
+Akawaio			11	0
+Ake			1	0
+Akebu			1	0
+Akei			1	0
+Akha			1	1
+Akhvakh			6	0
+Akkadian			342	7
+Akkala Sami			1	0
+Aklanon			275	26
+Akolet			1	0
+Akoose			2	0
+Akoye			2	0
+Akpa			1	0
+Akpes			1	0
+Akrukay			0	1
+Akuntsu			1	0
+Akurio			2	0
+Al-Sayyid Bedouin Sign Language			0	2
+Alaba			4	0
+Alabama			163	0
+Alago			1	0
+Alagwa			0	1
+Alak			1	0
+Alamblak			2	0
+Alangan			4	0
+Alawa			17	1
+Albanian			10562	719
+Albanian	Arbëresh		1	0
+Albanian	Arbëresh Albanian		27	0
+Albanian	Archaic Albanian		1	0
+Albanian	Arvanitika		1	0
+Albanian	Arvanitika Albanian		6	0
+Albanian	Gheg Albanian		80	1
+Albanian	Old Albanian		12	0
+Albanian	Tosk Albanian		7	1
+Albanian 			2	0
+Alekano			4	0
+Aleut			173	8
+Aleut	Atka		3	0
+Aleut	Attu		4	0
+Aleut	Eastern		8	0
+Aleut	Western		4	0
+Algerian Sign Language			0	4
+Algonquin			37	0
+Ali			1	0
+Alladian			1	0
+Alsatian Alemannic German			2	0
+Alsea			2	0
+Alta			0	1
+Alta	Northern Alta		1	0
+Alta	Southern Alta		1	0
+Altai			0	1655
+Altai	Northern Altai		188	1
+Altai	Southern Altai		1648	1
+Altai	Southern Altai	Southern Altai	1	0
+Altai	Southern Altai	Telengit	1	0
+Altai	Teleut		1	0
+Alumu-Tesu			1	0
+Alune			4	0
+Alur			2	0
+Alutiiq			82	1
+Alutor			39	0
+Alviri-Vidari			49	21
+Alviri-Vidari	Vidari		21	0
+Alyawarr			3	0
+Ama			23	0
+Amahai			2	0
+Amahuaca			2	0
+Amaimon			3	0
+Amal			7	0
+Amami Ōshima			0	54
+Amami Ōshima	Northern Amami Ōshima		38	3
+Amami Ōshima	Southern Amami Ōshima		37	5
+Amanab			5	0
+Amanayé			2	0
+Amara			1	0
+Amarakaeri			1	1
+Amaric			1	0
+Amarizana			1	0
+Amasi			2	0
+Ambai			2	0
+Ambakich			1	0
+Ambele			1	0
+Amblong			1	0
+Ambonese Malay			57	1
+Ambulas			3	0
+Amdang			1	1
+Amele			2	0
+American Sign Language			432	7
+Amharic			2531	37
+Amharic	Egyptian Arabic		1	0
+Ami			1	0
+Amis			87	6
+Ammonite			2	0
+Amol			1	0
+Amondawa			4	0
+Amurdag			2	0
+Amuzgo			0	85
+Amuzgo	Guerrero Amuzgo		59	0
+Amuzgo	San Pedro Amuzgos Amuzgo		36	0
+Anaang			1	0
+Anakalangu			2	0
+Anambé			2	0
+Anauyá			1	0
+Ancient			1	0
+Ancient Greek			5	0
+Ancient Macedonian			2	0
+Andegerebinha			0	1
+Andi			87	0
+Andio			2	0
+Andoa			1	0
+Andoque			2	0
+Andoquero			1	0
+Andra-Hus			1	0
+Aneityum			4	0
+Anem			1	0
+Aneme Wake			8	0
+Angaataha			5	0
+Angal Enen			2	0
+Angami			3	0
+Angevin			1	0
+Angika			19	3
+Anglo-Norman			1	0
+Anglo-Saxon			1	0
+Angloromani			4	0
+Angolar			3	0
+Angor			9	0
+Angoram			1	0
+Anii			1	0
+Animere			1	0
+Anindilyakwa			3	2
+Anjam			1	0
+Ankave			3	0
+Anmatyerre			3	0
+Annobonese			3	0
+Anong			1	0
+Ansus			3	0
+Antigua and Barbuda Creole English			28	0
+Antillean Creole			195	4
+Antillean Creole	Grenadian		1	0
+Antillean Creole	Martinican Creole		11	0
+Anuak			1	0
+Anufo			1	0
+Anuki			2	0
+Anus			3	0
+Anuta			5	0
+Anyi			7	2
+Anāl			1	0
+Ao			1	192
+Aoheng			4	0
+Aore			1	0
+Apabhramsa			2	1
+Apabhramsa	Devanagari		1	0
+Apabhramsa	Sharada		1	0
+Apache			0	405
+Apache	Chiricahua		34	2
+Apache	Jicarilla		43	0
+Apache	Lipan		5	0
+Apache	Plains Apache		9	1
+Apache	Western Apache		375	5
+Apachean			0	1
+Apachean	Navajo		0	1
+Apachean	Western Apache		1	0
+Apalachee			1	0
+Apalaí			15	0
+Apali			1	0
+Apatani			4	1
+Apiaká			5	0
+Apinayé			10	0
+Apma			1	0
+Apurinã			5	0
+Aputai			2	0
+Arab			0	1
+Arabana			1	0
+Arabela			3	0
+Arabian			1	0
+Arabic			27767	2159
+Arabic	Algerian Arabic		72	0
+Arabic	Andalusian Arabic		6	1
+Arabic	Baghdadi Arabic		1	0
+Arabic	Baharna Arabic		4	2
+Arabic	Chadian Arabic		120	2
+Arabic	Cypriot Arabic		13	0
+Arabic	Dhofari Arabic		1	1
+Arabic	Egypt		1	0
+Arabic	Egyptian Arabic		3127	5
+Arabic	Gulf Arabic		599	0
+Arabic	Hassaniya Arabic		6	1
+Arabic	Hassaniyyah Arabic		1	0
+Arabic	Hijazi Arabic		2129	0
+Arabic	Iraqi Arabic		134	1
+Arabic	Juba Arabic		65	0
+Arabic	Judeo-Arabic		2	0
+Arabic	Levantine Arabic		2	0
+Arabic	Libyan Arabic		30	1
+Arabic	Mesopotamian Arabic		4	0
+Arabic	Moroccan Arabic		1273	5
+Arabic	Najdi Arabic		14	1
+Arabic	North Levantine Arabic		299	3
+Arabic	North Mesopotamian Arabic		6	1
+Arabic	Omani Arabic		2	0
+Arabic	South Levantine Arabic		718	3
+Arabic	Sudanese Arabic		35	1
+Arabic	Tunisian Arabic		130	1
+Arabic	Yemeni Arabic		18	1
+Arabic	ِEgyptian Arabic		1	0
+Arabic 			1	0
+ArabicArabic			0	1
+ArabicArabic	Egyptian Arabic		1	0
+Aragonese			1313	83
+Araki			7	0
+Aramaic			231	2040
+Aramaic	Aramaic		1	0
+Aramaic	Assyrian Neo-Aramaic		1188	52
+Aramaic	Biblical Aramaic		5	0
+Aramaic	Bohtan Neo-Aramaic		0	1
+Aramaic	Chaldean Neo-Aramaic		0	1
+Aramaic	Christian Palestinian Aramaic		13	0
+Aramaic	Classical Mandaic		13	2
+Aramaic	Classical Syriac		772	13
+Aramaic	Classical Syriac	East Syriac	1	0
+Aramaic	Classical Syriac	West Syriac	1	0
+Aramaic	Galilean Aramaic		1	0
+Aramaic	Hatran/Ashurian Aramaic		1	0
+Aramaic	Hebrew script		199	0
+Aramaic	Hulaulá		0	1
+Aramaic	Hértevin		0	1
+Aramaic	Imperial		1	0
+Aramaic	Imperial Aramaic		7	0
+Aramaic	Jewish		15	0
+Aramaic	Jewish Aramaic		62	0
+Aramaic	Jewish Babylonian Aramaic		119	0
+Aramaic	Jewish Literary Aramaic		6	0
+Aramaic	Jewish Neo-Aramaic		4	0
+Aramaic	Jewish Northeastern Neo-Aramaic		1	0
+Aramaic	Jewish Palestinian Aramaic		28	0
+Aramaic	Koy Sanjaq Surat		0	1
+Aramaic	Lishana Deni		15	1
+Aramaic	Lishanid Noshan		0	1
+Aramaic	Lishán Didán		0	1
+Aramaic	Mandaic		13	2
+Aramaic	Mlahsö		0	1
+Aramaic	Nabataean Aramaic		1	0
+Aramaic	Palestinian		3	0
+Aramaic	Palestinian Aramaic		1	0
+Aramaic	Palmyrene Aramaic		4	0
+Aramaic	Samaritan Aramaic		4	0
+Aramaic	Senaya		0	2
+Aramaic	Square script		1	0
+Aramaic	Syriac		259	1
+Aramaic	Syriac	Hebrew script	1	0
+Aramaic	Syriac	Syriac	1	0
+Aramaic	Syriac	Western Neo-Aramaic	0	1
+Aramaic	Syriac script		1	0
+Aramaic	Turoyo		21	1
+Aramaic	Western Neo-Aramaic		19	0
+Aramaic	Western/Levantine Aramaic		2	0
+Arammba			0	1
+Aranadan			2	0
+Aranama			1	0
+Araona			4	0
+Arapaho			37	0
+Arara-Karo			2	0
+Araweté			2	0
+Arbore			1	0
+Archi			118	0
+Are			1	0
+Arem			1	0
+Argobba			82	0
+Arguni			1	0
+Arhuaco			2	0
+Ari			3	0
+Aribwatsa			1	0
+Aribwaung			1	0
+Arifama-Miniafia			2	0
+Arikapú			5	0
+Arikara			19	0
+Arin			5	0
+Armenian			23226	1651
+Armenian	Classical Armenian		1	0
+Armenian	Middle Armenian		108	0
+Armenian	Old Armenian		778	4
+Armenian	Western Armenian		4	0
+Armeno-Kipchak			2	0
+Aromanian			1758	12
+Arop-Lokep			1	0
+Arosi			4	0
+Arrernte			0	96
+Arrernte	Eastern Arrernte		89	7
+Arrernte	Western Arrernte		8	1
+Arta			2	0
+Aruop			2	0
+Arutani			1	0
+Aruá			1	0
+Arára (Mato Grosso)			1	0
+Arára (Pará)			5	0
+Asaba			1	0
+Asaro'o			1	0
+Ashe			7	0
+Ashkun			46	0
+Asháninka			13	0
+Ashéninka			0	2
+Ashéninka	Perené Ashéninka		2	0
+Asi			27	0
+Asilulu			3	1
+Asmat			0	1
+Asmat	Central Asmat		1	0
+Assamese			2674	148
+Assamese	Central Assamese		29	0
+Assamese	Early Assamese		31	0
+Assamese	Eastern Assamese		29	0
+Assamese	Middle Assamese		1	1
+Assan			1	0
+Assangori			1	0
+Assiniboine			13	0
+Assyrian Neo-Aramaic			4	1
+Astur-Leonese			0	3
+Astur-Leonese	Asturian		2	0
+Astur-Leonese	Extremaduran		1	0
+Astur-Leonese	Leonese		1	0
+Astur-Leonese	Mirandese		3	0
+Asturian			7602	8
+Asturianu			1	0
+Asu			2	0
+Asumboa			1	0
+Ata			1	0
+Atakapa			4	0
+Atanques			1	0
+Atayal			108	5
+Atemble			1	0
+Ateso			8	1
+Athpare			1	0
+Atikamekw			2	0
+Atohwaim			1	0
+Atong			1	0
+Atong (Cameroon)			1	0
+Atong (India)			55	0
+Atsugewi			2	0
+Atta			0	3
+Atta	Pamplona Atta		3	0
+Attié			1	0
+Au			3	0
+Auhelawa			1	0
+Aukan			44	0
+Aulua			1	0
+Aurá			1	0
+Aushi			1	0
+Auslan			2	1
+Australian Kriol			74	5
+Auyana			1	0
+Auye			1	0
+Avar			692	6
+Avava			1	0
+Avestan			109	2
+Avikam			2	0
+Avá-Canoeiro			2	0
+Awa (China)			0	1
+Awa (New Guinea)			2	0
+Awa-Cuaiquer			4	0
+Awabakal			3	0
+Awadhi			35	4
+Awadhi	Old Awadhi		1	0
+Awar			1	0
+Awera			1	0
+Awetí			2	0
+Awjila			1	0
+Awngi			1	0
+Awtuw			3	0
+Awutu			0	4
+Awyi			1	0
+Axamb			1	0
+Axi			1	0
+Axi Yi			1	0
+Ayabadhu			2	0
+Ayere			2	0
+Aymara			294	30
+Ayomán			2	0
+Ayoreo			1	0
+Ayta			0	5
+Ayta	Abenlen Ayta		3	0
+Ayta	Ambala Ayta		2	2
+Ayta	Mag-Anchi Ayta		2	0
+Ayta	Mag-Indi Ayta		2	0
+Ayu			1	0
+Azerbaijan			2	0
+Azerbaijani			14283	235
+Azerbaijani	Ajami		1	0
+Azerbaijani	Arabic		117	0
+Azerbaijani	Cyrillic		101	0
+Azerbaijani	Iranian Azerbaijani		1	0
+Azerbaijani	Latin		91	0
+Azerbaijani	North Azerbaijani		2	0
+Azerbaijani	South Azerbaijani		41	0
+Azerbijani			4	0
+Azha			1	0
+Baagandji			4	0
+Baan			1	0
+Baatonum			6	0
+Baba Malay			17	0
+Babatana			2	0
+Babine-Witsuwit'en			3	0
+Babole			2	0
+Babungo			2	0
+Babuza			2	0
+Bacama			1	0
+Bactrian			66	0
+Badaga			5	0
+Bade			4	0
+Badeshi			3	0
+Baduy			1	0
+Baekje			11	1
+Bafanji			4	0
+Bafia			1	0
+Bafut			1	0
+Bagirmi			2	0
+Bagri			1	0
+Bagua			1	0
+Bagusa			1	0
+Bagvalal			11	0
+Baha			1	0
+Bahamian Creole			6	0
+Bahing			2	0
+Bahnar			43	0
+Bahonsuai			1	0
+Bai			1	7
+Bai	Central Bai		2	0
+Bai	Lama Bai		2	0
+Bai	Panyi Bai		2	0
+Bai	Southern Bai		4	3
+Baima			1	0
+Baiso			3	0
+Bajan			2	0
+Bajau			0	215
+Bajau	Indonesian Bajau		2	0
+Bajau	West Coast Bajau		186	29
+Baka			2	0
+Bakairí			3	0
+Bakhtiari			78	0
+Bakoko			1	0
+Bakulung			1	0
+Bakumpai			4	0
+Bakung			10	0
+Bala			5	0
+Balaesang			1	0
+Balangao			2	0
+Balanta-Ganja			2	0
+Balanta-Kentohe			1	0
+Balantak			5	0
+Baldemu			2	0
+Balinese			254	6
+Balo			1	0
+Balochi			3	0
+Balti			11	0
+Baluan-Pam			1	0
+Baluchi			278	6
+Bambam			1	0
+Bambara			155	7
+Bambassi			1	0
+Bamu			2	0
+Bamukumbit			1	0
+Bamum			1	0
+Bamunka			1	0
+Bana			2	0
+Banda			2	0
+Banda-Bambari			1	0
+Bandi			1	0
+Bandjalang			10	0
+Bangala			7	0
+Bangandu			1	0
+Banggai			5	0
+Bangi			300	0
+Bangime			1	0
+Bangka			1	0
+Bangla			1	0
+Bangubangu			0	1
+Baniwa			6	0
+Banjarese			110	3
+Banka			1	0
+Bankon			2	0
+Banoni			2	0
+Bantawa			3	0
+Bantik			3	0
+Banyumasan			24	0
+Baoule			7	2
+Barai			1	0
+Baram Kayan			4	0
+Barapasi			1	0
+Barasana			3	0
+Barbareño			2	0
+Bardi			5	0
+Barein			3	0
+Bargam			2	0
+Bari			3	2
+Bariai			2	0
+Bariji			2	0
+Barikewa			2	0
+Barngarla			15	0
+Barok			1	0
+Barombi			1	0
+Barranbinya			1	0
+Barrow Point			0	1
+Bartangi			10	0
+Baruga			4	0
+Baruya			2	0
+Baré			1	0
+Barí			2	0
+Basa			1	0
+Basaa			5	1
+Basap			2	0
+Basay			3	0
+Bashkir			4811	39
+Bashkir	Egyptian Arabic		1	0
+Basketo			1	0
+Baskhort			1	0
+Basque			7339	196
+Basque	Zuberoan		1	0
+Bassa			20	0
+Bassari			1	0
+Batak			1	48
+Batak	Alas-Kluet Batak		1	0
+Batak	Dairi Batak		4	0
+Batak	Karo Batak		26	0
+Batak	Mandailing Batak		4	0
+Batak	Palawan Batak		5	0
+Batak	Simalungun Batak		9	0
+Batak	Toba Batak		35	1
+Batak Toba			1	0
+Batek			4	0
+Bathari			1	0
+Bats			154	8
+Batu			2	0
+Batui			1	0
+Bau			2	0
+Baure			17	0
+Bauro			3	0
+Bauwaki			1	0
+Bauzi			1	0
+Bavarian			2	0
+Baybayanon			2	0
+Beary			2	0
+Beaver			5	0
+Bebe			1	0
+Bedjond			2	0
+Beembe			0	1
+Beezen			1	0
+Begbere-Ejar			1	0
+Beja			14	1
+Bekati'			2	0
+Belait			8	0
+Belanda Bor			1	0
+Belarusian			19059	57
+Belarusian	Latin		22	0
+Belarusian	Traditional		2	0
+Belarussian			2	0
+Beli (New Guinea)			2	0
+Beli (South Sudan)			3	0
+Belizean Creole			68	0
+Belizian Creole			2	0
+Bella Coola			10	0
+Bemba			38	0
+Bembe			0	1
+Bena			1	0
+Benabena			1	0
+Bench			1	0
+Bende			5	0
+Beneraf			1	0
+Beng			1	0
+Bengali			8447	195
+Bengali	Mandarin		1	0
+Bengali	Old Bengali		1	0
+Benyadu'			2	0
+Beothuk			3	0
+Bepour			1	0
+Berau Malay			1	0
+Berawan			8	0
+Berber			1	0
+Berbice Creole Dutch			5	0
+Berik			2	0
+Berom			1	0
+Berta			2	0
+Berti			1	0
+Besisi			3	0
+Betawi			126	0
+Betoi			5	0
+Bezhta			32	0
+Bhilali			1	0
+Bhili			1	0
+Bhojpuri			726	9
+Biak			4	0
+Biangai			1	0
+Biao			2	0
+Bibaali			2	0
+Biblical Hebrew			3	0
+Bidayuh			0	223
+Bidayuh	Bau Bidayuh		159	11
+Bidayuh	Bau-Jagoi		1	0
+Bidayuh	Biatah Bidayuh		52	0
+Bidayuh	Bukar-Sadong (Serian)		1	0
+Bidayuh	Bukar-Sadung Bidayuh		9	0
+Bidiyo			1	0
+Biem			2	0
+Biete			1	0
+Big Nambas			38	0
+Bih			2	0
+Bihari			58	0
+Bikol			1	1462
+Bikol	Bikol central		1	0
+Bikol	Buhi'non Bikol		3	0
+Bikol	Central Bikol		1425	36
+Bikol	Central Bikol	Bikol Daet	1	0
+Bikol	Central Bikol	Bikol Legazpi	22	0
+Bikol	Central Bikol	Bikol Legazpi, Sorsogon	1	0
+Bikol	Central Bikol	Bikol Naga	22	0
+Bikol	Central Bikol	Bikol Partido	1	0
+Bikol	Central Bikol	Bikol Tabaco, Partido	1	0
+Bikol	Central Bikol	Eastern Cham	0	1
+Bikol	Central Bikol	Western Cham	0	1
+Bikol	East Miraya Bikol		4	0
+Bikol	Libon Bikol		3	0
+Bikol	Northern Catanduanes Bikol		8	0
+Bikol	Rinconada Bikol		8	0
+Bikol	Southern Catanduanes Bikol		3	0
+Bikol	West Miraya Bikol		4	0
+Bikol Central			1	0
+Bilba			4	0
+Bilbil			1	0
+Biliau			3	0
+Biloxi			9	0
+Bilua			4	0
+Bilur			1	0
+Bima			6	0
+Bimin			1	0
+Bimoba			1	0
+Binandere			1	0
+Bintulu			3	0
+Binukid			19	0
+Bipi			1	0
+Birgid			1	0
+Birgit			1	0
+Birifor			0	1
+Birifor	Southern Birifor		0	1
+Biritai			1	0
+Biseni			6	0
+Bishnupriya			1	0
+Bislama			187	8
+Bissa			6	0
+Bitare			2	0
+Biwat			1	0
+Blaan			0	3
+Blaan	Koronadal Blaan		2	0
+Blaan	Sarangani Blaan		1	0
+Blackfoot			70	1
+Blackfoot	Latin		1	0
+Blackfoot	Syllabics		1	0
+Blagar			4	0
+Blang			1	0
+Blin			6	1
+Bo-Rukul			1	0
+Boano (Maluku)			1	0
+Boano (Sulawesi)			1	0
+Bobongko			3	0
+Bobot			1	0
+Bodo (Central Africa)			1	0
+Bodo (India)			9	0
+Bodo Gadaba			1	0
+Bofi			1	0
+Bogaya			2	0
+Boghom			2	0
+Bokar			5	0
+Boko			1	0
+Bokobaru			1	0
+Bokoto			1	0
+Bokyi			2	0
+Bola			2	0
+Bolango			1	0
+Bole			52	0
+Bolia			1	0
+Bolinao			7	0
+Boloki			39	0
+Bolyu			1	0
+Bonan			6	1
+Bondei			2	0
+Bondo			1	0
+Bonerate			2	0
+Bonggi			4	0
+Bonggo			2	0
+Bongili			1	0
+Bongo			3	0
+Bonkiman			3	0
+Bontoc			0	67
+Bontoc	Central Bontoc		10	0
+Bontoc	Eastern Bontoc		58	1
+Bookan			8	0
+Boor			1	0
+Bora			3	0
+Borong			1	0
+Borôro			47	0
+Boselewa			1	0
+Botlikh			3	1
+Botolan Sambal			2	0
+Bourbonnais-Berrichon			2	0
+Bourguignon			17	0
+Bouyei			113	10
+Bozo			0	1
+Bozo	Hainyaxo Bozo		1	0
+Bozo	Jenaama Bozo		1	0
+Bragat			1	0
+Brahui			48	1
+Braj			7	0
+Brazilian Sign Language			1	2
+Brem			1	0
+Breton			4075	76
+Breton	Middle Breton		6	0
+Breton	Old Breton		3	0
+Bribri			2	0
+British Sign Language			2	1
+Brokpake			1	0
+Brokskat			1	0
+Broome Pearling Lugger Pidgin			15	0
+Bru			0	7
+Bru	Eastern Bru		6	1
+Brunei Bisaya			27	0
+Bu			1	0
+Buang			0	1
+Buang	Mapos Buang		1	0
+Bube			4	0
+Bubi			1	0
+Budibud			1	0
+Budukh			61	0
+Buduma			1	0
+Budza			1	1
+Bugan			1	0
+Bughotu			3	0
+Buginese			107	3
+Bugun			1	0
+Buhutu			1	0
+Bukat			2	0
+Bukawa			2	0
+Bukhari			6	0
+Bukitan			3	0
+Bukiyip			3	0
+Bukusu			4	0
+Bulgar			1	0
+Bulgaria			0	1
+Bulgarian			58504	3160
+Bulgarian	Gheg Albanian		1	0
+Bulgebi			0	1
+Buli (Ghana)			5	0
+Buli (Indonesia)			3	0
+Bulu (Cameroon)			3	0
+Bulu (New Guinea)			2	0
+Bulungan			3	0
+Bunaba			2	0
+Bunama			2	0
+Bundeli			2	0
+Bungku			2	2
+Bungu			2	0
+Bunu			0	1
+Bunu	Bu-Nao Bunu		1	0
+Bunun			35	1
+Buol			2	0
+Bura			7	0
+Bura Mabang			1	1
+Burarra			10	1
+Burate			0	1
+Burji			4	0
+Burmese			6381	352
+Burmeso			1	0
+Buru (Indonesia)			2	0
+Burumakok			0	1
+Burun			2	0
+Burushaski			23	6
+Burusu			2	0
+Buruwai			1	0
+Buryat			707	2
+Buryat	Old Buryat		12	0
+Busa			1	0
+Busam			1	0
+Busami			1	0
+Busang Kayan			2	0
+Buso			0	1
+Butuanon			23	0
+Buwal			2	0
+Buyang			0	1
+Buyang	E'ma Buyang		1	0
+Buyang	En		1	0
+Buyang	Langnian Buyang		1	0
+Buyang	Yerong		1	0
+Bwa			1	0
+Bwaidoka			1	0
+Bwala			1	0
+Bwanabwana			3	0
+Bwatoo			2	0
+Bwile			1	0
+Byangsi			1	0
+Byzantine Greek			1	0
+Caac			4	0
+Cabiyarí			2	0
+Cabécar			4	0
+Cacua			2	0
+Cacán			1	0
+Caddo			7	0
+Cahuarano			3	0
+Cahuilla			57	0
+Caijia			8	0
+Caka			2	0
+Calamian Tagbanwa			4	0
+Calusa			1	0
+Caluyanun			1	0
+Caló			88	0
+Cambodian			0	1
+Cameroon Pidgin			3	0
+Camsá			4	0
+Candoshi-Shapra			2	0
+Canela			21	0
+Cantonese			1	0
+Capanahua			2	0
+Capiznon			7	0
+Cara			1	0
+Carapana			3	0
+Carian			2	0
+Caribbean Hindustani			13	0
+Carijona			4	0
+Carolinian			6	1
+Carpathian Rusyn			980	44
+Carrier			10	1
+Carrier	Southern Carrier		1	0
+Cashibo-Cacataibo			1	0
+Cashinahua			3	0
+Catacao			2	0
+Catalan			47397	172
+Catalan	Old Catalan		9	0
+Catalan	Valencian		92	0
+Catalan Sign Language			0	6
+Català			3	0
+Catawba			36	1
+Catuquinaru			2	0
+Catío Chibcha			1	0
+Cavineña			4	0
+Cayubaba			1	0
+Cayuga			15	3
+Cebuano			2270	17
+Celtiberian			2	0
+Central Atlas Tamazight			230	0
+Central Bai			1	0
+Central Bikol			43	0
+Central Huasteca Nahuatl			1	0
+Central Kurdish			3	0
+Central Nahuatl			1	0
+Central Siberian Yupik			7	0
+Central Tagbanwa			1	0
+Ceq Wong			1	0
+Cerma			19	0
+Ch'orti'			18	0
+Chachi			5	0
+Chadong			7	0
+Chagatai			115	0
+Chaha			1	0
+Chaima			1	0
+Chairel			1	0
+Chakma			73	134
+Cham			1	106
+Cham	Eastern Cham		80	20
+Cham	Western Cham		20	40
+Chamalal			3	1
+Chamba Daka			1	0
+Chambeali			1	0
+Chambri			2	0
+Chamicuro			517	0
+Chamorro			121	14
+Champenois			17	1
+Chang			2	0
+Chaná			1	0
+Chapacura			1	0
+Charrua			1	0
+Chatino			0	15
+Chatino	Nopala Chatino		1	0
+Chatino	San Juan Quiahije Chatino		3	0
+Chatino	Tataltepec Chatino		10	0
+Chatino	Tataltepec Coastal Chatino		2	0
+Chatino	Western Highland Chatino		6	0
+Chatino	Zacatepec Chatino		2	0
+Chatino	Zenzontepec Chatino		1	0
+Chaudangsi			1	0
+Chaura			1	0
+Chavacano			53	0
+Chayahuita			3	0
+Chechen			2045	125
+Cheke Holo			5	0
+Chenoua			0	1
+Chepang			69	0
+Cherepon			2	0
+Cherokee			2721	75
+Chewong			6	0
+Cheyenne			244	2
+Chhattisgarhi			5	37
+Chibcha			3	0
+Chichewa			881	34
+Chichimeca-Jonaz			1	0
+Chichonyi-Chidzihana-Chikauma			15	0
+Chickasaw			501	0
+Chilcotin			5	0
+Chimila			2	0
+Chimwiini			2	0
+Chin			0	70
+Chin	Daai Chin		1	0
+Chin	Falam Chin		13	0
+Chin	Khumi Chin		15	0
+Chin	Lautu Chin		2	0
+Chin	Mara Chin		5	0
+Chin	Tedim Chin		56	0
+Chin	Thado Chin		1	0
+Chinali			4	0
+Chinantec			0	13
+Chinantec	Lealao Chinantec		4	0
+Chinantec	Ozumacín Chinantec		5	0
+Chinantec	Palantla Chinantec		6	0
+Chinantec	Sochiapam Chinantec		2	0
+Chinantec	Tlacoatzintepec Chinantec		1	0
+Chinantec	Usila Chinantec		1	0
+Chinantec	Valle Nacional Chinantec		1	0
+Chinese			778	64378
+Chinese	CJKV Characters		1	0
+Chinese	Cantonese		10723	88
+Chinese	Cantonese	Cantonese	3	0
+Chinese	Cantonese	Mandarin	1	0
+Chinese	Chinese		5	1
+Chinese	Classical Chinese		8	0
+Chinese	Dalian Mandarin		1	0
+Chinese	Dungan		949	7
+Chinese	Early Mandarin		1	0
+Chinese	Eastern Min		883	10
+Chinese	Gan		207	7
+Chinese	Hainanese		1	0
+Chinese	Hakka		1322	19
+Chinese	Hokkien		3201	51
+Chinese	Huizhou		1	0
+Chinese	Jin		205	0
+Chinese	Literary Chinese		64	0
+Chinese	Madarin		1	0
+Chinese	Manadrin		1	0
+Chinese	Mandarin		61946	1856
+Chinese	Mandarin	Sichuanese	1	0
+Chinese	Mandarin	Simplified	1	0
+Chinese	Middle Chinese		0	3
+Chinese	Min Nan		80	1
+Chinese	Northern Min		201	3
+Chinese	Puxian Min		5	0
+Chinese	Shanghainese Wu		1	0
+Chinese	Shaozhou Tuhua		1	0
+Chinese	Simplified		4	0
+Chinese	Simplified Chinese		1	0
+Chinese	Southern Min		11	1
+Chinese	Southern Min	Hokkien	2	0
+Chinese	Taishanese		5	0
+Chinese	Tangwang		1	0
+Chinese	Tazi		1	0
+Chinese	Teochew		81	0
+Chinese	Traditional		2	0
+Chinese	Traditional Chinese		1	0
+Chinese	Wu		962	7
+Chinese	Xiamen Hokkien		1	0
+Chinese	Xiang		199	3
+Chinese Pidgin English			4	0
+Chinese Pidgin Russian			10	3
+Chinese Pidgin Russian	Kyakhta dialect		3	0
+Chinese Sign Language			1	0
+Chinook			2	0
+Chinook Jargon			125	1
+Chipaya			2	0
+Chipewyan			17	1
+Chiquimulilla			2	0
+Chiquitano			3	0
+Chirino			2	0
+Chitimacha			3	0
+Chittagonian			8	0
+Chiwere			3	0
+Chochotec			1	0
+Choctaw			343	1
+Choctaw	Modified traditional		1	0
+Choctaw	Traditional		1	0
+Choctaw	West Circassian		0	2
+Chokwe			3	0
+Chol			19	0
+Chong			2	0
+Chontal Maya			4	0
+Chopi			2	0
+Chrau			2	0
+Chru			2	0
+Chuabo			4	0
+Chuave			2	0
+Chuj			8	0
+Chuka			2	0
+Chukchi			364	0
+Chulym			8	0
+Chumburung			6	0
+Chungli Ao			1	0
+Churuya			1	0
+Chut			1	0
+Chuukese			137	1
+Chuvash			1302	12
+Chácobo			2	0
+Cia-Cia			12	3
+Cibak			1	0
+Cicipu			1	0
+Ciguayo			1	0
+Cimbrian			142	5
+Cinta Larga			2	0
+Circassian			0	755
+Circassian	East Circassian		384	24
+Circassian	West Circassian		571	54
+Classical Gaelic			1	7
+Classical Syriac			1	0
+Coahuilteco			1	0
+Cocama			5	0
+Cochimi			1	0
+Cocopa			5	0
+Cocos Islands Malay			5	0
+Coeur d'Alene			6	0
+Cofán			5	0
+Cogui			2	0
+Col			1	0
+Colonia Tovar German			0	1
+Columbia-Wenatchi			4	0
+Colán			2	0
+Comanche			40	0
+Comorian			0	1269
+Comorian	Maore Comorian		327	0
+Comorian	Mwali Comorian		19	0
+Comorian	Ndzwani Comorian		26	0
+Comorian	Ngazidja Comorian		1042	0
+Comorian	Ngazidja Comorian	Maore Comorian	1	0
+Comox			16	0
+Coos			1	0
+Copallén			2	0
+Coptic			727	100
+Coptic	Akhmimic		2	0
+Coptic	Akhmimic Coptic		4	0
+Coptic	Bohairic		3	0
+Coptic	Bohairic Coptic		76	0
+Coptic	Fayyumic		2	0
+Coptic	Fayyumic Coptic		6	0
+Coptic	Lycopolitan		2	0
+Coptic	Lycopolitan Coptic		1	0
+Coptic	Old Coptic		3	0
+Coptic	Oxyrhynchite Coptic		2	0
+Coptic	Sahidic		3	0
+Coptic	Sahidic Coptic		74	0
+Coptic	Sahidic, Fayyumic		1	0
+Cora			8	0
+Cornish			2494	16
+Cornish	Common Cornish, Standard Written Form		1	0
+Cornish	Kernewek Kemmyn		8	0
+Cornish	Kernowek Standard		1	0
+Cornish	Old Cornish		1	0
+Cornish	Standard Cornish		4	0
+Coroado Puri			1	0
+Corsian			1	0
+Corsican			1274	44
+Corsican	Ajaccian		5	0
+Corsican	Ajaccino		1	0
+Corsican	Gallurese		1	0
+Cotoname			1	0
+Cowlitz			13	0
+Cree			166	170
+Cree	Atikamekw		68	0
+Cree	East Cree		0	4
+Cree	East Cree	Northern East Cree	3	0
+Cree	East Cree	Southern East Cree	4	0
+Cree	Montagnais		89	4
+Cree	Moose Cree		5	0
+Cree	Naskapi		10	4
+Cree	Northern East Cree		19	0
+Cree	Plains Cree		77	0
+Cree	Southern East Cree		17	0
+Cree	Swampy Cree		2	0
+Cree	Woods Cree		6	0
+Creek			32	2
+Crimean Gothic			9	0
+Crimean Tartar			1	0
+Crimean Tatar			1890	53
+Crimean Tatar	Crimean Latin		2	0
+Crimean Tatar	Cyrillic		16	0
+Crimean Tatar	Dobrujan Tatar		5	0
+Crimean Tatar	Latin		11	0
+Crimean Tatar	Northern dialect		1	0
+Crimean Tatar	Romanian Latin		2	0
+Crimean Tatar	Southern dialect		1	0
+Crimean Tatar (Romania)			1	0
+Croatian			5	0
+Cross River Mbembe			1	0
+Crow			22	0
+Cruzeño			2	0
+Cua			1	0
+Cubeo			4	0
+Cuiba			3	0
+Cuicatec			0	9
+Cuicatec	Tepeuxila Cuicatec		9	0
+Cuitlatec			1	0
+Culina			2	0
+Culli			2	0
+Cuman			3	0
+Cuman	Armeno-Kipchak		1	0
+Cumanagoto			1	0
+Cun			4	0
+Cung			1	0
+Cupeño			6	0
+Curripaco			2	0
+Cuvok			1	0
+Cuyunon			12	0
+Cypriot Greek			1	0
+Cyrillic			4	1
+Cyrillic	Russian		1	0
+Czech			44134	529
+Czech	Old Czech		183	0
+Czech Sign Language			1	0
+Cèmuhî			17	0
+Daakaka			1	0
+Daasanach			2	0
+Daba			1	0
+Dacian			7	0
+Dadibi			1	0
+Daga			1	0
+Dagbani			36	3
+Dagik			1	0
+Dahalik			1	2
+Dahalo			1	0
+Dai			1	0
+Dakota			78	2
+Dakpa			1	0
+Dalmatian			683	2
+Dama (Sierra Leone)			1	0
+Dan			2	1
+Dangaléat			1	0
+Dani			0	1
+Dani	Lower Grand Valley Dani		1	0
+Dani	Western Dani		1	0
+Danish			33910	1941
+Danish	North		1	0
+Danish	Old Danish		10	0
+Danish	Saterland		1	0
+Danish	West		1	0
+Dano			1	0
+Dargwa			145	0
+Darkinjung			53	0
+Darmiya			1	0
+Datooga			1	0
+Daur			110	0
+Dawawa			1	0
+Dawera-Daweloor			3	0
+Dawro			1	0
+Day			1	0
+Dayi			1	0
+Dazaga			3	0
+Deccani			6	0
+Defaka			9	0
+Deg			1	0
+Deg Xinag			10	0
+Degema			6	0
+Degenan			1	0
+Dema			0	1
+Demisa			1	0
+Dena'ina			41	0
+Dendi			1	0
+Dene			1	0
+Denya			1	0
+Dení			4	0
+Deori			7	0
+Desano			4	0
+Desiya			1	0
+Deutch			1	0
+Deyah			1	0
+Dhangu			0	1
+Dharug			22	0
+Dhatki			1	0
+Dhimal			2	0
+Dhivehi			834	175
+Dhivehi	Dhives Akuru		1	0
+Dhivehi	Thaana		1	0
+Dhuwal			16	0
+Dia			1	0
+Dibiyaso			2	0
+Dida			1	0
+Dieri			11	0
+Digo			9	0
+Dii			4	0
+Dilling			1	0
+Dimasa			4	0
+Dime			4	0
+Dinajpuria			1	0
+Dineor			1	0
+Dinka			79	32
+Dinka	Northwestern Dinka		1	0
+Dinka	Southwestern Dinka		10	0
+Diodio			1	0
+Dirasha			2	0
+Ditidaht			3	0
+Dixon Reef			1	0
+Dizin			1	0
+Djambarrpuyngu			2	1
+Djawi			1	0
+Djinang			2	0
+Dobel			2	0
+Dobrujan Tatar			8	0
+Dobu			2	0
+Doe			2	0
+Doga			1	0
+Dogon			0	5
+Dogon	Ampari Dogon		1	0
+Dogon	Ana Tinga Dogon		1	0
+Dogon	Bankan Tey Dogon		1	0
+Dogon	Bunoge		1	0
+Dogon	Dogul Dom		1	0
+Dogon	Jamsay		3	0
+Dogon	Tebul Ure Dogon		1	0
+Dogon	Tommo So		2	0
+Dogon	Toro So Dogon		1	0
+Dogon	Yanda Dogon		2	0
+Dogri			15	2
+Dogrib			36	1
+Dolgan			211	0
+Domari			1	2
+Dompo			1	0
+Dong			0	1
+Dongolawi			3	2
+Dongotono			1	0
+Dongxiang			127	0
+Dorig			1	0
+Doromu-Koki			2	0
+Dorze			2	0
+Doteli			31	0
+Doura			1	0
+Doutai			1	0
+Drehu			3	2
+Drung			84	0
+Duala			15	0
+Duau			2	0
+Dubu			1	0
+Duhwa			2	0
+Dukha			1	0
+Duma			1	0
+Dumbea			2	0
+Dumi			3	0
+Dupaningan Agta			1	0
+Dupaningan agta			1	0
+Duri			1	0
+Duriankere			1	0
+Dusner			4	0
+Dusun			16	209
+Dusun	Central Dusun		209	0
+Dusun Deyah			2	0
+Dusun Witu			2	0
+Dutch			57429	413
+Dutch	Aalsters		1	0
+Dutch	Amelandic		1	0
+Dutch	Flemish		2	0
+Dutch	Hague dialect		1	0
+Dutch	Jersey Dutch		8	0
+Dutch	Middle Dutch		40	1
+Dutch	Old Dutch		46	0
+Dutch	The Hague dialect		3	0
+Duun			2	0
+Duvle			1	0
+Duwai			7	0
+Duwet			2	0
+Dyaabugay			3	0
+Dyirbal			22	1
+Dyula			17	1
+Dzala			1	0
+Dzongkha			414	40
+Dzuun			1	0
+Dâw			3	0
+E			10	0
+East Circassian			8	0
+East Damar			2	0
+East Frisian Low German			74	0
+East Futuna			22	0
+East Nyala			9	0
+East Yugur			16	0
+Eastern Acipa			1	0
+Eastern Arrernte			1	0
+Eastern Huasteca Nahuatl			1	0
+Eastern Mari			1	0
+Eastern Pomeranian			2	0
+Eastern Yugur			1	0
+Ebira			1	0
+Eblaite			6	0
+Ebrié			1	0
+Ebughu			1	0
+Ecclesiastical Latin			6	0
+Ecuadorian Sign Language			0	1
+Ede			0	42
+Ede	Ede Idaca		1	0
+Ede	Ede Nago		1	0
+Ede	Ifè		42	0
+Edo			44	0
+Edomite			1	0
+Edopi			1	0
+Efai			1	0
+Efate			0	14
+Efate	North Efate		3	0
+Efate	South Efate		14	0
+Efik			7	4
+Efutop			2	0
+Ega			7	0
+Eggon			1	0
+Egyptian			1194	18
+Egyptian	Akhmimic, Lycopolitan		1	0
+Egyptian	Archaic Egyptian, Old Egyptian, Middle Egyptian		1	0
+Egyptian	Demotic Egyptian		10	0
+Egyptian	Late Egyptian		2	0
+Egyptian	Middle and Late Egyptian		1	0
+Egyptian	Old Egyptian		1	0
+Egyptian	Old Egyptian, Middle Egyptian		1	0
+Egyptian	Sahidic, Akhmimic, Lycopolitan		1	0
+Ejagham			1	0
+Ekajuk			2	0
+Ekari			1	1
+Ekit			1	0
+Ekpeye			3	0
+Elamite			14	1
+Elamite	Achaemenid Elamite		1	0
+Eleme			1	0
+Elfdalian			352	0
+Elkei			2	0
+Eloyi			1	0
+Emae			1	0
+Eman			2	0
+Embaloh			8	0
+Emberá-Catío			2	0
+Emberá-Chamí			2	0
+Emberá-Tadó			2	0
+Embu			2	0
+Emerillon			3	0
+Emilian			241	60
+Emilian	Bolognese		2	0
+Emplawas			1	0
+Ende			4	0
+Enets			0	24
+Enets	Forest Enets		20	0
+Enets	Tundra Enets		10	0
+Enga			17	0
+Engenni			6	0
+Enggano			4	0
+Enwan			1	0
+Enwang			1	0
+Eotile			1	0
+Epena			2	0
+Epie			6	0
+Epigraphic Mayan			1	0
+Eritai			2	0
+Erromintxela			2	0
+Ersu			2	0
+Erzya			874	10
+Erzya	Shoksha		1	0
+Esan			1	0
+Ese			8	0
+Ese Ejja			3	1
+Eshtehardi			46	0
+Esimbi			2	0
+Esmeralda			2	0
+Esperanto			30257	1206
+Esperanto	Hijazi Arabic		1	0
+Esselen			1	0
+Estonian			16576	716
+Estonian	Kihnu subdialect		1	0
+Estonian	South Estonian		1	0
+Estonian	Tartu dialect		1	0
+Estotnian			1	0
+Eten			1	0
+Eteocretan			1	0
+Ethiopian Sign Language			1	0
+Eton (Cameroon)			4	0
+Etruscan			58	0
+Etulo			1	0
+Evant			2	0
+Even			290	0
+Evenki			494	2
+Evenki	Mongolian script		3	0
+Ewe			604	64
+Ewondo			6	1
+Extremaduran			367	57
+Eyak			8	0
+Fagani			1	0
+Fakkanci			3	0
+Fala			68	1
+Faliscan			46	0
+Fanagalo			2	0
+Fanamaket			1	0
+Fang (Bantu)			12	3
+Fang (Beboid)			2	1
+Farefare			704	0
+Faroese			6783	116
+Faroese	Suðuroy dialect		1	0
+Farsi			0	1
+Fas			2	0
+Fasu			1	0
+Fataluku			67	0
+Fayu			1	0
+Fembe			1	0
+Fiji Hindi			80	1
+Fijian			437	7
+Filipino			0	1
+Filipino	Cebuano		1	0
+Filipino	Tagalog		1	0
+Finish			1	0
+Finnih			1	0
+Finnish			115829	0
+Finnish	Ancient		1	0
+Finnish	Colloquial Finnish		1	0
+Finnnish			1	0
+Finongan			2	0
+Fipa			2	0
+Fiwaga			0	1
+Flemish			11	2
+Flemish	West Flemish		1	0
+Flinders Island			0	1
+Fogaha			1	0
+Foi			1	0
+Foia Foia			1	0
+Folopa			2	0
+Fon			20	23
+Fongbe			1	0
+Forak			1	0
+Fordata			1	0
+Fore			3	0
+Fortsenal			0	1
+Fox			21	0
+Franc-Comtois			4	0
+Franco-Provençal			345	21
+Frech			1	0
+French			95407	1745
+French	(Belgium, Luxembourg, Switzerland)		1	0
+French	(France, Quebec)		1	0
+French	Belgium		1	0
+French	Cajun French		1	0
+French	Canadian French		3	0
+French	Gallo		3	0
+French	Louisiana French		3	0
+French	Middle French		426	4
+French	Old French		694	4
+French	Picard		1	0
+French	{{qualifier|Canada}}		1	0
+French 			1	0
+French Canadian			1	0
+Frisian			5	3597
+Frisian	North Frisian		555	132
+Frisian	North Frisian	Amrum	4	0
+Frisian	North Frisian	Föhr	24	0
+Frisian	North Frisian	Föhr, Hallig	1	0
+Frisian	North Frisian	Föhr, Hallig, Wiedingharde	1	0
+Frisian	North Frisian	Föhr, Wiedingharde	2	0
+Frisian	North Frisian	Föhr-Amrum	80	0
+Frisian	North Frisian	Föhr-Amrum and Mooring	2	0
+Frisian	North Frisian	Föhr-Amrum and Sylt	1	0
+Frisian	North Frisian	Föhr-Amrum, Bökingharde	1	0
+Frisian	North Frisian	Föhr-Amrum, Hallig	2	0
+Frisian	North Frisian	Föhr-Amrum, Halligen & Mooring	1	0
+Frisian	North Frisian	Föhr-Amrum, Helgoland, Sylt	1	0
+Frisian	North Frisian	Föhr-Amrum, Mooring	1	0
+Frisian	North Frisian	Föhr-Amrum, Sylt	2	0
+Frisian	North Frisian	Goesharde, Mooring	1	0
+Frisian	North Frisian	Hallig and Mooring	1	0
+Frisian	North Frisian	Hallig, Mooring	1	0
+Frisian	North Frisian	Hallig, Mooring, Wiedingharde	1	0
+Frisian	North Frisian	Halligen	29	0
+Frisian	North Frisian	Halligen, Goesharde, Karrharde	1	0
+Frisian	North Frisian	Helgoland and Sylt	1	0
+Frisian	North Frisian	Heligoland	37	0
+Frisian	North Frisian	Heligoland, Sylt	1	0
+Frisian	North Frisian	Karrharde	12	0
+Frisian	North Frisian	Mooring	64	0
+Frisian	North Frisian	Mooring and Hallig	3	0
+Frisian	North Frisian	Mooring and Sylt	1	0
+Frisian	North Frisian	Mooring, Wiedingharde	1	0
+Frisian	North Frisian	Northern Goesharde	15	0
+Frisian	North Frisian	Sylt	57	0
+Frisian	North Frisian	Wiedingharde	14	0
+Frisian	Northern Frisian		2	0
+Frisian	Old Frisian		116	0
+Frisian	Saterland Frisian		426	3
+Frisian	Wangerooge Frisian		1	0
+Frisian	West Frisian		3342	5
+Frisian	West Frisian	Town Frisian	1	0
+Frisian	Western Frisian		4	0
+Friulian			2303	92
+Fula			90	89
+Fula	Adlam		67	0
+Fula	Latin		67	0
+Fula	Pulaar		3	0
+Fulani			1	0
+Fulniô			2	0
+Fum			0	1
+Fungwa			2	0
+Fur			9	0
+Futuna-Aniwa			3	0
+Fuyug			5	0
+Fwe			9	0
+Fwâi			12	0
+Fyam			1	0
+Fyer			1	0
+Ga			24	2
+Ga'anda			1	0
+Ga'dang			1	0
+Gaam			3	0
+Gabadi			4	0
+Gabi			5	0
+Gabrielino-Fernandeño			7	0
+Gadang			0	1
+Gaddang			3	0
+Gadjerawang			1	0
+Gadsup			1	0
+Gagadu			6	0
+Gagauz			469	11
+Gagauz	Cyrillic		6	0
+Gagauz	Latin		5	0
+Gagauz	Moldovan Cyrillic		1	0
+Galela			4	0
+Galician			27533	508
+Gallo			86	17
+Gallo-Italic of Sicily			1	0
+Gallurese			213	1
+Galo			1	0
+Galoli			2	0
+Gamilaraay			89	0
+Gamkonora			0	1
+Gamo			1	0
+Gana			1	0
+Gandhari			5	0
+Ganza			1	0
+Gapapaiwa			1	0
+Garawa			3	0
+Garhwali			6	0
+Garifuna			24	0
+Garo			31	0
+Garrwa			1	0
+Garus			1	0
+Gaulish			14	0
+Gavak			1	0
+Gavar			1	0
+Gawar-Bati			1	0
+Gawwada			2	0
+Gayil			1	0
+Gayo			8	0
+Gayón			1	0
+Gbagyi			1	0
+Gban			1	0
+Gbanu			1	0
+Gbanziri			1	0
+Gbari			3	0
+Gbaya			1	0
+Gbaya-Bossangoa			1	0
+Gbaya-Bozoum			1	0
+Gbayi			1	0
+Gbe			0	7
+Gbe	Saxwe Gbe		7	0
+Gciriku			2	0
+Gcwi			1	0
+Ge'ez			192	6
+Gedaged			3	0
+Geji			1	0
+Gela			5	0
+Gelao			0	3
+Gelao	A'ou		2	0
+Gelao	Green Gelao		1	0
+Gelao	Red Gelao		2	0
+Gelao	White Gelao		1	0
+Gen			3	2
+Gende			1	0
+Georgian			23169	1800
+Georgian	Old Georgian		53	1
+Gerka			3	0
+German			95636	226
+German	Alemannic German		995	1
+German	Alemannic German	Alsatian Alemannic German	3	0
+German	Alsatian Alemannic German		8	0
+German	Austrian German		2	0
+German	Bavarian		508	7
+German	Central Franconian		150	3
+German	Central Franconian	Kölsch	1	0
+German	Central Franconian (Ripuarian)		1	0
+German	Central German		1	0
+German	Colognian		1	0
+German	East Central German		78	1
+German	East Franconian		5	0
+German	Franconian		1	0
+German	Germany		1	0
+German	High Saxonian		1	0
+German	Hochpreußisch		1	0
+German	Kölnisch		1	0
+German	Kölsch		1	0
+German	Low German		1	0
+German	Middle High German		101	0
+German	Middle High German / Early New High German		2	0
+German	Middle Low German		2	0
+German	Oberlausitzisch		1	0
+German	Old High German		209	1
+German	Palatine German		1	0
+German	Pennsylvania German		8	0
+German	Regional German		2	0
+German	Rhine Franconian		97	1
+German	Saterland Frisian		1	0
+German	Silesian East Central German		19	0
+German	Swabian		89	0
+German	Swabian German		3	0
+German	Switzerland German		1	0
+German	Volhynian German		1	0
+German	Walser German		1	0
+Geser-Gorom			3	0
+Geʽez			1	0
+Ghadames			1	0
+Ghari			1	0
+Ghayavi			1	0
+Ghomala'			4	0
+Ghomala'	Ghomala'		1	0
+Ghomara			0	1
+Ghotuo			2	0
+Gidar			2	0
+Gikyode			5	0
+Gilaki			38	3
+Gilbertese			88	0
+Gimi (Papuan)			1	0
+Girawa			3	0
+Githabul			1	0
+Gitua			1	0
+Gitxsan			1	0
+Giziga			0	1
+Giziga	North Giziga		1	0
+Giziga	South Giziga		1	0
+Glavda			1	0
+Gobasi			2	0
+Godoberi			21	0
+Goemai			4	0
+Gofa			1	0
+Gogo			1	0
+Goguryeo			3	1
+Gojri			2	0
+Gokana			1	0
+Gokhy			1	0
+Gola			1	0
+Golin			3	1
+Gondi			19	9
+Gondi	Gunjala		1	0
+Gondi	Masaram		1	0
+Gondi	Telugu		1	0
+Gong			3	0
+Gonja			3	0
+Gooniyandi			27	0
+Gorontalo			46	2
+Gothic			2549	0
+Gottscheerish			11	0
+Gourmanchéma			15	0
+Greek			42207	4659
+Greek	Aeolic Greek		12	0
+Greek	Ancient		10	0
+Greek	Ancient (Koine)		1	0
+Greek	Ancient Cretan		1	0
+Greek	Ancient Greek		13165	84
+Greek	Ancient Greek	Boeotian Greek	1	0
+Greek	Ancient Greek	Cypriot	1	0
+Greek	Ancient Greek	Doric Greek	1	0
+Greek	Byzantine Greek		16	1
+Greek	Calabrian Greek		1	0
+Greek	Cappadocian Greek		18	0
+Greek	Cretan Greek		5	0
+Greek	Cypriot Greek		23	0
+Greek	Demotic Greek		1	0
+Greek	Doric Greek		18	0
+Greek	Epic Greek		1	0
+Greek	Griko		1	0
+Greek	Hellenistic Greek		1	0
+Greek	Ionic Greek		8	0
+Greek	Italiot Greek		10	0
+Greek	Katharevousa		22	0
+Greek	Koine Greek		6	0
+Greek	Mariupol Greek		19	1
+Greek	Medieval Greek		2	0
+Greek	Modern		2	0
+Greek	Mycenaean Greek		76	0
+Greek	Pontic Greek		103	1
+Greek	Rhomaic Greek		1	0
+Greek	Tsakonian		13	0
+Greek	Yevanic		1	0
+Greenlandic			1635	40
+Grenadian Creole English			3	0
+Gresi			1	0
+Gros Ventre			5	0
+Guahibo			5	0
+Guajajára			9	0
+Guajá			3	0
+Guambiano			2	0
+Guanano			5	0
+Guanche			3	0
+Guarani			1	1053
+Guarani	Mbya Guarani		209	0
+Guarani	Paraguayan Guarani		937	1
+Guarani	Paraguayan Guarani	Mbya Guarani	2	0
+Guarani	Paraguayan Guarani	Tapieté	1	0
+Guarayu			1	0
+Guató			0	1
+Guayabero			3	0
+Guazacapán			1	0
+Gude			1	0
+Gudu			1	0
+Gugubera			1	0
+Guhu-Samane			5	1
+Guianese Creole			27	1
+Guinau			1	0
+Guinea-Bissau Creole			21	0
+Guiqiong			3	0
+Gujarati			3317	205
+Gujarati	Ancient		1	0
+Gujarati	Ancient Greek		1	0
+Gujarati	Old Gujarati		7	0
+Gulay			1	0
+Gullah			22	2
+Gumatj			3	1
+Gumawana			1	0
+Gun			18	0
+Gundungurra			0	1
+Gungabula			0	1
+Gungu			6	0
+Guntai			0	1
+Gunu			1	0
+Gunwinggu			7	0
+Gupapuyngu			2	0
+Gur Lama			1	0
+Guragone			1	0
+Gurani			26	0
+Gurgani			1	0
+Gurindji			12	0
+Gurindji Kriol			1	0
+Guro			1	0
+Guruntum			1	0
+Gusii			8	0
+Gusilay			3	0
+Gutnish			19	2
+Gutnish	Old Gutnish		2	0
+Guugu Yimidhirr			28	2
+Guwar			1	0
+Guya			0	1
+Guyanese Creole English			9	0
+Gvoko			1	0
+Gwahatike			1	0
+Gwara			1	0
+Gweda			1	0
+Gweno			2	0
+Gwere			7	0
+Gwich'in			21	2
+Gwichʼin			1	0
+Hachijō			2	0
+Hadiyya			4	0
+Hadrami			1	0
+Hadza			37	8
+Haeke			1	0
+Haida			23	6
+Haida	Kaigani		1	0
+Haida	Massett		1	0
+Haida	Northern Haida		5	0
+Haida	Skitegate		1	0
+Haida	Southern Haida		4	0
+Haisla			2	0
+Haitian Creole			1959	11
+Haitian Vodoun Culture Language			1	0
+Haiǁom			1	0
+Hajong			6	0
+Hakka			1	0
+Hakö			2	0
+Halang			1	0
+Halbi			2	0
+Halegannada			1	0
+Halia			3	0
+Halkomelem			55	3
+Halkomelem	Hən̓q̓əmin̓əm̓		1	0
+Halkomelem	Vancouver Island		12	2
+Hamap			1	0
+Hamer-Banna			43	0
+Hamtai			3	0
+Han			7	0
+Hanga			1	0
+Hani			17	1
+Hanunoo			87	0
+Harari			11	2
+Haroi			1	0
+Harsusi			11	1
+Haruai			1	0
+Haryanvi			34	1
+Hasha			1	0
+Hatam			1	0
+Hattic			2	0
+Hausa			1049	64
+Havasupai-Walapai-Yavapai			16	0
+Haveke			1	0
+Hawaiian			2663	130
+Hawaiian Creole			11	0
+Haya			3	0
+Hdi			2	0
+Hebrew			21082	189
+Hebrew	Biblical Hebrew		10	0
+Hebrew	Paleo-Hebrew		1	0
+Hebrew	Samaritan Hebrew		7	0
+Hehe			5	0
+Heiltsuk			3	0
+Hember Avu			1	0
+Herbew			1	0
+Herdé			1	0
+Herero			13	3
+Heyo			1	0
+Hidatsa			23	1
+Higaonon			440	0
+Hiligaynon			587	1
+Hindi			23145	885
+Hindi	Old Hindi		1	0
+Hindko			0	4
+Hindko	Northern Hindko		2	0
+Hindko	Southern Hindko		2	0
+Hinukh			26	0
+Hiri Motu			44	2
+Hismaic			1	0
+Hittite			116	3
+Hitu			1	0
+Hiw			3	0
+Hixkaryana			6	0
+Hlai			23	0
+Hmar			1	0
+Hmong			0	772
+Hmong	A-Hmao		11	0
+Hmong	Central Huishui Hmong		16	0
+Hmong	Chuanqiandian Cluster Miao		3	9
+Hmong	Green Hmong		19	10
+Hmong	Hmong Don		0	1
+Hmong	Hmong Dô		2	0
+Hmong	Northern Qiandong Miao		2	0
+Hmong	Southern Qiandong Miao		2	0
+Hmong	White Hmong		613	141
+Ho			4	1
+Hoava			2	0
+Hobyót			4	0
+Holikachuk			5	0
+Honduras Sign Language			0	4
+Hone			1	0
+Hong Kong Sign Language			1	1
+Hopi			144	3
+Horom			1	0
+Hote			3	0
+Hovongan			4	0
+Hoyahoya			2	0
+Hozo			1	0
+Hrangkhol			1	0
+Hruso			1	0
+Hrê			1	0
+Hu			1	0
+Huambisa			6	0
+Huaorani			2	0
+Huarijio			1	0
+Huave			8	0
+Huba			1	0
+Huichol			9	0
+Huitoto			0	9
+Huitoto	Minica Huitoto		3	0
+Huitoto	Murui Huitoto		9	0
+Huitoto	Nüpode Huitoto		3	0
+Hula			1	0
+Huli			2	0
+Hunde			4	0
+Hungarian			51276	635
+Hungarian	Latin		1	0
+Hungworo			0	1
+Hunsrickisch			1	33
+Hunsrickisch	Boe's orthography		29	0
+Hunsrickisch	Wiesemann's		1	0
+Hunsrickisch	Wiesemann's orthography		23	0
+Hunsrik			547	50
+Hunzib			20	1
+Hupa			7	0
+Hupdë			5	0
+Hurrian			8	0
+Hutterisch			12	0
+Hyam			1	0
+Hän			3	1
+Iaai			5	0
+Iamalele			2	0
+Iatmul			4	0
+Iau			2	0
+Ibaloi			15	0
+Iban			163	1
+Ibanag			55	0
+Ibani			11	0
+Ibatan			4	0
+Iberian			2	0
+Ibibio			6	7
+Ibino			1	0
+Ibuoro			1	0
+Icelandic			18481	237
+Icelandic	Northern Kurdish		0	1
+Icelandic Sign Language			3	0
+Icelanfic			2	0
+Iceve-Maci			2	0
+Ida'an			12	0
+Idahan			1	0
+Idi			2	0
+Ido			9220	225
+Idoma			1	0
+Idu			1	0
+Idun			1	0
+Iduna			1	0
+Ifugao			0	41
+Ifugao	Batad Ifugao		5	0
+Ifugao	Mayoyao Ifugao		1	0
+Ifugao	Tuwali Ifugao		36	0
+Ifè			1	0
+Igala			51	4
+Igbo			361	109
+Igede			1	0
+Ignaciano			2	0
+Ik			2	0
+Ikizu			11	0
+Iko			1	0
+Ikobi-Mena			1	0
+Ikoma			3	0
+Ikpeng			1	0
+Ikposo			1	0
+Ikwere			1	0
+Ila			2	0
+Ili Turki			1	0
+Ili'uun			1	0
+Ilocano			747	6
+Ilocano	Baybayin		1	0
+Ilocano	Latin		1	0
+Ilokano			1	0
+Ilongot			2	0
+Ilue			1	0
+Imonda			8	0
+Imroing			1	0
+Inabaknon			10	0
+Indo-Portuguese			2	0
+Indonesian			18905	218
+Indonesian 			1	0
+Indus Kohistani			1	0
+Ineseño			15	0
+Inga			3	0
+Ingrian			4305	17
+Ingush			605	4
+Inor			1	0
+Interlingua			3739	200
+Interlingue			0	14
+Interslavic			0	4
+Inuinnaqtun			5	0
+Inuktitut			509	33
+Inuktitut	Canadian syllabics		2	0
+Inuktitut	Eastern Canadian Inuktitut		3	0
+Inuktitut	Inuttitut		15	0
+Inuktitut	Inuvialuk		1	0
+Inuktitut	Latin		3	0
+Inuktitut	North Baffin		2	0
+Inuktitut	South Baffin		4	0
+Inuktitut	West Inuktitun		2	0
+Inuktun			4	0
+Inupiaq			180	6
+Inuvialuktun			8	0
+Ipai			2	0
+Ipiko			1	0
+Ipulo			2	0
+Iquito			13	0
+Ir			1	0
+Irantxe			1	0
+Iranun			150	54
+Iraqw			9	0
+Irarutu			1	0
+Iraya			2	0
+Irish			28686	151
+Irish	Classical Gaelic		1	0
+Irish	Middle Irish		75	1
+Irish	Old Irish		774	1
+Irish	Primitive Irish		8	0
+Irula			6	0
+Isan			62	99
+Ishkaimi			1	0
+Ishkashimi			4	0
+Islander Creole English			2	0
+Isnag			79	0
+Isoko			111	0
+Isthmus Zapotec			2	0
+Istriot			365	7
+Istro-Romanian			97	5
+Isubu			3	0
+Italian			69148	1038
+Italian	Cyrillic		1	0
+Italian	Sicilian		2	0
+Italian	Tuscan dialect		1	0
+Itallian			1	0
+Italy			1	0
+Itawit			7	0
+Itelmen			33	0
+Itene			1	0
+Itik			1	0
+Itneg			0	1
+Itneg	Binongan Itneg		1	0
+Itonama			2	0
+Itsekiri			12	0
+Itu Mbon Uzo			1	0
+Itza'			4	0
+Iu Mien			72	1
+Ivatan			116	0
+Iwaidja			6	0
+Iwam			2	0
+Ixcatec			1	0
+Ixil			2	0
+Iyive			2	0
+Izere			1	0
+Izon			28	4
+Iñupiaq			1	0
+Jabem			2	0
+Jabutí			3	0
+Jah Hut			1	0
+Jahai			2	0
+Jakaltek			5	0
+Jamaican Creole			360	2
+Jamamadí			3	0
+Jaminjung			2	0
+Jamtish			9	0
+Janday			1	0
+Jangkang			4	0
+Jaoanese			1	0
+Japamese			1	0
+Japanese			47816	3243
+Japanese	Kansai		1	0
+Japanese	Kyushu		1	0
+Japanese	Northern Kurdish		0	1
+Japanese	Old Japanese		15	0
+Japanese Sign Language			2	1
+Japhug			11	0
+Jarai			149	0
+Jarawa			33	0
+Jaru			2	0
+Jassic			1	0
+Javanese			1729	144
+Javanese	Carakan		17	0
+Javanese	Caribbean Javanese		9	0
+Javanese	Central Javanese		2	0
+Javanese	Krama		1	0
+Javanese	Ngoko		1	0
+Javanese	Old Javanese		337	0
+Javanese	Rumi		18	0
+Javanese	Western Javanese		2	0
+Jawe			10	0
+Jebero			3	0
+Jeh			1	0
+Jehai			5	0
+Jeju			399	1
+Jemez			3	0
+Jeri Kuo			1	0
+Jeru			1	0
+Jerung			1	0
+Jewish Babylonian Aramaic			2	0
+Jewish Palestinian Aramaic			1	0
+Jibu			1	0
+Jili			1	0
+Jingpho			135	6
+Jingpo			3	1
+Jingulu			4	0
+Jirajara			1	0
+Jirel			1	0
+Jita			4	0
+Jizhao			1	0
+Jofotek-Bromnya			0	1
+Jola-Fonyi			3	0
+Jowulu			1	0
+Juang			1	0
+Judeo-Italian			67	0
+Judeo-Tat			25	2
+Judeo-Tat	Cyrillic		2	0
+Judeo-Tat	Hebrew		2	0
+Judeo-Tat	Latin		2	0
+Jumaytepeque			1	0
+Jumjum			3	0
+Jumli			1	0
+Jurchen			24	0
+Jurúna			1	0
+Jutiapa			1	0
+Jutish			6	0
+Juǀ'hoan			5	0
+K'ich'e			1	0
+K'iche'			119	0
+Kabardian			2	0
+Kabiye			40	2
+Kabiyé			0	1
+Kabuverdianu			699	26
+Kabuverdianu	ALUPEC		15	0
+Kabuverdianu	Badiu		16	0
+Kabuverdianu	Barlavento		1	0
+Kabuverdianu	Bádiu		1	0
+Kabuverdianu	Santiago		2	0
+Kabuverdianu	Santo Antão		1	0
+Kabuverdianu	Sotavento		1	0
+Kabuverdianu	São Vicente		8	0
+Kabuverdianu	[[ALUPEC]]		8	0
+Kabuverdianu	[[Badiu]]		10	0
+Kabuverdianu	[[Fogo]]		1	0
+Kabuverdianu	[[Maio]]		1	0
+Kabuverdianu	[[Santiago]]		1	0
+Kabuverdianu	[[Santo Antão]]		2	0
+Kabuverdianu	[[São Nicolau]]		1	0
+Kabuverdianu	[[São Vicente]]		9	0
+Kabuverdianu (Badiu)			1	0
+Kabwa			16	0
+Kabyle			266	4
+Kachama-Ganjule			1	0
+Kachchi			13	0
+Kadaru			2	0
+Kadazan			0	18
+Kadazan	Coastal Kadazan		17	0
+Kadazan	Klias River Kadazan		1	0
+Kadazan	Labuk-Kinabatangan Kadazan		1	0
+Kadiwéu			3	0
+Kadugli			5	0
+Kaera			2	0
+Kafa			1	0
+Kagayanen			4	0
+Kahe			1	0
+Kahua			1	0
+Kaian			1	0
+Kaidipang			1	0
+Kaiep			2	0
+Kaili			0	9
+Kaili	Da'a Kaili		3	0
+Kaili	Ledo Kaili		9	0
+Kaili	Unde Kaili		2	0
+Kaingang			101	6
+Kairak			0	1
+Kairiru			4	0
+Kaitag			343	0
+Kaiwá			3	0
+Kaiy			1	0
+Kajaman			3	0
+Kakabai			1	0
+Kakabe			2	0
+Kakanda			1	0
+Kaki Ae			7	0
+Kakwa			0	1
+Kala			1	0
+Kala Lagaw Ya			16	10
+Kalabari			1	0
+Kalagan			5	4
+Kalagan	Tagakaulu Kalagan		4	0
+Kalami			1	0
+Kalanga			2	0
+Kalapuya			2	0
+Kalasha			43	0
+Kalenjin			138	0
+Kalinago			3	0
+Kalinga			0	89
+Kalinga	Limos Kalinga		18	0
+Kalinga	Lubuagan Kalinga		54	0
+Kalinga	Southern Kalinga		60	0
+Kalinga	Tanudan Kalinga		1	0
+Kalkatungu			1	0
+Kallahan			0	7
+Kallahan	Kayapa Kallahan		5	0
+Kallahan	Keley-I Kallahan		2	0
+Kalmyk			1209	3
+Kalmyk	Henan Oirat		1	0
+Kalmyk	Northern Kurdish		0	1
+Kalmyk	Sart-Kalmyk		1	0
+Kalmyk	Written Oirat		20	0
+Kaluli			3	0
+Kam			0	10
+Kam	Northern Kam		1	0
+Kam	Southern Kam		10	0
+Kamakan			1	0
+Kamang			1	0
+Kamano			1	0
+Kamarian			1	0
+Kamas			1	0
+Kamas	Koibal		1	0
+Kamasa			1	0
+Kamasau			8	0
+Kamassian			7	0
+Kamassian	Koibal		4	0
+Kamayo			1	0
+Kamayurá			4	0
+Kamba			176	0
+Kambaata			25	0
+Kambera			48	0
+Kamkata-vari			0	7
+Kamkata-vari	Kamviri		6	0
+Kamkata-vari	Kata-vari		6	0
+Kamkata-viri			39	4
+Kamkata-viri	Kamviri		3	0
+Kamkata-viri	Kata-vari		2	0
+Kamkata-viri	Kativiri		1	0
+Kamrupi			1	0
+Kamta			27	0
+Kamtapuri			1	0
+Kamu			1	0
+Kamula			2	0
+Kamwe			2	0
+Kanada			0	1
+Kanakanabu			74	2
+Kanamari			1	0
+Kanauri			1	0
+Kandas			1	0
+Kanga			1	0
+Kangean			1	0
+Kanggape			1	0
+Kangjia			2	0
+Kangri			1	0
+Kaningdon-Nindem			1	0
+Kaninuwa			2	0
+Kankanaey			127	1
+Kannada			2530	165
+Kannada	Hayvaka Kannada		1	0
+Kannada	Old Kannada		4	0
+Kannauji			1	0
+Kanowit			4	0
+Kanoé			3	0
+Kansa			18	0
+Kanufi			2	0
+Kanuri			44	5
+Kanyok			1	0
+Kaonde			3	0
+Kap			2	0
+Kapampanan			1	0
+Kapampangan			1216	4
+Kapampangan	Baculud		3	0
+Kapampangan	Wawa		3	0
+Kapauri			1	0
+Kapingamarangi			3	0
+Kaqchikel			38	0
+Kara (New Guinea)			2	0
+Kara (Tanzania)			1	0
+Karaboro			0	1
+Karaboro	Eastern Karaboro		0	1
+Karaboro	Western Karaboro		0	1
+Karachay-Balkar			420	2
+Karachay-Balkar	Balkar		1	0
+Karachay-Balkar	Karachay		1	0
+Karadjeri			1	0
+Karaim			84	0
+Karajá			4	0
+Karakalpak			254	8
+Karakalpak	Cyrillic		3	0
+Karakalpak	Latin		2	0
+Karakhanid			93	0
+Karamojong			5	0
+Karang			11	0
+Karankawa			1	0
+Karao			16	0
+Karata			5	0
+Karawa			2	0
+Karbi			1	0
+Karekare			12	0
+Karelian			325	4
+Karelian	Livvi		1	0
+Karelian	North Karelian		1	0
+Karelian	Tver Karelian		2	0
+Karen			0	155
+Karen	Pa'o Karen		35	0
+Karen	Paku Karen		1	0
+Karen	Pwo Karen		1	0
+Karen	S'gaw Karen		132	0
+Karen	Sgaw Karen		1	0
+Kari'na			48	0
+Karian			1	0
+Karipúna Creole French			11	0
+Kariri			2	3
+Kariri	Dzubukuá		3	0
+Kariri	Kipeá		1	0
+Karitiâna			8	0
+Kariyarra			1	0
+Karnai			1	0
+Karo			2	0
+Karok			54	0
+Kasem			17	0
+Kashmiri			710	72
+Kashmiri	Arabic		4	0
+Kashmiri	Devanagari		9	0
+Kashmiri	Perso-Arabic		5	0
+Kashmiri (Devanagari)			1	0
+Kashmiri (Perso-Arabic)			1	0
+Kashmiri (Sharada)			1	0
+Kashubian			1020	31
+Kasiguranin			1	0
+Kaska			5	0
+Kaskihá			2	0
+Kassite			2	0
+Kassonke			1	0
+Kasua			2	0
+Kathlamet			2	0
+Katla			2	0
+Kato			3	0
+Katso			1	0
+Katu			0	7
+Katu	Eastern Katu		7	0
+Katu	Western Katu		2	0
+Katukina			1	0
+Kaulong			1	0
+Kaure			1	0
+Kaurna			101	0
+Kauwera			1	0
+Kavalan			66	1
+Kawacha			1	0
+Kawaiisu			3	0
+Kawishana			1	0
+Kawésqar			4	0
+Kaxararí			2	0
+Kaxuyana			1	0
+Kayabí			3	0
+Kayagar			1	0
+Kayah			0	4
+Kayah	Eastern Kayah		1	0
+Kayah	Western Kayah		3	0
+Kayan			1	2
+Kayan	Bahau		2	0
+Kayan River Kayan			3	0
+Kayapó			16	0
+Kayardild			5	0
+Kayeli			1	0
+Kaytetye			2	0
+Kayupulau			1	0
+Kazakh			11772	203
+Kazakh	Arabic		49	0
+Kazakh	Cyrillic		31	0
+Kazakh	Cyrillic (since 1940)		1	0
+Kazakh	Eskı emle (before 1924)		1	0
+Kazakh	Jaña emle (since 1924)		1	0
+Kazakh	Latin		15	0
+Kazakh	Latin (2021 and earlier proposals)		1	0
+Kazakh	Ottoman Turkish script		1	0
+Keapara			2	0
+Kedang			4	0
+Kei			1	0
+Keiga			2	0
+Kein			1	0
+Kela-Yela			1	0
+Kelabit			6	0
+Kelo			2	0
+Kelon			1	0
+Kemak			2	0
+Kembayan			2	0
+Kemezung			1	0
+Kemtuik			1	0
+Kenaboi			2	0
+Kendayan			2	0
+Kendem			1	0
+Kenga			1	0
+Keninjal			1	0
+Kensiu			3	0
+Kenyang			2	0
+Kenzi			1	0
+Keoru-Ahia			2	0
+Kera			1	0
+Kereho			3	0
+Kerek			1	0
+Keres			0	8
+Keres	Eastern Keres		4	2
+Keres	Western Keres		4	2
+Kerewe			2	0
+Kerewo			2	0
+Kerinci			2	0
+Kermanic			1	0
+Ket			86	0
+Kewa			1	0
+Khakas			440	1
+Khalaj			40	0
+Khaling			3	0
+Kham			0	3
+Kham	Gamale Kham		1	0
+Kham	Sheshi Kham		1	0
+Kham	Western Parbate Kham		1	0
+Khamnigan Mongol			15	0
+Khamti			2	34
+Khana			1	0
+Khandeshi			1	0
+Khanty			7	98
+Khanty	Eastern Khanty		46	2
+Khanty	Northern Khanty		69	2
+Khanty	Southern Khanty		1	0
+Kharia			1	0
+Khasi			48	0
+Khehek			1	0
+Khengkha			1	0
+Khinalug			51	1
+Khitan			7	0
+Khmer			8804	400
+Khmer	Northern Khmer		2	9
+Khmer	Old Khmer		1	0
+Khmu			12	4
+Khoekhoe			86	4
+Kholosi			1	0
+Khorezmian Turkic			1	0
+Khotanese			5	0
+Khowar			37	0
+Khunsari			1	0
+Khvarshi			18	1
+Khwarezmian			5	0
+Khwe			1	0
+Khün			24	21
+Kiautschou German Pidgin			1	0
+Kibena			2	0
+Kibiri			1	0
+Kichwa			1	0
+Kickapoo			6	0
+Kikai			32	1
+Kikuyu			562	4
+Kildin Sami			1	0
+Kilivila			13	0
+Kiliwa			8	0
+Kilmeri			1	0
+Kimaragang			102	1
+Kimbu			2	0
+Kimbundu			32	1
+Kinalakna			1	0
+Kinaray-a			61	0
+Kinga			3	0
+Kinikinao			2	0
+Kinnauri			1	0
+Kinyarwanda			2	0
+Kioko			1	0
+Kiowa			2	0
+Kipchak			6	2
+Kipchak	Armeno-Kipchak		1	0
+Kipchak	Mamluk-Kipchak		1	0
+Kipsigis			3	0
+Kiput			7	0
+Kir-Balar			1	0
+Kirfi			1	0
+Kiribati			1	0
+Kirike			9	0
+Kirikiri			2	0
+Kirya			2	0
+Kirya-Konzel			4	0
+Kis			14	0
+Kisar			1	0
+Kisi			2	0
+Kissi			0	1
+Kissi	Northern Kissi		1	0
+Kissi	Southern Kissi		1	0
+Kisuaheli			1	0
+Kitanemuk			1	0
+Kitembo			6	0
+Kitja			2	0
+Kitsai			1	0
+Kituba			133	1
+Kiwai			0	3
+Kiwai	Northeast Kiwai		3	0
+Klallam			21	0
+Klamath-Modoc			76	0
+Klao			1	0
+Knaanic			3	0
+Koalib			1	0
+Koasati			27	0
+Kobol			1	0
+Koch			1	0
+Kodava			7	0
+Kodeoha			1	0
+Kodi			1	0
+Kofei			0	1
+Kofyar			1	0
+Kohin			1	0
+Kohistani Shina			1	0
+Koho			7	0
+Koiari			0	3
+Koiari	Grass Koiari		1	0
+Koiari	Mountain Koiari		3	0
+Kokborok			9	0
+Koko-Bera			3	0
+Kokoda			1	0
+Kokota			2	0
+Kolami			3	3
+Kolom			1	0
+Koluwawa			1	0
+Kom (Cameroon)			9	0
+Kombio			5	0
+Komering			7	0
+Komi			4	601
+Komi	Komi-Permyak		313	12
+Komi	Komi-Permyak	Komi-Yazva	1	0
+Komi	Komi-Yazva		9	0
+Komi	Komi-Zyrian		416	8
+Komi	Komi-Zyrian	Komi-Izhma	1	0
+Komi	Komi-Zyryan		1	0
+Komi	Old Komi		2	0
+Komi-Zyrian			1	0
+Komo			8	0
+Komodo			6	0
+Komyandaret			1	0
+Konabéré			1	0
+Konda			1	0
+Konda-Dora			1	0
+Kongo			244	34
+Konkani			237	7
+Konkani	Devanagari		1	0
+Konkani	Kannada		1	0
+Konkani	Latin		1	0
+Konkomba			3	0
+Konni			1	0
+Kono (Sierra Leone)			1	0
+Konomala			1	0
+Konomihu			1	0
+Konso			3	0
+Koonzime			1	0
+Kopkaka			0	1
+Korafe-Yegha			1	0
+Korak			1	0
+Korana			2	0
+Korean			31608	1533
+Korean	Cyrillic		1	0
+Korean	Early Modern Korean		4	0
+Korean	Middle Korean		72	0
+Korean	Old Korean		13	0
+Korean	Tagal Murut		0	1
+Korean Sign Language			1	2
+Koreguaje			3	0
+Korku			2	0
+Koro (India)			1	0
+Koromfé			2	0
+Koromu			1	0
+Koroni			2	0
+Korwa			1	0
+Koryak			41	0
+Koshin			1	0
+Kosraean			7	1
+Kott			12	0
+Kou			1	0
+Kovai			1	0
+Kove			2	0
+Kowaki			1	0
+Kowiai			2	0
+Koyo			1	0
+Koyra Chiini			4	0
+Koyukon			9	0
+Kpan			1	0
+Kpasam			2	0
+Kpee			1	0
+Kpelle			2	0
+Krahô			5	0
+Krenak			1	0
+Krio			63	1
+Krisa			13	0
+Kristang			17	0
+Krobu			2	0
+Krymchak			45	0
+Kryts			7	1
+Ktunaxa			24	0
+Kua-nsi			2	0
+Kuamasi			2	0
+Kubachi			1	0
+Kubo			1	0
+Kubu			1	0
+Kugbo			1	0
+Kui (India)			5	0
+Kuikúro			3	0
+Kuku-Thaypan			1	0
+Kuku-Uwanh			1	0
+Kuku-Yalanji			2	0
+Kulere			2	0
+Kulisusu			2	0
+Kumak			4	0
+Kuman			3	0
+Kumaoni			4	0
+Kumbewaha			1	0
+Kumeyaay			7	0
+Kumoring			1	0
+Kumukio			1	0
+Kumyk			771	4
+Kumzari			2	0
+Kuna			32	0
+Kunama			2	3
+Kunbarlang			2	0
+Kunda			7	0
+Kuni			1	0
+Kunigami			61	3
+Kunjen			1	0
+Kunza			5	0
+Kupa			1	0
+Kuranko			1	0
+Kurdish			11	7811
+Kurdish	Central Kurdish		3984	11
+Kurdish	Central Kurdish, Southern Kurdish		1	0
+Kurdish	Laki		85	5
+Kurdish	Northern Kurdish		5764	44
+Kurdish	Southern Kurdish		156	3
+Kuri			1	0
+Kuria			2	0
+Kurnai			1	0
+Kurtjar			3	0
+Kurtöp			4	0
+Kurudu			1	0
+Kurux			2	3
+Kuruáya			1	0
+Kusaal			10	1
+Kustenau			1	0
+Kusunda			5	0
+Kutu			1	0
+Kuturmi			1	0
+Kuuk Thaayorre			1	0
+Kuvi			5	0
+Kuwaa			0	1
+Kuy			3	0
+Kven			61	1
+Kwadi			1	0
+Kwaio			4	0
+Kwak'wala			24	0
+Kwalhioqua-Tlatskanai			1	0
+Kwama			2	0
+Kwamera			1	0
+Kwang			1	0
+Kwangali			6	0
+Kwanja			1	0
+Kwanka			1	0
+Kwanyama			14	2
+Kwara'ae			4	3
+Kwaya			2	0
+Kwaza			4	0
+Kwerba			2	0
+Kwere			3	0
+Kwini			1	0
+Kwoma			3	0
+Kyakala			1	0
+Kyenga			1	0
+Kyrgyz			6988	42
+Kyrgyz	Arabic		5	0
+Kyrgyz	Cyrillic		6	0
+Kâte			2	0
+Kómnzo			1	0
+Laal			1	0
+Laalaa			1	0
+Label			1	0
+Labir			1	0
+Laboya			81	0
+Labu			1	0
+Lacandon			2	0
+Ladakhi			27	0
+Ladin			666	142
+Ladin	Anpezan		3	0
+Ladin	Badiot		17	0
+Ladin	Fascian		14	0
+Ladin	Fascian, Fodom, Anpezan		1	0
+Ladin	Fodom		3	0
+Ladin	Gherdëina		15	0
+Ladin	gherdëina/Fascian		1	0
+Ladino			1105	226
+Ladino	Eastern		1	0
+Ladino	Haketia		1	0
+Ladino	Hebrew		88	0
+Ladino	Hebrew script		1	0
+Ladino	Ladino		1	0
+Ladino	Latin		144	0
+Ladino	Latin script		1	0
+Ladino	Roman		3	0
+Ladino	Western		1	0
+Lafofa			1	0
+Lagwan			6	0
+Laha (Vietnam)			1	0
+Lahanan			1	0
+Lahnda			2	0
+Lahu			3	1
+Lai			4	0
+Lak			205	1
+Laki			0	1
+Lakkia			1	0
+Lakota			367	2
+Lala (New Guinea)			1	0
+Lala (South Africa)			1	0
+Lala-Bisa			5	0
+Lala-Roba			0	12
+Lalo			0	1
+Lalo	Dongshanba Lalo		1	0
+Lalo	Western Lalu		1	0
+Lalo	Xishanba Lalo		1	0
+Lamaholot			2	0
+Lamalera			1	0
+Lamang			1	0
+Lamba			3	0
+Lambya			12	0
+Lamet			1	0
+Lamkang			1	0
+Lamma			2	0
+Lamnso'			1	0
+Lampung			1	0
+Lampung Api			11	0
+Langi			2	0
+Lango (Uganda)			4	1
+Lanoh			2	0
+Lao			5335	653
+Laragia			1	0
+Lardil			1	0
+Larestani			1	0
+Larike-Wakasihu			2	0
+Laru			1	0
+Late Babylonian			2	0
+Latgalian			1204	19
+Latin			23456	110
+Latin	Classical Latin		4	0
+Latin	Contemporary Latin		1	0
+Latin	Early Medieval Latin		1	0
+Latin	Late Latin		4	0
+Latin	Medieval Latin		8	0
+Latin	New Latin		5	0
+Latin	Old Latin		1	0
+Latin	Pre-Classical		1	0
+Latin	Scientific Latinized genera		1	0
+Latin	Vulgar Latin		1	0
+Lativa			1	0
+Latundê			1	0
+Latvian			14127	808
+Lau			2	0
+Lauje			1	0
+Laurentian			5	0
+Lavatbura-Lamusong			1	0
+Lave			1	0
+Lavukaleve			50	0
+Lawa			0	8
+Lawa	Eastern Lawa		7	1
+Lawa	Western Lawa		5	1
+Lawangan			4	0
+Laz			351	29
+Laz	Georgian		2	0
+Laz	Latin		2	0
+Leipon			1	0
+Lela			6	0
+Lele (Chad)			1	0
+Lele (Guinea)			1	0
+Lembena			1	0
+Lenakel			9	0
+Lenape			1	0
+Lendu			1	0
+Lengo			2	0
+Lenje			5	0
+Leonese			53	22
+Leonese	Old Leonese		8	0
+Lepcha			32	1
+Leti			7	0
+Lewo			1	0
+Lezgi			499	1
+Lhao Vo			7	0
+Li'o			3	0
+Ligbi			1	0
+Ligurian			631	33
+Ligurian	Genoese		1	0
+Ligurian	Monégasque		2	0
+Ligurian	Tabarchino		1	0
+Liivi			1	0
+Lika			1	0
+Likum			2	0
+Lillooet			7	0
+Limba			0	1
+Limba	West-Central Limba		0	1
+Limbu			9	3
+Limburgish			875	10
+Limburgish	Eupen		1	0
+Limburgish	Maastrichtian		1	0
+Limilngan			6	0
+Lindu			9	0
+Lingala			827	6
+Lingao			10	0
+Linngithigh			73	0
+Lipo			3	0
+Lisu			45	1
+Lithuanian			13251	829
+Lithuanian	Aukštaitian		7	0
+Lithuanian	Old Lithuanian		4	0
+Lithuanian	Samogitian		13	0
+Litzlitz			1	0
+Livonian			434	4
+Livonian	Courland		1	0
+Livvi			97	1
+Lizu			2	0
+Lo-Toga			3	0
+Logba			1	0
+Logooli			2	0
+Loiusiana Creole			1	0
+Loko			1	0
+Lokono			59	2
+Loloda			4	0
+Lolopo			12	0
+Loma			1	0
+Lomavren			0	1
+Lombard			882	60
+Lombard	Eastern		8	0
+Lombard	Eastern (Bergamasco)		1	0
+Lombard	Western		9	0
+Lombard	Western (Milanese)		1	0
+Lombard	Western Lombard		1	0
+Lombardic			3	0
+Lombo			1	0
+Lomwe			4	0
+Long Wat			2	0
+Longjia			1	0
+Loniu			2	0
+Lonwolwol			1	0
+Lopa			1	0
+Lorrain			5	0
+Lote			4	0
+Lotud			39	0
+Lotuko			1	0
+Lou			3	0
+Louisiana Creole			271	0
+Louisianan Creole			1	0
+Loup A			1	0
+Lovono			1	0
+Low German			681	1113
+Low German		Münsterländisch	1	0
+Low German	Dutch Low Saxon		251	7
+Low German	Dutch Low Saxon	Drents	2	0
+Low German	Dutch Low Saxon	Gronings	2	0
+Low German	Dutch Low Saxon	Twents	2	0
+Low German	East Frisian Low German		54	0
+Low German	Eastern Pomeranian		2	0
+Low German	Eastern Pomeranina		1	0
+Low German	Eastphalian		1	0
+Low German	German Low German		1003	4
+Low German	German Low German	East Frisian Low German	3	0
+Low German	German Low German	Eastphalian <small>(Ostfälisch)</small>	1	0
+Low German	German Low German	Low Prussian <small>(Niederpreußisch)</small>	1	0
+Low German	German Low German	Westphalian	2	0
+Low German	German Low German	Westphalian <small>(Westfälisch)</small>	0	1
+Low German	Low German		2	0
+Low German	Middle Low German		47	0
+Low German	Paderbornisch		5	0
+Low German	Paderbornish German Low German		1	0
+Low German	Westmünsterlandic		1	0
+Low German	Westphalian		0	2
+Low German	Westphalian	East Westphalian	1	0
+Low German	Westphalian	Münsterländisch	1	0
+Low German	Westphalian	South Westphalian	1	0
+Low German	Westphalian	Westmünsterländisch	1	0
+Low German/Low Saxon			0	1
+Low German/Low Saxon	Dutch Low Saxon		1	0
+Low German/Low Saxon	German Low German		1	0
+Low Saxon			2	0
+Lower Chehalis			1	1
+Lower Sorbian			5	0
+Lower Tanana			175	0
+Lozi			10	0
+Luang			2	0
+Luba-Kasai			46	1
+Luba-Katanga			43	0
+Lubuagan kalinga			1	0
+Lucumi			2	0
+Lucumí			20	0
+Ludian			22	0
+Luganda			228	27
+Lugbara			3	1
+Luguru			2	0
+Luhu			1	0
+Luhya			353	17
+Luhya	Wanga		1	0
+Luiseño			13	0
+Lule Sami			1	0
+Lumbu			1	0
+Lumun			1	0
+Lun Bawang			49	0
+Lunda			3	0
+Luo			214	3
+Luren			1	0
+Luri			0	12
+Luri	Bakhtiari		1	0
+Luri	Northern Luri		12	0
+Luri	Southern Luri		3	0
+Lusengo			1	0
+Lushootseed			210	0
+Lusi			2	0
+Lusitanian			4	0
+Lutuv			291	0
+Luvale			2	0
+Luwian			17	0
+Luwo			1	0
+Luxembourgish			3526	31
+Lycian			16	0
+Lydian			11	0
+Lü			677	142
+MIddle English			1	0
+Ma Manda			1	0
+Ma'anyan			8	0
+Ma'di			2	0
+Ma'ya			1	0
+Maaka			1	0
+Maasai			63	1
+Maay			1	0
+Mabaan			1	0
+Macaguán			3	0
+Macanese			79	2
+Macedonian			24387	1512
+Machame			2	0
+Machiguenga			7	0
+Machinere			1	0
+Macuna			2	0
+Macushi			2	0
+Mada (Nigeria)			2	0
+Madak			1	0
+Madngele			1	0
+Madurese			66	2
+Mafa			1	0
+Magahi			62	20
+Magahi	Northern		1	0
+Magahi	Southern		1	0
+Magar			0	1
+Magar	Eastern Magar		1	0
+Magori			1	0
+Maguindanao			251	19
+Magyar			1	0
+Mahasu Pahari			1	0
+Mahican			5	1
+Mahou			1	0
+Maia			6	0
+Maidu			0	4
+Maidu	Nisenan		2	0
+Maidu	Northeast Maidu		2	0
+Mailu			3	0
+Maipure			1	0
+Maithili			139	25
+Maithili	Devanagari		2	0
+Maithili	Tirhuta		2	0
+Majang			3	0
+Mak (China)			2	0
+Makah			6	0
+Makalero			2	0
+Makasae			51	0
+Makasar			91	0
+Makassar			1	0
+Makassar Malay			2	0
+Makhuwa			8	0
+Makhuwa-Meetto			4	0
+Makhuwa-Shirima			3	0
+Makonde			7	0
+Maku'a			1	0
+Makuráp			1	0
+Malagasy			1127	13
+Malagasy	Tsimihety		1	0
+Malalamai			1	0
+Malalí			2	0
+Malango			1	0
+Malas			1	0
+Malasanga			1	0
+Malavedan			1	0
+Malawi Lomwe			23	0
+Malay			14219	596
+Malay	Airbiruan Malay		1	0
+Malay	Balinese Malay		1	0
+Malay	Banda Malay		1	0
+Malay	Berau Malay		2	0
+Malay	Brunei Malay		345	0
+Malay	Central Malay		4	0
+Malay	Jambi Malay		2	0
+Malay	Jawi		267	0
+Malay	Kedah Malay		3	0
+Malay	Kota Bangun Kutai Malay		1	0
+Malay	Manado Malay		6	0
+Malay	Negeri Sembilan Malay		3	0
+Malay	Papuan Malay		1	0
+Malay	Pattani Malay		10	0
+Malay	Rumi		221	0
+Malay	Sarawak Malay		3	0
+Malay	Terengganu Malay		2	0
+Malayalam			6463	165
+Malayalam	Judeo-Malayalam		1	0
+Malayan			0	1
+Malayic Dayak			2	0
+Malaynon			2	0
+Malaysian			1	0
+Malaysian Sign Language			1	0
+Male			1	0
+Malecite-Passamaquoddy			54	0
+Malila			3	0
+Malinaltepec Tlapanec			1	0
+Maliseet-Passamaquoddy			1	0
+Maltese			4613	147
+Malvi			8	0
+Maléku Jaíka			8	0
+Mam			9	0
+Mamaindé			2	0
+Mamanwa			5	0
+Mamasa			3	0
+Mambae			8	0
+Mambila			1	0
+Mamboru			2	0
+Mambwe-Lungu			3	0
+Mampruli			5	0
+Mamuju			1	0
+Manam			3	0
+Manambu			1	0
+Manchu			2068	41
+Manchurian			1	0
+Manda (Australia)			1	0
+Manda (India)			1	0
+Mandahuaca			3	0
+Mandan			4	0
+Mandar			12	0
+Mandara			1	0
+Mandari			0	1
+Mandarin			5	0
+Mandingo			1	50
+Mandingo	Eastern Maninkakan		4	0
+Mandingo	Mandinka		46	1
+Mandingo	Western Maninkakan		2	0
+Mandobo			0	1
+Mandobo	Upper Mandobo		1	0
+Mang			3	0
+Mangala			1	0
+Mangarayi			1	0
+Mangarevan			16	0
+Mangas			3	0
+Mangbetu			1	0
+Manggarai			9	0
+Mangghuer			11	1
+Manipa			1	0
+Manipuri			102	105
+Manipuri	Bishnupriya Manipuri		98	5
+Manipuri	Old Manipuri		1	0
+Mankanya			1	0
+Mano			1	0
+Manobo			1	144
+Manobo	Agusan Manobo		1	0
+Manobo	Ata Manobo		1	0
+Manobo	Cinamiguin Manobo		1	0
+Manobo	Cotabato Manobo		1	0
+Manobo	Dibabawon Manobo		7	0
+Manobo	Ilianen Manobo		1	0
+Manobo	Matigsalug Manobo		1	0
+Manobo	Western Bukidnon Manobo		136	0
+Mansaka			257	0
+Mansi			4	300
+Mansi	Central Mansi		1	0
+Mansi	Eastern Mansi		6	0
+Mansi	Northern Mansi		295	5
+Mansi	Soutern Mansi		1	0
+Mansi	Southern Mansi		1	0
+Mansi	Western Mansi		1	0
+Mansoanka			1	0
+Manta			1	0
+Manx			4893	29
+Manza			1	0
+Maonan			2	0
+Maori			7	1
+Mapia			0	1
+Mapidian			1	0
+Mapoyo			2	0
+Mapudungun			174	2
+Mapun			6	0
+Maranao			535	9
+Maranungku			5	0
+Marathi			9353	62
+Marathi	Old Marathi		6	4
+Marathi	Old Marathi	Devanagari	4	0
+Marathi	Old Marathi	Modi	4	0
+Maratino			1	0
+Marau			1	0
+Margany			1	0
+Margi			3	0
+Mari			20	1000
+Mari	Eastern Mari		926	11
+Mari	Meadow Mari		3	0
+Mari	Northwestern Mari		2	0
+Mari	Western Mari		313	21
+Mari (Austronesian)			1	0
+Maria			1	0
+Maricopa			83	1
+Maridan			1	0
+Maridjabin			1	0
+Marimanindji			1	0
+Maringarr			1	0
+Marka			1	0
+Maroon Spirit Language			3	0
+Marquesan			0	15
+Marquesan	North Marquesan		13	0
+Marquesan	South Marquesan		9	0
+Marriammu			1	0
+Marrithiyel			1	0
+Marrucinian			2	0
+Marshallese			495	8
+Marsian			3	0
+Martu Wangka			4	0
+Martuthunira			13	0
+Marwari			62	2
+Marwari	Devanagari		1	0
+Marwari	Mahajani		1	0
+Marúbo			1	0
+Masaba			2	1
+Masaba	Bukusu		1	0
+Masakará			2	0
+Masalit			2	0
+Masbatenyo			17	0
+Masela			0	2
+Masela	Central Masela		2	0
+Masela	East Masela		1	0
+Masiwang			2	0
+Massachusett			19	1
+Massep			0	2
+Matagalpa			1	0
+Matal			3	0
+Matanawi			1	0
+Matbat			1	0
+Matengo			3	0
+Matlatzinca			7	0
+Mato			3	0
+Mator			6	0
+Matsés			3	1
+Mattole			1	0
+Matukar			2	0
+Matumbi			2	0
+Matís			1	0
+Maung			8	0
+Mauritian Creole			512	0
+Mauwake			5	0
+Mav̋ea			1	0
+Mawa			1	0
+Mawak			1	0
+Mawes			1	0
+Maxakalí			7	0
+Mayangna			1	0
+Maybrat			16	0
+Maykulan			1	0
+Mayo			9	0
+Mayogo			1	0
+Mazahua			0	25
+Mazahua	Central Mazahua		24	1
+Mazahua	Michoacán Mazahua		2	0
+Mazanderani			303	6
+Mazatec			0	14
+Mazatec	Ayautla Mazatec		2	0
+Mazatec	Chiquihuitlán Mazatec		9	0
+Mazatec	Huautla Mazatec		2	0
+Mazatec	San Jerónimo Tecóatl Mazatec		4	0
+Mbabaram			8	0
+Mbalanhu			1	0
+Mbandja			1	0
+Mbato			1	0
+Mbay			2	0
+Mbelime			8	0
+Mbere			0	1
+Mbesa			1	0
+Mbre			1	0
+Mbu'			1	0
+Mbudum			1	0
+Mbugu			1	0
+Mbuko			3	0
+Mbukushu			3	0
+Mbula			3	0
+Mbunda			1	0
+Mbunga			1	0
+Mbuun			2	0
+Me'phaa			0	3
+Me'phaa	Acatepec Me'phaa		3	0
+Me'phaa	Azoyú Me'phaa		1	0
+Me'phaa	Tlacoapa Me'phaa		1	0
+Medebur			1	0
+Media Lengua			2	0
+Median			0	1
+Median	Old Median		1	0
+Medieval Latin			3	0
+Mednyj Aleut			1	0
+Medumba			1	0
+Meetei Mayek			1	0
+Mefele			1	0
+Megleno-Romanian			164	2
+Mehek			2	0
+Mehináku			2	0
+Mehri			9	4
+Mekeo			2	0
+Mekwei			1	0
+Melanau			0	320
+Melanau	Central Melanau		319	1
+Melanau	Daro-Matu Melanau		1	0
+Mele-Fila			2	0
+Melo			1	0
+Melpa			1	0
+Memoni			1	0
+Mende			0	2
+Mende (New Guinea)			2	0
+Mende (Sierra Leone)			5	1
+Mendriq			1	0
+Mengen			2	0
+Menien			1	0
+Menka			1	0
+Menominee			20	0
+Mentawai			4	0
+Menya			2	0
+Meramera			1	0
+Merap			1	0
+Merei			2	0
+Merey			1	0
+Meriam			13	0
+Meriam Mir			1	0
+Meroitic			4	0
+Meru			200	0
+Meru<!-- are these really qualifiers? what do they mean? -->			1	0
+Merya			1	0
+Mesaka			2	0
+Messapic			1	0
+Meta'			1	0
+Mewari			3	0
+Mewati			1	0
+Meyah			1	0
+Meänkieli			49	0
+Mfinu			1	0
+Mfumte			2	0
+Mi'kmaq			169	0
+Miami			47	0
+Mian			6	0
+Michif			22	1
+Middle Armenian			1	0
+Middle English			3598	16
+Middle French			1	0
+Middle High German			5	0
+Middle Low German			1	0
+Middle Mongol			19	3
+Middle Mongol	Phags-pa		1	0
+Middle Mongol	Uyghurjin		3	0
+Middle Persian			1	1
+Middle Persian	 Manichaean		1	0
+Midob			3	0
+Migaama			1	0
+Miji			1	0
+Miju			1	0
+Mikasuki			1	0
+Mikmaq			1	0
+Milang			1	0
+Miltu			1	0
+Milyan			2	0
+Mimi of Decorse			1	0
+Mimi of Nachtigal			1	0
+Min Nan			1	0
+Mina			2	0
+Minaean			5	0
+Minangkabau			204	10
+Minaveha			1	0
+Mindiri			1	0
+Mingo			10	0
+Mingrelian			581	11
+Minidien			1	0
+Minjungbal			3	0
+Minoan			5	0
+Minriq			1	0
+Mirandese			578	149
+Mirandese	Sendinese		1	0
+Miriwoong			4	0
+Miship			1	0
+Misima-Paneati			2	0
+Mising			1	0
+Miskito			14	0
+Miwok			0	186
+Miwok	Bay Miwok		6	0
+Miwok	Central Sierra Miwok		171	0
+Miwok	Coast Miwok		4	0
+Miwok	Lake Miwok		4	0
+Miwok	Northern Sierra Miwok		2	0
+Miwok	Plains Miwok		3	0
+Miwok	Southern Sierra Miwok		15	0
+Mixe			0	10
+Mixe	Coatlán Mixe		4	1
+Mixe	Isthmus Mixe		5	0
+Mixe	Totontepec Mixe		8	0
+Mixed Great Andamanese			1	0
+Mixifore			1	0
+Mixtec			0	52
+Mixtec	Alcozauca Mixtec		11	0
+Mixtec	Ayutla Mixtec		2	0
+Mixtec	Chayuco Mixtec		5	0
+Mixtec	Coatzospan Mixtec		1	0
+Mixtec	Diuxi-Tilantongo Mixtec		1	0
+Mixtec	Magdalena Peñasco Mixtec		8	0
+Mixtec	Metlatónoc Mixtec		0	1
+Mixtec	Mixtepec Mixtec		1	0
+Mixtec	Ocotepec Mixtec		0	1
+Mixtec	Peñoles Mixtec		1	0
+Mixtec	San Juan Colorado Mixtec		14	0
+Mixtec	San Miguel el Grande Mixtec		17	0
+Mixtec	Silacayoapan Mixtec		1	1
+Mixtec	Sinicahua Mixtec		1	0
+Mixtec	Southeastern Nochixtlán Mixtec		1	0
+Mixtec	Southern Puebla Mixtec		1	0
+Mixtec	Teposcolula Mixtec		8	0
+Mixtec	Tezoatlán Mixtec		7	0
+Mixtec	Western Juxtlahuaca Mixtec		1	0
+Mixtec	Yosondúa Mixtec		16	0
+Miya			8	0
+Miyako			97	11
+Mizo			271	25
+Mlap			1	0
+Mmani			2	0
+Mmen			1	0
+Mnong			0	8
+Mnong	Central Mnong		4	0
+Mnong	Eastern Mnong		4	0
+Mo			1	0
+Moabite			3	0
+Moba			7	0
+Mobilian			1	0
+Mochi			2	0
+Mochica			3	0
+Mocho			1	0
+Mocoví			3	0
+Modang			3	0
+Modole			2	0
+Moere			1	0
+Mofu-Gudur			1	0
+Mogholi			6	0
+Mohawk			94	2
+Mohegan-Pequot			36	0
+Moikodi			1	0
+Mojave			8	1
+Mokati			1	0
+Mokilese			105	0
+Moksha			396	9
+Molale			1	0
+Molbog			2	1
+Molima			1	0
+Molo			1	0
+Moloko			1	0
+Moma			1	0
+Mon			361	87
+Mon	Old Mon		1	0
+Mon Pali			1	0
+Mondé			2	0
+Mongghul			18	2
+Mongo			73	0
+Mongolian			3120	5146
+Mongolian	Classical		2	0
+Mongolian	Classical Mongolian		83	1
+Mongolian	Cyrillic		4276	11
+Mongolian	Latin		1	0
+Mongolian	Middle Mongol		1	0
+Mongolian	Modern Mongolian		1	0
+Mongolian	Mongolian		11	0
+Mongolian	Mongolian script		1441	1
+Mongolian	Traditional		1	0
+Mongondow			4	0
+Monguor			2	1
+Monguor	Mangghuer		1	0
+Mono (California)			2	0
+Montagnais			7	0
+Montana Salish			18	0
+Montol			1	0
+Monumbo			1	0
+Moore			173	1
+Mopan Maya			20	0
+Moran			1	0
+Mori Atas			3	0
+Mori Bawah			19	0
+Morigi			1	0
+Moriori			1	0
+Moro			1	0
+Moroccan Amazigh			7	0
+Morom			1	0
+Moronene			2	0
+Morori			1	0
+Mortlockese			1	1
+Mota			4	0
+Motu			63	0
+Mouk-Aria			1	0
+Movima			6	0
+Mozarabic			8	0
+Mpade			40	0
+Mpiemo			1	0
+Mpoto			5	0
+Mpotovoro			1	0
+Mpuono			1	0
+Mpur			1	0
+Mru			2	0
+Muak Sa-aak			7	0
+Mualang			3	0
+Mubami			2	0
+Mubi			2	0
+Mucuchí			1	0
+Mudburra			33	0
+Muduapa			3	0
+Muinane			4	0
+Muji			0	1
+Muji	Southern Muji		1	0
+Mukulu			1	0
+Mulam			11	1
+Mullu Kurumba			2	0
+Muna			83	0
+Mundabli			1	0
+Mundang			1	1
+Mundani			1	0
+Mundari			5	3
+Mundat			2	0
+Mundurukú			3	0
+Mungbam			1	0
+Munggui			1	0
+Mungkip			1	0
+Munji			3	0
+Munsee			24	3
+Muong			76	4
+Muratayak			1	0
+Murik (Malaysia)			2	0
+Murik (New Guinea)			8	0
+Murle			0	1
+Murrinh-Patha			9	2
+Mursi			1	0
+Murut			0	110
+Murut	Keningau Murut		1	0
+Murut	Serudung Murut		1	0
+Murut	Tagal Murut		97	2
+Murut	Timugon Murut		48	0
+Muruwari			1	0
+Musey			4	0
+Musgu			2	0
+Musi			9	0
+Musom			1	0
+Mussau-Emira			3	0
+Muya			1	0
+Muyang			17	0
+Muyu			0	3
+Muyu	North Muyu		3	0
+Muyu	South Muyu		1	0
+Muyuw			2	0
+Muzo			1	0
+Mwaghavul			2	0
+Mwan			2	0
+Mwani			166	0
+Mwera			16	0
+Mwotlap			8	0
+Myene			2	0
+Mymensinghiya			1	0
+Mòcheno			366	1
+Mündü			1	0
+Māori			20987	95
+N'Ko			10	0
+N'ko			1	0
+Na			1	0
+Naba			1	0
+Nabi			2	0
+Nadëb			2	0
+Nafi			1	0
+Naga			0	880
+Naga	Khiamniungan Naga		887	0
+Naga	Konyak Naga		1	0
+Naga Pidgin			9	1
+Nagu			1	0
+Nahali			1	0
+Nahuatl			710	508
+Nahuatl	Central Huasteca Nahuatl		42	0
+Nahuatl	Central Nahuatl		72	3
+Nahuatl	Central Nahuatl	Amecameca Central Nahuatl	1	0
+Nahuatl	Classical Huasteca Nahuatl		2	0
+Nahuatl	Classical Nahuatl		542	2
+Nahuatl	Classical Nahuatl	Mandarin	1	0
+Nahuatl	Coatepec Nahuatl		4	0
+Nahuatl	Cosoleacaque Nahuatl		1	0
+Nahuatl	Eastern Durango Nahuatl		2	0
+Nahuatl	Eastern Huasteca Nahuatl		16	0
+Nahuatl	Guerrero Nahuatl		18	0
+Nahuatl	Highland Puebla Nahuatl		25	0
+Nahuatl	Huaxcaleca Nahuatl		1	0
+Nahuatl	Isthmus		3	0
+Nahuatl	Mecayapan Nahuatl		28	0
+Nahuatl	Michoacán Nahuatl		7	0
+Nahuatl	Morelos Nahuatl		10	0
+Nahuatl	Northern Puebla Nahuatl		24	0
+Nahuatl	Ometepec Nahuatl		4	0
+Nahuatl	Orizaba Nahuatl		6	0
+Nahuatl	Southeastern Puebla Nahuatl		1	0
+Nahuatl	Tabasco Nahuatl		2	0
+Nahuatl	Temascaltepec Nahuatl		10	0
+Nahuatl	Tetelcingo Nahuatl		34	0
+Nahuatl	Tlamacazapa Nahuatl		11	0
+Nahuatl	Western Durango Nahuatl		2	0
+Nahuatl	Western Huasteca Nahuatl		19	0
+Nahuatl	Zacatlán-Ahuacatlán-Tepetzintla Nahuatl		8	0
+Nakame			1	0
+Nakanai			3	0
+Naki			1	0
+Nalca			1	0
+Nali			2	0
+Nalik			1	0
+Nama			12	0
+Namakura			2	0
+Nambikwara			3	0
+Nambya			1	0
+Namia			1	0
+Namo			1	0
+Namonuito			0	1
+Namuyi			2	0
+Nanai			505	2
+Nande			1	0
+Nandi			70	0
+Nanticoke			36	1
+Nanticoke	Piscataway		2	0
+Nar Phu			1	0
+Nara			0	1
+Naro			2	0
+Narragansett			12	1
+Narungga			15	0
+Nasioi			1	0
+Naskapi			2	0
+Natchez			4	0
+Natügu			1	0
+Nauete			1	0
+Naukanski			1	0
+Nauna			3	0
+Nauruan			140	12
+Navajo			4297	10
+Nawaru			2	0
+Nawathinehena			2	0
+Nawdm			15	0
+Nawuri			3	0
+Naxi			23	5
+Nayi			1	0
+Ncane			1	0
+Ndali			2	0
+Ndam			1	0
+Ndamba			3	0
+Ndau			1	0
+Nde-Nsele-Nta			2	0
+Ndebele			0	41
+Ndebele	Northern Ndebele		19	2
+Ndebele	Southern Ndebele		18	5
+Ndemli			1	0
+Ndendeule			5	0
+Ndengereko			2	0
+Ndo			1	0
+Ndoe			1	0
+Ndogo			1	0
+Ndom			10	0
+Ndonga			36	3
+Ndyuka-Trio Pidgin			1	0
+Ndé Miizaa			1	0
+Neapolitan			879	28
+Neapolitan	Tarantino		1	1
+Nefusa			1	0
+Negerhollands			5	0
+Negidal			33	1
+Nehan			2	0
+Nek			1	0
+Nekgini			2	0
+Neko			1	0
+Nemi			12	0
+Nend			1	0
+Nenets			1	84
+Nenets	Forest Nenets		15	2
+Nenets	Tundra Nenets		77	3
+Nenets	Tundra Nenets	Forest Nenets	1	0
+Nengone			12	2
+Nepali			2098	97
+Nepali	Bokmål		1	0
+Nepali	Nynorsk		1	0
+Neve'ei			1	0
+Neverver			2	0
+New Latin			1	0
+Newar			258	12
+Newar	Devanagari		1	0
+Newar	Newa		1	0
+Newar	Paracalit		1	0
+Nez Perce			8	0
+Nga La			6	0
+Ngaanyatjarra			1	0
+Ngadha			5	0
+Ngadjuri			10	0
+Ngaing			1	0
+Ngaju			11	0
+Ngalakan			2	0
+Ngalkbun			1	0
+Ngalum			1	0
+Ngam			1	0
+Ngamambo			1	0
+Ngambay			3	2
+Ngamo			7	0
+Ngan'gityemerri			2	0
+Nganasan			51	0
+Ngandi			2	0
+Ngarinman			3	0
+Ngarinyin			2	0
+Ngarla			3	0
+Ngarluma			2	0
+Ngarrindjeri			138	0
+Ngas			4	0
+Ngbaka			2	1
+Ngbaka Ma'bo			1	0
+Ngbaka Manza			1	0
+Ngbandi			1	1
+Ngbandi	Northern Ngbandi		2	0
+Ngeq			1	0
+Nggem			1	0
+Ngie			1	0
+Ngiemboon			2	0
+Ngindo			2	0
+Ngiti			1	0
+Ngiyambaa			7	0
+Ngizim			9	0
+Ngkâlmpw Kanum			2	0
+Ngomba			1	0
+Ngombe (Congo)			23	0
+Ngoni			2	0
+Ngoreme			1	0
+Ngoshie			1	0
+Ngulu			1	0
+Ngunawal			19	1
+Nguon			1	0
+Ngwo			2	0
+Ngäbere			1	0
+Nhanda			3	0
+Nheengatu			124	9
+Nias			35	1
+Nicaraguan Creole			2	0
+Nicaraguan Sign Language			0	1
+Nicobarese			0	19
+Nicobarese	Car Nicobarese		17	0
+Nicobarese	Central Nicobarese		3	0
+Nigerian Pidgin			44	2
+Nihali			9	4
+Nii			6	0
+Nila			1	0
+Nilamba			2	0
+Nimadi			3	0
+Nimboran			1	0
+Nimoa			2	0
+Ninam			2	0
+Ninggerum			1	0
+Ningil			1	0
+Ninzo			1	0
+Nisga'a			3	0
+Niuafo'ou			2	0
+Niuean			110	0
+Nivaclé			3	1
+Nivaclé	Chishamnee Lhavos		1	0
+Nivaclé	Shichaam Lhavos		1	0
+Nivkh			207	1
+Niwer Mil			1	0
+Njen			1	0
+Njyem			5	0
+Nkari			1	0
+Nkem-Nkum			2	0
+Nko			1	0
+Nkonya			12	0
+Nkoroo			1	0
+Nkoya			4	0
+Nnam			2	0
+Nobiin			9	1
+Nobiin	Fadicca		1	0
+Nobiin	Kenzi		1	0
+Nogai			433	0
+Nogay			1	0
+Nomatsiguenga			2	0
+Nomlaki			1	0
+Nong Zhuang			5	0
+Nonuya			1	0
+Nooksack			1	0
+Noon			1	0
+Noone			3	0
+Nootka			52	0
+Norman			5602	11
+Norman	Bokmål		1	0
+Norman	Cotentinais		1	0
+Norman	Jersey Norman		1	0
+Norman	Norman		2	0
+Norn			46	0
+North Alaskan Inupiatun			1	0
+North Ambrym			1	0
+North Babar			1	0
+North Frisian			4	0
+North Mofu			12	0
+North Moluccan Malay			6	0
+North Wahgi			1	0
+Northeast Malakula			2	0
+Northern Altai			33	0
+Northern Dagara			6	0
+Northern Emberá			4	0
+Northern Kurdish			3	0
+Northern Mansi			1	0
+Northern Paiute			11	0
+Northern Saharan Berber			1	0
+Northern Sami			8	0
+Northern Sotho			93	3
+Northern Yukaghir			1	0
+Northwest Gbaya			1	0
+Norwegain			0	1
+Norwegian			8907	23715
+Norwegian	Bokmål		23300	160
+Norwegian	Middle Norwegian		2	0
+Norwegian	Norwegian Bokmål		1	0
+Norwegian	Norwegian Nynorsk		1	0
+Norwegian	Norwegian Nynosrk		1	0
+Norwegian	Norwegian bokmål		2	0
+Norwegian	Norwegian nynorsk		1	0
+Norwegian	Nynorsk		15183	175
+Norwegian	Riksmål		2	0
+Norwegian Bokmål			6	0
+Norwegian Nynorsk			5	0
+Nottoway			2	0
+Nottoway-Meherrin			21	0
+Novial			0	1
+Nsari			1	0
+Nsenga			2	0
+Nsong			1	0
+Ntcham			7	0
+Nubi			12	0
+Nubian			0	4
+Nubian	Nobiin		4	0
+Nubian	Old Nubian		3	0
+Nuer			33	2
+Nuguria			1	0
+Nuk			1	0
+Nukak Makú			4	0
+Nukna			1	0
+Nukunu			15	0
+Nukuoro			2	0
+Numana			1	0
+Numanggang			1	0
+Numbami			1	0
+Numidian			1	0
+Numèè			1	0
+Nunggubuyu			2	0
+Nungon			2	0
+Nungu			1	0
+Nuosu			131	14
+Nupe			99	0
+Nusu			1	0
+Nutabe			1	0
+Nyah Kur			3	0
+Nyakyusa			8	0
+Nyambo			2	0
+Nyamwanga			9	0
+Nyamwezi			4	0
+Nyangbo			1	0
+Nyankole			7	0
+Nyaturu			3	0
+Nyawaygi			1	0
+Nyelâyu			3	0
+Nyigina			1	0
+Nyiha			1	0
+Nyimang			1	0
+Nyindrou			3	0
+Nyishi			1	0
+Nyole (Uganda)			31	0
+Nyoro			7	0
+Nyulnyul			3	0
+Nyunga			50	1
+Nyungwe			20	0
+Nzadi			5	0
+Nzanyi			1	0
+Nzima			5	0
+Nùng			2	1
+Nǀuu			159	19
+Nǀuu	Nǀuu		3	0
+O'du			2	0
+O'odham			119	1
+Obispeño			4	0
+Obokuitai			1	0
+Obolo			2	1
+Ocaina			3	0
+Occitan			7742	123
+Occitan	Aranese		1	0
+Occitan	Cyrillic		1	0
+Occitan	Gascon		3	0
+Occitan	Gascon	Aranese	1	0
+Occitan	Glagolitic		1	0
+Occitan	Languedocien		1	0
+Occitan	Mistralian		6	0
+Occitan	Old Occitan		155	1
+Occitan	Provençal		8	0
+Odia			1556	166
+Odual			1	0
+Ofayé			1	0
+Ofo			2	0
+Ogbah			2	0
+Ogbia			1	0
+Ogbronuagum			2	0
+Ogou			1	0
+Ogun			3	0
+Ohlone			0	188
+Ohlone	Northern Ohlone		123	0
+Ohlone	Southern Ohlone		77	0
+Oirat			3	0
+Oirata			1	0
+Ojibwa			0	32
+Ojibwa	Northwestern Ojibwa		19	0
+Ojibwa	Severn Ojibwa		4	0
+Ojibwa	Western Ojibwa		8	0
+Ojibwe			1122	12
+Ojibwe	Canadian syllabics		1	0
+Ojibwe	Eastern Ojibwe		3	0
+Ojibwe	Latin		1	0
+Ojibwe	Manitoba Saulteux		3	0
+Ojibwe (Anishinaabe)			1	0
+Okanagan			13	0
+Okinawan			291	19
+Okinoerabu			34	1
+Okodia			8	0
+Oksapmin			1	0
+Okwanuchu			1	0
+Old Avestan			1	0
+Old Church Slavonic			398	1006
+Old Church Slavonic	Church Slavonic		3	0
+Old Church Slavonic	Cyrillic		998	1
+Old Church Slavonic	Glagolitic		226	1
+Old Church Slavonic	Latin		6	0
+Old Danish			1	0
+Old East Slavic			708	1
+Old English			5364	23
+Old English	Iranian Persian		1	0
+Old English	Runic		1	0
+Old French			1	0
+Old Galician-Portuguese			168	0
+Old High German			2	0
+Old Italian			1	0
+Old Leonese			5	0
+Old Mazanderani			1	0
+Old Navarro-Aragonese			4	0
+Old Norse			983	8
+Old Norse	Latin		1	0
+Old Norse	Runic		1	0
+Old Nosre			1	0
+Old Novgorodian			4	0
+Old Nubian			3	0
+Old Prussian			188	2
+Old Romanian			1	0
+Old Ruthenian			54	1
+Old Saxon			220	0
+Old South Arabian			13	1
+Old South Arabian	Sabaean		1	0
+Old Swedish			3	0
+Old Tati			1	0
+Old Tupi			326	1
+Old Turkic			198	1
+Old Uighur			1	0
+Old Uyghur			45	0
+Old kapampangan			1	0
+Olo			2	0
+Olrat			2	0
+Olukumi			24	0
+Olutsotso			1	0
+Omagua			1	0
+Omaha-Ponca			42	0
+Omba			1	0
+One			0	2
+One	Inebu One		2	0
+One	Molmo One		1	0
+Oneida			26	2
+Ongota			4	0
+Onin			1	0
+Onobasulu			2	0
+Onondaga			5	2
+Ontong Java			2	0
+Opao			1	0
+Opón			1	0
+Orang Rimba			1	0
+Orejón			2	0
+Oriya			18	0
+Ormuri			2	0
+Oro			1	0
+Oro Win			1	0
+Oroch			25	1
+Orochen			1	0
+Oroha			1	0
+Orok			64	0
+Orokolo			1	0
+Oromo			898	12
+Oroqen			45	0
+Oroshori			2	0
+Oruma			1	0
+Orya			1	0
+Osage			73	0
+Osatu			1	0
+Oscan			10	0
+Osing			1	0
+Ossetian			1280	57
+Ossetian	Digor Issetian		1	0
+Ossetian	Digor Ossetian		32	0
+Ossetian	Iron Issetian		1	0
+Ossetian	Iron Ossetian		32	0
+Ossetic			4	0
+Ot Danum			4	0
+Otank			1	0
+Otomaco			2	0
+Otomi			0	40
+Otomi	Central		2	0
+Otomi	Estado de México Otomi		2	0
+Otomi	Mezquital Otomi		38	0
+Otomi	México Otomi		1	0
+Otomi	Temoaya Otomi		2	0
+Otomi	Tenango Otomi		1	0
+Ottawa			64	0
+Ottoman Turkish			30	0
+Owa			1	0
+Oyda			2	0
+Pa'a			1	0
+Pa'o Karen			3	0
+Paamese			4	0
+Pacoh			88	0
+Padoe			2	0
+Pagibete			1	0
+Pagu			1	0
+Pahari-Potwari			4	0
+Paharia			0	2
+Paharia	Kumarbhag Paharia		2	0
+Paharia	Sawriya Paharia		1	0
+Pahi			2	0
+Paicî			39	2
+Paikoneka			1	0
+Paipai			4	0
+Paiwan			80	2
+Pak-Tong			1	0
+Pakanha			2	0
+Pal			1	0
+Palauan			111	0
+Palaung			0	2
+Palaung	Rumai Palaung		1	0
+Palaung	Shwe Palaung		1	0
+Palawano			0	7
+Palawano	Brooke's Point Palawano		7	0
+Palawano	Central Palawano		1	0
+Palawano	Southwest Palawano		2	0
+Palenquero			3	0
+Pali			503	28
+Pali	Bengali		1	0
+Pali	Burmese		5	0
+Pali	Devanagari		18	0
+Pali	Khmer		3	0
+Pali	Latin		6	0
+Pali	Mon		8	0
+Pali	Mon Pali		1	0
+Pali	Sinhalese		3	0
+Pali	Tai Tham		1	0
+Pali	Thai		9	0
+Palikur			3	0
+Pallanganmiddang			1	0
+Palor			1	0
+Palu'e			8	0
+Paluan			1	0
+Palula			4	1
+Palula	Arabic		1	0
+Palula	Latin		1	0
+Pamigua			1	0
+Pamona			5	0
+Pamosu			3	0
+Pana (Central Africa)			2	0
+Panamint			36	0
+Panare			4	0
+Panará			6	0
+Pande			1	0
+Pangasinan			175	1
+Pangseng			1	0
+Pangwa			2	0
+Panim			2	0
+Pannonian Russian			1	0
+Pannonian Rusyn			1828	6
+Panyjima			2	0
+Papapana			2	0
+Papiamento			2	0
+Papiamentu			510	2
+Papora			1	1
+Papuma			1	0
+Parachi			1	0
+Paraguayan Guarani			1	6
+Parakanã			5	0
+Paraujano			10	0
+Parauk			4	0
+Parawen			1	0
+Pare			2	0
+Pareci			4	0
+Parenga			0	1
+Parthian			78	1
+Parthian	Manichaean 		1	0
+Parya			3	0
+Pará Gavião			6	0
+Pashayi			0	1
+Pashayi	Northeast Pashayi		1	0
+Pashto			3429	95
+Pashto	Waziri		1	0
+Patagón			1	0
+Pataxó Hã-Ha-Hãe			2	0
+Patpatar			4	0
+Pattani			1	0
+Pattani Malay			1	0
+Paulohi			3	0
+Paumarí			12	0
+Paunaka			1	0
+Pawaia			1	0
+Pawnee			72	0
+Payaguá			1	0
+Pazeh			15	0
+Pe			1	0
+Pech			1	0
+Pecheneg			1	0
+Pela			92	0
+Pele-Ata			3	0
+Pemon			6	0
+Penan			0	3
+Penan	Eastern Penan		3	0
+Penan	Western Penan		2	0
+Penchal			2	0
+Pendau			1	0
+Pennsylvania German			442	1
+Penobscot			17	0
+Penrhyn			2	0
+Perai			1	0
+Peranakan Indonesian			3	0
+Pericú			1	0
+Pero			2	0
+Persan			1	0
+Persian			16026	4995
+Persian	Arabic		1	0
+Persian	Classical Persian		255	0
+Persian	Dari		1373	4
+Persian	Hazaragi		4	0
+Persian	Iranian Persian		4535	2
+Persian	Iranian Persian	Isfahani	1	0
+Persian	Iranian Persian 		1	0
+Persian	Middle Persian		287	2
+Persian	Middle Persian	Book Pahlavi	1	0
+Persian	Middle Persian	Manichean	2	0
+Persian	Old Persian		107	0
+Persian	Sistani Persian		1	0
+Persian Sign Language			1	0
+Persisch			1	0
+Phake			10	35
+Phoenician			94	1
+Phola			1	0
+Phom			1	0
+Phowa			0	1
+Phowa	Hlepho Phowa		1	0
+Phrygian			7	0
+Phuthi			11	0
+Phuza			1	0
+Piamatsina			1	0
+Piapoco			3	0
+Piaroa			2	0
+Picard			226	7
+Pichinglis			4	0
+Piedmontese			791	68
+Pijao			2	0
+Pije			12	0
+Pijin			68	2
+Pilagá			1	0
+Pileni			4	0
+Pima Bajo			2	0
+Pimbwe			2	0
+Pingelapese			1	1
+Pintupi-Luritja			0	2
+Pinyin			3	0
+Pipil			148	0
+Pirahã			41	1
+Piratapuyo			3	0
+Pisabo			0	1
+Piscataway			2	0
+Pitcairn-Norfolk			120	0
+Pitjantjatjara			174	7
+Pitta-Pitta			1	0
+Plains Indian Sign Language			2	0
+Plautdietsch			4076	24
+Playero			2	0
+Pnar			2	0
+Pochutec			2	0
+Podoko			3	0
+Pogolo			1	0
+Pohnpeian			370	0
+Poitevin-Saintongeais			26	0
+Pokangá			2	0
+Polabian			344	1
+Polabian	Draweno-Polabian		1	0
+Polabian	Modern Polabian		1	0
+Polabian	Old Polabian		1	0
+Polci			1	0
+Polish			85490	17
+Polish	Middle Polish		1	0
+Polish	Old Polish		61	0
+Polish	Portuguese(Brazil)		1	0
+Pom			1	0
+Pomo			0	24
+Pomo	Central Pomo		2	0
+Pomo	Eastern Pomo		1	0
+Pomo	Kashaya		19	0
+Pomo	Northern Pomo		3	0
+Pomo	Southern Pomo		5	0
+Ponosakan			1	0
+Pontic			1	0
+Popoloca			0	17
+Popoloca	San Felipe Otlaltepec Popoloca		2	0
+Popoloca	San Juan Atzingo Popoloca		16	1
+Popoluca			0	10
+Popoluca	Highland Popoluca		8	0
+Popoluca	Oluta Popoluca		5	0
+Popoluca	Sayula Popoluca		6	0
+Port Sandwich			1	0
+Portugal			3	0
+Portuguese			75492	1683
+Portuguese	Brazilian Portuguese		285	0
+Portuguese	European Portuguese		259	0
+Portuguese	Indo-Portuguese		3	0
+Portuguese	Korlai Creole Portuguese		7	0
+Portuguese	{{qualifier|Angola, Mozambique}}		1	0
+Potawatomi			62	0
+Powhatan			40	0
+Prakrit			25	45
+Prakrit	Ardhamagadhi Prakrit		3	0
+Prakrit	Ashokan Prakrit		12	0
+Prakrit	Brahmi		1	0
+Prakrit	Devanagari		1	0
+Prakrit	Jain Maharastri Prakrit		1	0
+Prakrit	Magadhi Prakrit		11	0
+Prakrit	Maharastri Prakrit		18	0
+Prakrit	Sauraseni Prakrit		12	0
+Prasuni			25	0
+Principense			3	0
+Proto-Bantu			0	3
+Proto-Norse			16	0
+Puelche			1	0
+Puinave			2	0
+Pukapukan			12	0
+Pulaar			0	1
+Pulaar	Adlam		1	0
+Pulaar	Latin		1	0
+Puluwat			2	1
+Pumi			0	1
+Pumi	Northern Pumi		1	0
+Pumi	Southern Pumi		1	0
+Pumpokol			11	0
+Pumé			1	0
+Punan Aput			2	0
+Punan Bah-Biau			2	0
+Punan Tubu			3	0
+Punic			25	0
+Punjabi			2501	852
+Punjabi	Eastern Punjabi		3	0
+Punjabi	Gurmukhi		592	11
+Punjabi	Gyrmukhi		1	0
+Punjabi	Old Punjabi		4	0
+Punjabi	Shahmukhi		317	15
+Punjabi	Siraiki		1	0
+Punjabi	Western Punjabi		388	0
+Punu			2	0
+Puoc			1	0
+Puragi			1	0
+Purari			1	0
+Purepecha			46	5
+Purik			1	1
+Puruborá			1	0
+Purukotó			1	0
+Puyuma			33	0
+Pwaamèi			1	0
+Pwo			0	4
+Pwo	Northern Pwo		1	0
+Pwo	Western Pwo		3	0
+Pykobjê			9	0
+Páez			2	0
+Pááfang			0	1
+Pévé			2	0
+Pökoot			1	0
+Pāli			1	0
+Q'anjob'al			4	0
+Q'eqchi			19	0
+Qabiao			1	0
+Qashqai			3	0
+Qatabanian			1	0
+Qiang			0	7
+Qiang	Northern Qiang		7	0
+Qiang	Southern Qiang		1	0
+Qimant			2	0
+Quapaw			33	0
+Quechua			2173	15
+Quechua	Canka Quechua		7	0
+Quechua	Central Quechua		1	0
+Quechua	Classical Quechua		1	0
+Quechua	Cusco Quechua		1	0
+Quechua	Ecuadorian Kichwa		5	0
+Quechua	Huallaga		1	0
+Quechua	Southern Quechua		5	0
+Quechua	Waiwaş Quechua		7	0
+Quechua	Wanka Quechua		8	0
+Quechuan			1	0
+Queyu			1	0
+Quileute			8	0
+Quinault			3	0
+Quiripi			2	0
+Quitemo			1	0
+Rabha			12	0
+Rade			23	0
+Raga			7	0
+Rajbanshi			2	0
+Rakhine			4	38
+Ralte			1	0
+Rama			2	0
+Ramoaaina			2	0
+Rang			1	0
+Rapa			1	0
+Rapa Nui			412	0
+Rara			1	0
+Rara Bakati'			1	0
+Rarotongan			168	0
+Rasawa			2	0
+Ratagnon			5	0
+Ratahan			7	0
+Rawang			10	0
+Razihi			1	0
+Reel			1	0
+Rejang			9	0
+Rejang Kayan			2	0
+Rembarunga			1	0
+Rembong			1	0
+Rendille			11	0
+Rengao			10	0
+Rennellese			4	0
+Rerau			1	0
+Reshe			1	0
+Resígaro			2	0
+Retta			2	0
+Riang			1	0
+Ribun			3	0
+Rikbaktsa			4	0
+Ritarungo			1	0
+Roglai			0	1
+Roglai	Northern Roglai		1	0
+Rohingya			266	79
+Roma			1	0
+Romagnol			567	93
+Romance			0	1
+Romance	Spanish		1	0
+Romani			572	73
+Romani	(Selice)		1	0
+Romani	Balkan Romani		12	1
+Romani	Baltic Romani		6	0
+Romani	Caló		1	0
+Romani	Carpathian Romani		8	0
+Romani	East Slovak Romani		1	0
+Romani	Kalo Finnish Romani		57	0
+Romani	Latin		1	0
+Romani	Selice Romani		1	0
+Romani	Sinte Romani		8	0
+Romani	Sinti Romani		1	0
+Romani	Vlax Romani		36	3
+Romani	Welsh Romani		14	0
+Romania			1	0
+Romanian			36238	657
+Romanian	Cyrillic		135	0
+Romanian Sign Language			0	5
+Romansch			4	0
+Romansh			1947	12
+Romblomanon			6	0
+Rombo			2	0
+Ron			3	0
+Ronga			3	0
+Rongga			2	0
+Ronji			2	0
+Roon			1	0
+Roro			2	0
+Rotokas			2	0
+Rotuman			7	0
+Rouran			1	0
+Roviana			4	0
+Rufiji			2	0
+Rukai			24	0
+Rukiga			4	0
+Rumu			3	0
+Rungus			44	0
+Rungwa			2	0
+Rushani			1	0
+Russenorsk			6	0
+Russian			85956	1670
+Russian	1708		1	0
+Russian	1918		1	0
+Russian	Middle Russian		1	0
+Russian	Old Russian		1	0
+Russian	Pre-reform orthography		4	0
+Russian Sign Language			1	1
+Rusyn			4	0
+Rutul			27	0
+Ruuli			6	0
+Rwa			1	0
+Rwanda-Rundi			226	36
+Rwanda-Rundi	Kinyarwanda		17	0
+Rwanda-Rundi	Kirundi		5	0
+Rwanda-Rundi	Rundi		1	0
+Rwanda-Rundi	Rwanda		1	0
+Rwanda-Urundi			1	0
+Réunion Creole French			183	0
+Sa			2	1
+Sa'a			3	0
+Saami			0	1
+Saami	Inari		1	0
+Saami	Kildin		1	0
+Saami	Lule		1	0
+Saami	Northern		1	0
+Saami	Pite		1	0
+Saami	Skolt		1	0
+Saami	Southern		1	0
+Saamia			1	0
+Saanich			101	0
+Saaroa			32	1
+Saba			0	1
+Sabaean			6	0
+Sabah Bisaya			25	0
+Sabanê			2	0
+Sabine			1	0
+Sabir			2	0
+Sabu			5	0
+Sacapulteco			1	0
+Saek			28	1
+Safaitic			1	0
+Safeyoka			1	0
+Safwa			2	0
+Sahaptin			3	0
+Saho			139	8
+Sahu			5	0
+Saisiyat			30	0
+Saka			2	0
+Sakachep			1	0
+Sakirabiá			1	0
+Sakizaya			25	5
+Salako			2	0
+Salar			82	1
+Saliba (Colombia)			5	0
+Saliba (New Guinea)			1	0
+Salinan			3	0
+Saluan			1	0
+Sama			0	9
+Sama	Central Sama		1	1
+Sama	Pangutaran Sama		5	0
+Sama	Southern Sama		3	1
+Samaon			1	0
+Samarokena			1	0
+Sambali			18	0
+Sambe			2	0
+Samburu			5	0
+Sami			25	1994
+Sami	Akkala Sami		14	0
+Sami	Inari Sami		341	9
+Sami	Kemi Sami		3	0
+Sami	Kildin Sami		253	4
+Sami	Lule Sami		164	1
+Sami	Northern Sami		1730	33
+Sami	Pite Sami		48	1
+Sami	Skolt Sami		486	1
+Sami	Southern Sami		233	2
+Sami	Ter Sami		47	0
+Sami	Ume Sami		36	1
+Samo			6	2
+Samo	Southern Samo		2	0
+Samoan			769	56
+Samoan Plantation Pidgin			3	0
+Samogitian			371	26
+Samtao			1	0
+San Juan Guelavía Zapotec			1	0
+Sanaviron			1	0
+Sandawe			5	0
+Sanggau			2	0
+Sangil			3	0
+Sangir			7	0
+Sangisari			13	0
+Sanglechi			1	0
+Sango			115	6
+Sangu (Tanzania)			1	0
+Sani			1	1
+Saniyo-Hiyewe			2	0
+Sanskrit			4355	50
+Sanskrit	Vedic Sanskrit		7	0
+Santa Cruz			1	0
+Santali			433	40
+Sanumá			3	1
+Sapará			1	0
+Saponi			1	0
+Sapé			1	0
+Sar			1	1
+Sara			1	0
+Saraiki			41	2
+Saramaccan			24	0
+Sarasira			1	0
+Saraveca			1	0
+Sardinian			1396	320
+Sardinian	Campidanese		301	0
+Sardinian	Limba Sarda Comuna		1	0
+Sardinian	Logudorese		291	0
+Sardinian	Nuorese		8	0
+Sarikoli			27	0
+Sarua			1	0
+Sasak			20	0
+Sassarese			253	3
+Satawalese			8	1
+Saterland Frisian			2	0
+Sateré-Mawé			1	0
+Sathmar Swabian			2	0
+Sauk			1	0
+Saulteaux			1	0
+Saurashtra			10	0
+Savi			1	0
+Savosavo			77	0
+Saxwe gbe			1	0
+Scanian			13	0
+Scots			2417	35
+Scots	Hawick Scots		1	0
+Scots	Latin		1	0
+Scots	Middle Scots		1	0
+Scots	Ulster Scots		8	0
+Scots	{{qualifier|Dundee}}		1	0
+Scottish Gaelic			12425	62
+Sebat Bet Gurage			2	0
+Seberuang			1	0
+Sebop			63	0
+Sechelt			2	0
+Sechura			2	0
+Secoya			3	0
+Sedang			5	0
+Sedoa			1	0
+Seenku			1	0
+Segai			3	0
+Sehwi			1	0
+Seimat			6	0
+Sekani			7	0
+Sekapan			7	0
+Sekar			1	0
+Seko Tengah			1	0
+Selaru			3	0
+Selayar			1	0
+Selepet			1	0
+Selk'nam			4	0
+Selkup			0	24
+Selkup	Northern Selkup		9	2
+Selkup	Southern Selkup		20	2
+Sema			1	0
+Semai			49	1
+Semaq Beri			2	0
+Semelai			2	0
+Semnam			3	0
+Semnani			1	0
+Sena			7	0
+Seneca			36	0
+Senggi			1	0
+Senni			0	28
+Senni	Humburi Senni		1	0
+Senni	Koyraboro Senni		26	1
+Senoufo			0	20
+Senoufo	Cebaara		0	1
+Senoufo	Djimini		7	0
+Senoufo	Nafaanra		9	0
+Senoufo	Supyire		4	0
+Sentani			2	0
+Senufo			0	3
+Senufo	Djimini		2	0
+Senufo	Mamara		3	0
+Senufo	Nafaanra		1	0
+Senufo	Supyire		2	0
+Senufo	Tagwana		1	0
+Sepa (New Guinea)			2	0
+Sera			2	0
+Serbian			2	1
+Serbian	Cyrillic		1	0
+Serbian	Latin		1	0
+Serbo-Croatian			7149	16577
+Serbo-Croatian	Arabic		1	0
+Serbo-Croatian	Arebica		2	0
+Serbo-Croatian	Bosnian		1	0
+Serbo-Croatian	Croatian		7	2
+Serbo-Croatian	Croatian	Cyrillic	1	0
+Serbo-Croatian	Croatian	Latin	1	0
+Serbo-Croatian	Cyrillic		15496	160
+Serbo-Croatian	Ekavian		1	0
+Serbo-Croatian	Ijekavian		1	0
+Serbo-Croatian	Kajkavian		1	0
+Serbo-Croatian	Latin		16315	106
+Serbo-Croatian	Roman		23	3
+Serbo-Croatian	Serbian		2	5
+Serbo-Croatian	Serbian	Cyrillic	1	0
+Serbo-Croatian	Serbian	Latin	1	0
+Serbo‐Croatian			0	1
+Serbo‐Croatian	Cyrillic		1	0
+Serbo‐Croatian	Latin		1	0
+Serer			2	0
+Seri			74	0
+Serili			2	0
+Serrano			2	0
+Seru			1	0
+Serua			1	0
+Serui-Laut			1	0
+Sesotho			1	0
+Seta			2	0
+Setho			1	0
+Seti			1	0
+Seychellois Creole			78	0
+Seze			1	0
+Sha			1	0
+Shabo			1	0
+Shall-Zwall			1	0
+Shambala			3	0
+Shan			711	155
+Shanga			1	0
+Sharanahua			1	0
+Shawiya			1	0
+Shawnee			9	1
+She			1	0
+Shehri			2	0
+Sheko			1	0
+Shelta			1	0
+Sherbro			4	0
+Sherdukpen			1	0
+Sherpa			130	20
+Shetlandic			1	0
+Shilluk			6	0
+Shina			7	0
+Shipibo-Conibo			12	0
+Shixing			1	0
+Sholaga			4	0
+Shona			267	4
+Shor			408	1
+Shoshone			21	0
+Shuar			7	1
+Shughni			31	0
+Shughni	Bartangi		1	0
+Shughni	Khufi		1	0
+Shuswap			23	0
+Sialum			1	0
+Sian			1	0
+Siane			1	0
+Siang			1	0
+Siar-Lak			2	0
+Siberian Tatar			39	0
+Siberian Tatar	Baraba		1	0
+Sicilian			4451	29
+Sicilian	Old Sicilian		1	0
+Sicilian	Palermitan		2	0
+Sicilian	Salentino		1	0
+Sidamo			159	4
+Sie			4	0
+Sika			4	0
+Sikaiana			8	0
+Sikaritai			1	0
+Sikiana			0	1
+Sikkimese			313	76
+Sikkimese Bhutia			1	0
+Sikule			1	0
+Silesian			567	4
+Silimo			1	0
+Siliput			1	0
+Silt'e			2	0
+Simalungun			1	0
+Simbali			0	1
+Simbari			2	0
+Simbo			1	0
+Simeku			0	1
+Simeulue			7	10
+Sinacantán			2	0
+Sinagen			1	0
+Sinaugoro			2	0
+Sindhi			779	147
+Sindhi	Arabic		16	0
+Sindhi	Devanagari		15	0
+Sindhi	Khudawadi		1	0
+Singpho			0	2
+Sinhala			21	7
+Sinhalese			1951	145
+Sio			2	0
+Siona			3	0
+Sipakapense			2	0
+Sira			1	1
+Siraya			4	0
+Sirenik			7	0
+Siriano			3	0
+Sirionó			2	0
+Siroi			3	0
+Sisaala			1	0
+Sissano			2	0
+Situ			2	4
+Sivandi			1	0
+Siwi			1	2
+Ske			1	0
+Skolt Sami			1	0
+Skou			4	0
+Skou	Wutung		1	0
+Slavey			0	10
+Slavey	North Slavey		2	0
+Slavey	South Slavey		9	0
+Slavomolisano			3	0
+Slovak			18546	670
+Slovak	Old Slovak		49	0
+Slovene			14546	230
+Slovincian			48	0
+So'a			2	0
+Sobei			3	0
+Soga			6	0
+Sogdian			35	1
+Sogdian	Manichaean 		1	0
+Sogdian	Sogdian		1	0
+Sokna			1	0
+Sokoro			1	0
+Solano			1	0
+Solon			16	0
+Solong			1	0
+Solos			2	0
+Somali			917	100
+Somali	Latin		1	0
+Somali	Osmanya		1	0
+Somba-Siawari			2	0
+Sonaga			2	0
+Soninke			17	0
+Sonsorolese			1	1
+Soo			2	0
+Soqotri			9	2
+Sora			4	3
+Sorbian			6	3253
+Sorbian	Lower Sorbian		2785	28
+Sorbian	Upper Sorbian		1854	33
+Sori-Harengan			2	0
+Sorsogon			0	4
+Sorsogon	Masbate Sorsogon		4	0
+Sorsogon	Waray Sorsogon		4	0
+Sos Kundi			1	0
+Sotho			568	9
+Sotho	Northern Sotho		2	0
+Sougb			10	0
+South Central Banda			1	0
+South Picene			2	0
+Southeast Ambrym			1	0
+Southeast Babar			1	0
+Southeast Ijo			8	0
+Southern Altai			611	0
+Southern Altai	Telengit		2	0
+Southern Bobo			1	0
+Southern Carrier			2	0
+Southern Dagaare			1	0
+Southern Sotho			1	0
+Southern Tiwa			2	0
+Southwest Gbaya			1	0
+Southwestern Fars			1	0
+Sowa			1	0
+Soyot			1	0
+Spainish			1	0
+Spanish			86570	1849
+Spanish	Latin America		1	0
+Spanish	Old Spanish		83	0
+Spanish	Spanish		1	0
+Spanish	Venezuela		1	0
+Spokane			1	0
+Squamish			21	0
+Sranan Tongo			890	0
+Stoney			6	0
+Suabo			2	0
+Suau			2	0
+Suba			7	0
+Suba-Simbiti			6	0
+Subanen			0	1
+Subanen	Central Subanen		1	0
+Subanen	Northern Subanen		1	0
+Subanen	Western Subanon		1	0
+Subtiaba			1	0
+Sudest			1	0
+Sudovian			99	0
+Suena			2	0
+Suga			1	0
+Sui			5	1
+Suki			1	0
+Suku			2	0
+Sukuma			9	0
+Sukur			1	0
+Sukurum			1	0
+Sulod			1	0
+Sulung			1	0
+Sumariup			0	1
+Sumbawa			6	0
+Sumbwa			2	0
+Sumerian			187	0
+Sundanese			1092	10
+Sundanese	Old Sundanese		1	0
+Sunwar			3	0
+Sur			1	0
+Suri			1	0
+Surigaonon			6	0
+Sursurunga			2	0
+Susu			7	0
+Suwawa			1	0
+Suyá			6	0
+Svan			316	14
+Svan	Ter Sami		1	0
+Svedish			1	0
+Swahili			8845	180
+Swazi			112	11
+Swedish			57560	230
+Swedish	Cyrillic		2	0
+Swedish	Finnish		1	0
+Swedish	Guntish		1	0
+Swedish	Old Swedish		33	1
+Swedish	Stockholm		1	0
+Swedish	Swedish		1	0
+Swedish	Swenglish		1	0
+Sylheti			442	75
+Syriac			5	0
+Sácata			1	0
+Sãotomense			4	0
+Sô			1	0
+T'en			1	0
+Taabwa			1	0
+Taba			4	0
+Tabancale			1	0
+Tabaru			30	0
+Tabasaran			266	0
+Tabla			1	0
+Tabo			2	0
+Tabriak			1	0
+Tacana			4	0
+Tachawit			26	2
+Tadaksahak			1	0
+Tadyawan			2	0
+Tae'			7	0
+Tagabawa			6	0
+Tagalog			14338	174
+Tagalog	Baybayin		1	0
+Tagalog	Latin		1	0
+Tagbanwa			1	0
+Tagdal			0	2
+Tagish			2	0
+Tagoi			3	0
+Tahitian			415	19
+Tahltan			5	0
+Tai			0	1
+Tai Dam			118	40
+Tai Do			1	0
+Tai Dón			8	0
+Tai Hongjin			1	0
+Tai Laing			8	3
+Tai Long			0	2
+Tai Lue			0	1
+Tai Lü			1	0
+Tai Nüa			81	32
+Tai-Nüa			1	0
+Taikat			1	0
+Tainae			1	0
+Taino			1	0
+Tairora			0	2
+Tairora	North Tairora		2	0
+Tairora	South Tairora		1	0
+Tairuma			1	0
+Taita			7	0
+Tajik			7061	41
+Tajik	Cyrillic		4	0
+Tajik	Latin		5	0
+Tajio			5	0
+Takelma			1	0
+Takia			6	0
+Takuu			2	0
+Takwane			3	0
+Tal			10	0
+Tala			1	0
+Talaud			2	0
+Taliabu			3	0
+Talinga-Bwisi			2	0
+Talise			2	0
+Taloki			2	0
+Talu			1	0
+Talysh			231	57
+Talysh	Anbarani		5	0
+Talysh	Asalemi		65	0
+Talysh	Cyrillic		1	0
+Talysh	Latin		1	0
+Talysh	Masali		1	0
+Tama (Chad)			1	0
+Tamambo			1	0
+Tamanaku			1	0
+Tamang			0	1
+Tamang	Eastern Tamang		1	0
+Tamasheq			2	0
+Tambas			2	0
+Tambora			1	0
+Tami			1	0
+Tamil			8533	410
+Tamil	Old Tamil		4	0
+Tampuan			1	0
+Tampulma			2	0
+Tanacross			25	1
+Tanana			0	129
+Tanana	Lower Tanana		129	0
+Tanana	Upper Tanana		1	0
+Tanapag			1	1
+Tandaganon			1	0
+Tanema			1	0
+Tangale			2	0
+Tangam			1	0
+Tangchangya			1	0
+Tangoa			1	0
+Tangsa			11	2
+Tangut			45	0
+Tanimbili			1	0
+Tanimuca-Retuarã			4	0
+Tanjijili			1	0
+Taos			409	5
+Tapachultec			1	0
+Taparita			2	0
+Tapayuna			6	0
+Tapirapé			2	0
+Tara Baka			1	0
+Tarafit			1	0
+Tarahumara			0	10
+Tarahumara	Central Tarahumara		10	0
+Tarairiú			1	0
+Tarangan			0	3
+Tarangan	West Tarangan		3	0
+Tarantino			176	10
+Tarao			2	0
+Taraon			2	0
+Tariana			8	0
+Tarifit			591	5
+Tarok			2	0
+Taroko			29	2
+Tarpia			3	0
+Taruma			1	0
+Tashelhit			240	2
+Tashelhit	Medieval Tashelhit		1	0
+Tat			161	0
+Tat	Judeo-Tat		1	0
+Tatana			1	0
+Tatar			3698	27
+Tatar	Cyrillic		10	0
+Tatar	Kasimov Tatar		1	0
+Tatar	Kryashen		19	0
+Tatar	Latin		13	0
+Tatar	Old Tatar		1	0
+Tati			1	0
+Tati	Azeri		1	0
+Tatuyo			2	0
+Tauade			1	0
+Taupota			1	0
+Tause			1	0
+Taushiro			2	0
+Tausug			471	15
+Tauya			23	0
+Taveta			1	0
+Tavoyan			1	0
+Tawala			2	0
+Tawang Monpa			1	0
+Tawasa			1	0
+Tawoyan			2	0
+Tawoyang			1	0
+Tayo			2	0
+Taíno			9	2
+Tboli			24	0
+Te'un			1	0
+Teanu			1	0
+Tedaga			5	0
+Tee			1	0
+Tefaro			0	1
+Tegali			1	0
+Tehit			1	0
+Tehuelche			3	0
+Teiwa			1	0
+Teke			0	1
+Teke	North Teke		1	0
+Teke	Nzadi		1	0
+Teke	Teke-Tyee		1	0
+Teke-Tege			16	0
+Teke-Tyee			2	0
+Tektiteko			1	0
+Tela-Masbuar			1	0
+Telugu			6885	223
+Tem			2	0
+Tembé			1	0
+Temein			1	0
+Temi			2	0
+Temiar			9	0
+Temne			1	1
+Temoq			4	0
+Ten'edn			1	0
+Tenharim			2	1
+Tenharim	Kagwahiv		1	0
+Tenharim	Parintintín		1	0
+Teop			1	0
+Tepecano			5	0
+Tepehua			0	5
+Tepehua	Huehuetla Tepehua		5	0
+Tepehua	Tlachichilco Tepehua		1	0
+Tepehuan			0	12
+Tepehuan	Northern Tepehuan		3	0
+Tepehuan	Southeastern Tepehuan		9	0
+Tepehuan	Southwestern Tepehuan		1	0
+Tera			1	0
+Tereno			1	0
+Teressa			1	0
+Teribe			23	0
+Termanu			2	0
+Ternate			169	3
+Tese			1	0
+Teso			1	0
+Tetela			6	0
+Tetum			605	30
+Tetun Dili			2	1
+Tewa			146	0
+Thai			16198	1575
+Thai	Asalemi		1	0
+Thai	Central Thai		12	0
+Thai	Northern Thai		216	138
+Thai	Phu Thai		0	5
+Thai	Southern Thai		35	53
+Thangmi			2	0
+Thao			34	0
+Tharaka			2	0
+Thavung			3	0
+Tho			1	0
+Thompson			4	0
+Thracian			2	0
+Tiang			1	0
+Tibetan			3145	458
+Tibetan	Classical Tibetan		7	0
+Ticuna			1	0
+Tidore			43	5
+Tidung			0	3
+Tidung	Northern Tidung		1	0
+Tidung	Southern Tidung		3	0
+Tigre			72	27
+Tigrinya			999	60
+Tikar			2	1
+Tikopia			2	0
+Tillamook			8	0
+Timbe			1	0
+Timor Pidgin			1	0
+Timote			1	0
+Timucua			2	2
+Tindi			9	0
+Tinigua			1	0
+Tinrin			7	0
+Tipai			3	0
+Tiruray			12	0
+Titan			1	0
+Tiv			4	0
+Tiwa			3	0
+Tiwi			41	5
+Tlahuica			6	0
+Tlingit			149	0
+To'abaita			3	0
+Toaripi			1	0
+Toba			2	0
+Toba-Maskoy			0	1
+Tobelo			4	0
+Tobian			2	1
+Tobilung			4	0
+Tocantins Asurini			3	0
+Tocharian			1	0
+Tocharian A			138	1
+Tocharian B			1546	5
+Tocho			1	0
+Toda			1	0
+Tofa			81	0
+Tojolabal			2	0
+Tok Pisin			1133	12
+Tokelauan			121	0
+Tokunoshima			27	2
+Tol			1	0
+Tolai			13	0
+Tolaki			1	0
+Tolomako			1	0
+Tolowa			1	0
+Tomadino			1	0
+Tombonuo			4	0
+Tombulu			1	0
+Tomini			2	0
+Tomoip			1	0
+Tonga (Malawi)			27	0
+Tonga (Mozambique)			2	0
+Tonga (Zambia)			49	0
+Tongan			653	51
+Tonkawa			18	0
+Tonsawang			1	0
+Tonsea			1	0
+Tontemboan			3	0
+Tooro			220	0
+Toraja-Sa'dan			2	0
+Toram			0	1
+Torau			1	0
+Toro			2	0
+Torona			1	0
+Torres Strait Creole			14	5
+Torricelli			7	0
+Torwali			12	0
+Toto			0	1
+Totoli			2	0
+Totonac			0	16
+Totonac	Highland Totonac		10	0
+Totonac	Misantla Totonac		2	0
+Totonac	Papantla Totonac		12	0
+Totonac	Upper Necaxa Totonac		1	0
+Totonac	Xicotepec de Juárez Totonac		8	0
+Totoro			2	0
+Toura			1	0
+Toussian			0	1
+Toussian	Northern Toussian		0	1
+Toussian	Southern Toussian		0	1
+Translingual			69	4
+Translingual	Taxonomic name		4	0
+Transylvanian Saxon			13	0
+Traveller Norwegian			3	0
+Tregami			7	0
+Trimuris			1	1
+Tringgus			1	0
+Trinidadian Creole English			3	0
+Trinitario			2	0
+Triqui			0	34
+Triqui	Chicahuaxtla Triqui		15	0
+Triqui	Copala Triqui		24	0
+Triqui	San Martín Itunyoso Triqui		1	0
+Trió			11	0
+Trumai			3	0
+Tsafiki			4	0
+Tsakhur			20	0
+Tsamai			1	0
+Tsez			18	0
+Tshangla			2	0
+Tshobdun			1	0
+Tsimané			5	0
+Tsimshian			11	0
+Tso			0	1
+Tsonga			71	10
+Tsou			35	0
+Tsuut'ina			9	0
+Tsuvadi			1	0
+Tswa			2	0
+Tswana			182	15
+Tswapong			1	0
+Tuamotuan			12	0
+Tuareg			15	7
+Tucano			3	0
+Tugun			3	0
+Tujia			0	6
+Tujia	Northern Tujia		5	0
+Tujia	Southern Tujia		1	0
+Tukang Besi			0	5
+Tukang Besi	North Tukang Besi		5	0
+Tukang Besi	South Tukang Besi		2	0
+Tuki			2	0
+Tukudede			1	0
+Tulehu			1	0
+Tulu			116	5
+Tulu-Bohuai			1	0
+Tumak			1	0
+Tumbuka			375	0
+Tumleo			2	0
+Tumtum			1	0
+Tundra Nenets			8	0
+Tundra Nenets	Tundra Nenets		1	0
+Tunebo			0	2
+Tunebo	Central Tunebo		2	0
+Tunen			0	1
+Tungag			2	0
+Tunggare			1	0
+Tunica			4	0
+Tunisian Berber			1	0
+Tunjung			5	0
+Tunumiisut			1	0
+Tuoba			1	0
+Tupinambá			100	0
+Turka			9	0
+Turkana			5	0
+Turkish			34531	3753
+Turkish	Khorasani Turkish		3	0
+Turkish	Old Anatolian Turkish		34	0
+Turkish	Ottoman Turkish		8799	9
+Turkmen			4574	91
+Turkmen	Cyrillic		45	0
+Turkmen	Latin		3	0
+Turumsa			0	1
+Tuscarora			9	0
+Tutchone			0	7
+Tutchone	Northern Tutchone		5	1
+Tutchone	Southern Tutchone		5	1
+Tutelo			10	0
+Tutong			13	0
+Tututni			1	0
+Tuvaluan			58	0
+Tuvan			818	40
+Tuvan	Chinese Tuvan		1	0
+Tuvan	Classic		1	0
+Tuyuca			5	0
+Twana			1	0
+Twi			1	0
+Twi Akan			1	24
+Tyap			43	0
+Tyap	Cyrillic		1	0
+Tz'utujil			33	0
+Tzeltal			10	0
+Tzotzil			57	0
+Tzotzil	Zinacantán		1	0
+Tày			426	2
+Tübatulabal			4	0
+U			1	0
+Uab Meto			30	0
+Ubir			3	0
+Ubykh			35	0
+Uda			1	0
+Udi			241	0
+Udihe			51	1
+Udmurt			916	20
+Udmurt	Beserman Udmurt		9	0
+Udmurt	Northern		1	0
+Uduk			2	0
+Ugandan Sign Language			1	0
+Ugaritic			628	1
+Ujir			2	0
+Ukit			3	0
+Ukraine			5	0
+Ukrainian			33927	1058
+Ukrainian	Cyrillic		1	0
+Ukrainian	Urdu		1	0
+Ukraininan			1	0
+Ukranian			4	0
+Ukuriguma			1	0
+Ukwa			1	0
+Ulau-Suain			2	0
+Ulch			36	1
+Uldeme			7	0
+Ulithian			10	1
+Ulwa (Nicaragua)			28	0
+Uma			3	0
+Uma' Lung			1	0
+Umatilla			12	0
+Umbindhamu			0	1
+Umbrian			18	0
+Umbundu			37	3
+Umbuygamu			8	1
+Umeda			0	1
+Umotína			3	0
+Unami			1155	2
+Uneapa			2	0
+Uneme			1	0
+Unserdeutsch			2	0
+Unua			1	0
+Upper Chehalis			3	0
+Upper Kuskokwim			5	0
+Upper Sorbian			1	0
+Upper Tanana			1	0
+Upper Taromi			1	0
+Ura (Vanuatu)			2	0
+Urak Lawoi'			8	0
+Urapmin			2	1
+Urarina			4	0
+Urartian			6	0
+Urat			4	0
+Urdu			8650	149
+Urhobo			33	0
+Uri			1	0
+Urim			2	0
+Uru			1	0
+Uru-Eu-Wau-Wau			1	0
+Uruangnirin			1	0
+Uruava			1	0
+Urubú-Kaapor			5	0
+Urum			54	0
+Usan			1	0
+Ushojo			3	0
+Uspanteco			1	0
+Ute			9	0
+Uyajitaya			2	0
+Uyghur			4869	113
+Uyghur	Arabic		12	0
+Uyghur	Cyrillic		58	0
+Uyghur	Latin		21	0
+Uyghur	UEY		2	0
+Uyghur	USY		2	0
+Uzbek			7450	183
+Uzbek	Arabic		1	0
+Uzbek	Cyrillic		235	0
+Uzbek	Latin		108	0
+Vaghri			9	0
+Vagla			1	0
+Vai			21	2
+Vaiphei			0	1
+Vame			9	0
+Vandalic			7	0
+Vanimo			1	0
+Varhadi			4	0
+Vayu			1	0
+Veddah			1	1
+Vehes			3	0
+Venda			65	12
+Venetan			2029	10
+Venetic			2	0
+Ventureño			4	0
+Veps			323	64
+Vestinian			1	0
+Vidunda			2	0
+Vietnamese			20388	635
+Vietnamese	Chu Nom		1	0
+Vietnamese	Chữ Nôm		1	0
+Vietnamese	Latin		1	0
+Vietnamese	Middle Vietnamese		4	0
+Vilamovian			404	6
+Vilela			1	0
+Vili			19	2
+Vinitiri			2	0
+Virgin Islands Creole			1	0
+Viti			1	0
+Volapük			5235	357
+Volga German			4	0
+Voro			1	0
+Votic			212	47
+Vunapu			1	0
+Vunjo			2	0
+Vurës			23	0
+Vute			1	0
+Võro			338	59
+Võro	Seto		1	0
+Wa			1	1
+Waama			1	0
+Waanyi			1	0
+Wab			2	0
+Waboda			1	0
+Wadjiginy			1	0
+Waffa			2	0
+Wagaya			1	0
+Wageman			3	0
+Wagi			2	0
+Wahau Kenyah			2	0
+Waigali			62	0
+Wailaki			1	0
+Waima'a			1	0
+Waimaha			2	0
+Waimiri-Atroari			1	0
+Waiwai			3	0
+Wajarri			1	0
+Wakhi			32	0
+Wala			2	0
+Wallisian			43	1
+Wallon			1	0
+Walloon			3128	76
+Walloon	Liégeois		1	0
+Walloon	Rifondou		1	0
+Walmajarri			5	0
+Wambaya			10	0
+Wambon			1	0
+Wambule			1	0
+Wampar			1	0
+Wampur			1	0
+Wan			1	0
+Wanap			1	0
+Wancho			1	2
+Wanda			2	0
+Wandala			2	0
+Wandamen			3	0
+Waneci			1	2
+Wanga			6	0
+Wangganguru			1	0
+Wangkayutyuru			1	0
+Wangkumara			2	0
+Wanham			1	0
+Wanji			2	0
+Wano			2	0
+Wantoat			2	0
+Wanukaka			1	0
+Wanyi			2	0
+Wapishana			10	0
+Wappo			10	0
+War-Jaintia			1	0
+Warao			4	0
+Waray			2	0
+Waray-Waray			659	3
+Wardaman			21	0
+Warekena			3	0
+Warembori			2	0
+Wari'			3	0
+Waris			2	0
+Waritai			1	0
+Warji			7	0
+Warkay-Bipim			1	0
+Warlmanpa			1	0
+Warlpiri			63	8
+Waropen			1	0
+Warray			5	0
+Warrwa			1	0
+Waru			1	0
+Warumungu			1	0
+Warungu			3	0
+Wasco-Wishram			1	0
+Washo			1	0
+Waskia			2	0
+Wastek			11	0
+Watakataui			0	1
+Watam			1	0
+Wathaurong			2	0
+Watubela			2	0
+Watut			0	1
+Watut	Middle Watut		1	0
+Watut	North Watut		1	0
+Watut	South Watut		1	0
+Wauja			13	0
+Wawa			1	0
+Wawonii			2	0
+Wayampi			6	0
+Wayana			24	0
+Wayumara			1	0
+Wayuu			7	0
+Wedau			2	0
+Wee			0	1
+Wee	Wè Western		1	0
+Welsg			2	0
+Welsh			16590	93
+Welsh	Middle Welsh		25	0
+Welsh	North Wales		1	0
+Welsh	North Wales Welsh		18	0
+Welsh	Old Welsh		7	1
+Welsh	South Wales		1	0
+Welsh	South Wales Welsh		18	0
+Wemba-Wemba			3	0
+Wendat			1	0
+West Central Banda			1	0
+West Circassian			9	0
+West Damar			2	0
+West Flemish			233	1
+West Frisian			63	0
+West Makian			21	0
+West-Flemish			3	0
+Western Apache			1	0
+Western Apache	Chiricahua		1	0
+Western Armenian			5	0
+Western Fijian			1	0
+Western Jicaque			1	0
+Western Punjabi			8	0
+Western Pwo			1	0
+Western Sisaala			1	0
+Western Yugur			9	0
+Weyewa			1	0
+White Lachi			1	0
+Wichita			8	0
+Wichí Lhamtés Güisnay			1	0
+Wichí Lhamtés Nocten			1	0
+Wichí Lhamtés Vejoz			1	0
+Wik-Mungkan			14	0
+Wik-Ngathana			3	0
+Wikngenchera			0	1
+Winaray			1	0
+Winnebago			173	0
+Wintu			4	0
+Wiradjuri			69	0
+Wiraféd			1	0
+Wiru			1	0
+Wirö			1	0
+Wiwa			2	0
+Wiyot			2	0
+Woccon			1	0
+Wogamusin			1	0
+Wogeo			2	0
+Woi			1	0
+Woiwurrung			589	2
+Wojenaka			1	0
+Wolani			1	0
+Wolaytta			249	0
+Wolayttattuwa			1	0
+Woleaian			15	1
+Wolio			13	0
+Wolof			567	84
+Worora			5	0
+Woun Meu			2	0
+Written Oirat			52	1
+Wu Chinese			1	0
+Wulguru			1	0
+Wusa			1	0
+Wushi			0	1
+Wutung			1	0
+Wutunhua			52	0
+Wuvulu-Aua			2	0
+Wyandot			6	0
+Xamtanga			2	0
+Xavante			10	0
+Xerénte			8	0
+Xhosa			430	48
+Xibe			172	7
+Xibe	Latin		1	0
+Xinca			1	0
+Xingú Asuriní			3	0
+Xipaya			1	0
+Xiriâna			1	0
+Xokleng			5	0
+Xârâcùù			22	2
+Xârâgurè			2	0
+Yaa			2	0
+Yabarana			1	0
+Yaben			1	0
+Yabong			1	0
+Yaeyama			56	7
+Yagara			45	0
+Yagaria			2	0
+Yaghnobi			257	2
+Yagua			2	0
+Yagwoia			1	0
+Yahang			1	0
+Yahuna			1	0
+Yaka			1	0
+Yakan			85	37
+Yakima			3	0
+Yakkha			10	2
+Yakoma			1	0
+Yakut			1488	5
+Yalarnnga			1	0
+Yale			1	0
+Yali			0	2
+Yali	Angguruk Yali		2	0
+Yali	Pass Valley Yali		1	0
+Yalunka			1	0
+Yamba			1	0
+Yambeta			1	0
+Yamdena			5	0
+Yameo			1	0
+Yami			80	0
+Yaminahua			1	0
+Yan-nhangu			3	0
+Yana			1	0
+Yandruwandha			1	0
+Yanesha'			2	0
+Yangben			1	0
+Yangkaal			1	0
+Yangkam			1	0
+Yangum Dey			1	0
+Yangum Mon			1	0
+Yankunytjatjara			10	0
+Yanomam			3	0
+Yanomamö			3	0
+Yansi			1	0
+Yanyuwa			4	0
+Yao (Africa)			151	0
+Yao (South America)			5	0
+Yaouré			1	0
+Yapese			20	0
+Yaqui			16	0
+Yarawata			1	0
+Yareba			2	0
+Yarli			1	0
+Yarluyandi			1	0
+Yasa			1	0
+Yau (Finisterre)			1	0
+Yau (Torricelli)			1	0
+Yavitero			2	0
+Yawa			1	0
+Yawalapití			1	0
+Yawarawarga			1	0
+Yaweyuha			2	0
+Yawuru			2	0
+Yazghulami			17	0
+Ye'kwana			34	0
+Yekhee			2	0
+Yelogu			1	0
+Yemba			1	0
+Yemsa			1	0
+Yendang			1	0
+Yenish			2	0
+Yeretuar			1	0
+Yeskwa			2	0
+Yessan-Mayo			1	0
+Yetfa			1	0
+Yeyi			2	0
+Yiddish			8009	120
+Yidgha			4	0
+Yidiny			4	0
+Yil			1	0
+Yilan Creole			5	1
+Yimas			3	0
+Yindjibarndi			14	0
+Yindjilandji			1	0
+Yine			2	0
+Yinggarda			1	0
+Yir-Yoront			1	1
+Yis			1	0
+Yogad			18	0
+Yoidik			1	0
+Yoke			1	0
+Yokuts			0	5
+Yokuts	Buena Vista Yokuts		1	0
+Yokuts	Kings River Yokuts		2	0
+Yokuts	Northern Valley Yokuts		1	0
+Yokuts	Palewyami Yokuts		2	0
+Yokuts	Southern Valley Yokuts		5	0
+Yola			29	0
+Yolmo			1	0
+Yom			1	0
+Yombe			4	6
+Yonaguni			85	4
+Yongkom			1	0
+Yopno			1	0
+Yoron			41	4
+Yorta Yorta			2	0
+Yoruba			1373	47
+Yoruba	Ekiti		2	0
+Yuanga			2	0
+Yucatec Maya			391	33
+Yuchi			6	0
+Yucuna			7	0
+Yug			5	0
+Yugambal			2	0
+Yuhup			2	0
+Yukaghir			0	40
+Yukaghir	Northern Yukaghir		34	0
+Yukaghir	Southern Yukaghir		12	0
+Yuki			2	0
+Yukpa			3	0
+Yuma			3	1
+Yup'ik			510	39
+Yupik			2	1
+Yupik	Central Siberian		0	1
+Yupik	Central Yup'ik		0	1
+Yupua			1	0
+Yuqui			1	0
+Yuracare			6	0
+Yurok			90	0
+Yurumanguí			2	0
+Yurutí			3	0
+Yuwana			2	0
+Yámana			214	41
+Zaghawa			18	0
+Zaiwa			2	0
+Zakhring			1	0
+Zanaki			3	0
+Zande			43	3
+Zangskari			3	0
+Zangwal			1	0
+Zapotec			0	94
+Zapotec	Aloápam Zapotec		2	0
+Zapotec	Amatlán Zapotec		1	0
+Zapotec	Asunción Mixtepec Zapotec		2	0
+Zapotec	Ayoquesco Zapotec		1	0
+Zapotec	Cajonos Zapotec		1	0
+Zapotec	Central		1	0
+Zapotec	Central Mahuatlán Zapotec		1	1
+Zapotec	Chichicapan Zapotec		4	0
+Zapotec	Choapan Zapotec		2	1
+Zapotec	Coatecas Altas Zapotec		2	0
+Zapotec	Coatlán Zapotec		1	0
+Zapotec	Guelavía		1	0
+Zapotec	Guevea de Humboldt Zapotec		1	0
+Zapotec	Isthmus Zapotec		69	2
+Zapotec	Ixtlán		2	0
+Zapotec	Lachixío Zapotec		2	0
+Zapotec	Loxicha Zapotec		0	8
+Zapotec	Mitla Zapotec		1	0
+Zapotec	Mixtepec Zapotec		1	0
+Zapotec	Ocotlán Zapotec		2	0
+Zapotec	Ozolotepec Zapotec		1	0
+Zapotec	Quioquitani-Quierí Zapotec		1	0
+Zapotec	Rincón Zapotec		1	0
+Zapotec	San Baltazar Loxicha Zapotec		1	0
+Zapotec	San Juan Guelavía Zapotec		5	0
+Zapotec	San Pedro Quiatoni Zapotec		2	0
+Zapotec	San Vicente Coatlán Zapotec		1	0
+Zapotec	Santa Inés Yatzechi Zapotec		1	0
+Zapotec	Santa María Quiegolani Zapotec		1	0
+Zapotec	Santiago Xanica Zapotec		1	0
+Zapotec	Santo Domingo Albarradas Zapotec		1	0
+Zapotec	Sierra Norte		1	0
+Zapotec	Sierra de Juárez Zapotec		1	0
+Zapotec	Southern Rincon Zapotec		1	0
+Zapotec	Tabaa Zapotec		1	0
+Zapotec	Texmelucan Zapotec		1	0
+Zapotec	Tilquiapan Zapotec		1	0
+Zapotec	Tlacolulita Zapotec		1	0
+Zapotec	Xanaguía Zapotec		1	0
+Zapotec	Yalálag Zapotec		2	0
+Zapotec	Yareni Zapotec		2	0
+Zapotec	Yatee Zapotec		1	0
+Zapotec	Yatzachi Zapotec		21	0
+Zapotec	Zaniza Zapotec		1	0
+Zapotec	Zoogocho Zapotec		23	0
+Zaramo			1	0
+Zari			1	0
+Zarma			9	7
+Zauzou			1	0
+Zay			2	0
+Zayse-Zergulla			1	0
+Zazaki			2674	9
+Zazaki	Dimli		3	0
+Zazaki	Kirmancki		2	0
+Zazaki	Kirmanjki		1	0
+Zazaki	Latin		1	0
+Zazaki	Old Zazaki		1	0
+Zazaki	Persic		1	0
+Zazaki	Zazaki		1	0
+Zealandic			447	1
+Zeelandic			3	0
+Zemba			4	0
+Zenaga			2	0
+Zhaba			1	0
+Zhang-Zhung			1	0
+Zhuang			1308	221
+Zia			1	0
+Zialo			1	0
+Zigula			13	0
+Zimakani			1	0
+Zimba			1	0
+Zinza			7	0
+Zipser German			0	1
+Zirenkel			1	0
+Zoque			0	14
+Zoque	Chimalapa Zoque		1	0
+Zoque	Copainalá Zoque		12	0
+Zoque	Francisco León Zoque		3	0
+Zoque	Rayón Zoque		6	0
+Zou			51	0
+Zulgo-Gemzek			4	0
+Zulu			1090	174
+Zumbun			1	0
+Zuni			58	4
+Zuni	Olo'ik'yana		1	0
+Zuni	Onan		1	0
+Zuojiang Zhuang			2	0
+Zyphe			43	0
+Záparo			40	0
+Àhàn			1	0
+Äiwoo			2	0
+Äynu			3	0
+Ömie			1	0
+Önge			2	0
+ǀXam			1	0
+ǁAni			1	0
+ǁXegwi			1	0
+ǂHoan			1	0
+ǃKung			25	1
+ǃXóõ			262	1
+Ỹaroamë			1	0
