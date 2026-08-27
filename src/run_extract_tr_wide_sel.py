@@ -51,8 +51,8 @@ INPUT_FILE = ('../input/enwk/'
               'enwiktionary-20260701-pages-articles-multistream.xml.bz2')
 MAX_PAGES = None # int or None (no maximum)
 
-OUT_TRANS_FILE = '../output/intermediate/en_sel_wide_trans.txt'
-OUT_PAGE_FILE = '../output/intermediate/en_sel_wide_pages.txt'
+OUT_TRANS_FILE = '../output/intermediate/en_sel_wide_trans_OLD.txt'
+OUT_PAGE_FILE = '../output/intermediate/en_sel_wide_pages_OLD.txt'
 
 #-----------------------------------------------------------------------------
 # Main entry point
