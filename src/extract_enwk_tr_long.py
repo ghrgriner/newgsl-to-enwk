@@ -123,13 +123,14 @@ def _process_mainspace_page(opf, otf_writer, title, word, ctr):
                 in_trans = True
                 trec.transtop_line = line
                 trec.tteseq = str(int(trec.tteseq) + 1)
-            if line.startswith('{{trans-bottom}}'):
+            if in_trans and line.startswith('{{trans-bottom}}'):
                 trec.lev1 = ''
                 trec.lev2 = ''
                 trec.lev3 = ''
                 trec.has_trans = 'N'
                 trec.trans = ''
                 writerow(otf_writer, trec)
+                pending_trec = False
                 in_trans = False
             if in_trans and line.startswith('*') and ':' in line:
                 if line.startswith('* '):
