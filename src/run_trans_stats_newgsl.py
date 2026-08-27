@@ -2,7 +2,7 @@ import pandas as pd
 import csv
 
 from trans_file_util import get_token2, add_tseq
-from all_languages import LANGUAGES
+from selected_langs import LANGUAGES
 
 '''Get summary statistics and detailed (by-note) info for translations
 
@@ -16,7 +16,7 @@ Note that this program creates a dummy `note_class` that is always 'C'.
 #------------------------------------------------------------------------------
 # Parameters
 #------------------------------------------------------------------------------
-ENWK_TRANS_FILE = '../output/intermediate/en_sel_wide_trans.txt'
+ENWK_TRANS_FILE = '../output/intermediate/en_sel_wide_trans_fl.txt'
 #DECK_FILE = '../output/deck/dib_deck.txt'
 #DECK_FIELDS_FILE = '../output/deck/dib_deck_fields.txt'
 NEWGSL_FILE = '../output/deck/newgsl_deck.txt'
