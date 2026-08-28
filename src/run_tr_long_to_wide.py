@@ -53,10 +53,10 @@ for lang_code, lang_desc in LANGUAGES:
     DESC_TO_CODE_DICT[lang_desc] = lang_code
 
 df['lang_code'] = [ lev12_to_code(level1, level2, level3)
-                              for level1, level2, level3 
+                              for level1, level2, level3
                 in df[['lang_name_b1','lang_name_b2','lang_name_b3']].values ]
-df['count_line'] = [ countit(level2, level3, trans) 
-                         for level2, level3, trans 
+df['count_line'] = [ countit(level2, level3, trans)
+                         for level2, level3, trans
                 in df[['lang_name_b2','lang_name_b3','trans']].values ]
 df['trans_count'] = df.groupby(PIVOT_KEY)['count_line'].transform('sum')
 df['trans_count'] = df['trans_count'].fillna(0)
@@ -76,7 +76,12 @@ for var in tr_order:
     if var not in df_wide:
         df_wide[var] = ''
 
-new_order = ['page','h3','h4','transtop_line'] + tr_order + ['trans_count']
+new_order = (['page','h3','h4','tteseq','transtop_line']
+             + tr_order + ['trans_count'])
+dups = df_wide.duplicated(['page','tteseq'])
+if dups.any():
+    print(df_wide[df_wide.dups][['page','tteseq','transtop_line']])
+    raise ValueError('df_wide has duplicates by page+tteseq!')
 
 df_wide = df_wide[new_order]
 

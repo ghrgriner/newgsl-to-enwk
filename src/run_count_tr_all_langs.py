@@ -1,6 +1,7 @@
 
 from selected_langs import LANGUAGES
 import pandas as pd
+import numpy as np
 import csv
 
 #------------------------------------------------------------------------------
@@ -11,7 +12,8 @@ BAD_NAMES_FILE = '../input/not_lang_names.txt'
 OUTPUT_FILE = '../output/translations/count_trans_all_langs.txt'
 PIVOT_KEY = ['page','tteseq','h3','h4','transtop_line']
 OUTPUT_VARS = ['lang_name1','lang_name2','lang_name3',
-               'n_tte_w_tr','n_tte_wo_tr']
+               'n_tte_w_tr','n_tte_wo_tr',
+               'n_tte_icho_w_tr']
 NROWS = None
 
 #------------------------------------------------------------------------------
@@ -28,7 +30,7 @@ def strip_bullet3(x):
 
 def strip_bullet(x, pfx):
     if not x:
-        return '' 
+        return ''
     if x.startswith(pfx):
         return x[len(pfx):]
     else:
@@ -94,6 +96,24 @@ df_summ2 = df_summ.pivot(index=['lang_name1','lang_name2','lang_name3'],
                      ).add_prefix('trans_').fillna(0).astype(int).reset_index()
 df_summ2 = df_summ2.rename(columns = {'trans_N': 'n_tte_wo_tr',
                                       'trans_Y': 'n_tte_w_tr'})
+
+# Create n_tte_icho_w_tr, which reports for top-level names whether there is
+# a translation on the record or on any of its children (i.e., languages
+# indented below the top-level names)
+df_one_per_lev1 = df[df.has_trans == 'Y'][
+     ['lang_name1','page','tteseq']].drop_duplicates()
+df_cnt_one_per_lev1 = df_one_per_lev1.groupby(
+         ['lang_name1'])[['page']].count().rename(
+                  columns = {'page': 'n_tte_icho_w_tr_int'})
+print(df_cnt_one_per_lev1)
+df_summ2 = df_summ2.merge(df_cnt_one_per_lev1, how='left',
+                          left_on='lang_name1', right_index=True)
+df_summ2['n_tte_icho_w_tr_int'] = df_summ2.n_tte_icho_w_tr_int.fillna(0)
+df_summ2['n_tte_icho_w_tr'] = np.where(   (df_summ2.lang_name2 == '')
+                                       & (df_summ2.lang_name3 == ''),
+                     df_summ2.n_tte_icho_w_tr_int.astype(int).astype(str), '')
+
+# Keep output variables and write output
 
 df_summ2 = df_summ2[OUTPUT_VARS]
 print(df_summ2)
