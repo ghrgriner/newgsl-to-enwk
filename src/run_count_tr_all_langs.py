@@ -120,7 +120,7 @@ df_for_page = df[df.has_trans == 'Y'][LANG_NAMES + ['page']].drop_duplicates()
 df_cnt_page = df_for_page.groupby(
         LANG_NAMES)[['page']].count().rename(columns = {'page': 'n_page_w_tr'})
 df_summ2 = df_summ2.merge(df_cnt_page.reset_index(), how='left', on=LANG_NAMES)
-df_summ2['n_page_w_tr'] = df_summ2.n_page_w_tr.fillna(0)
+df_summ2['n_page_w_tr'] = df_summ2.n_page_w_tr.fillna(0).astype(int)
 
 # Keep output variables and write output
 
