@@ -49,6 +49,7 @@ TransRec = make_dataclass('TransRec', [
     ('transtop_line', str, field(default='')),
     ('h3',  str, field(default='')),
     ('h4',  str, field(default='')),
+    ('h5',  str, field(default='')),
     ('lev1',  str, field(default='')),
     ('lev2',  str, field(default='')),
     ('lev3',  str, field(default='')),
@@ -67,7 +68,7 @@ def _update_word_from_xml_dump(word, elem):
 def writerow(otf_writer, trec):
     has_transYN = 'Y' if trec.has_trans else 'N'
     data = ([trec.title, trec.eeseq, trec.tteseq, trec.transtop_line, trec.h3,
-             trec.h4, trec.lev1, trec.lev2, trec.lev3, has_transYN,
+             trec.h4, trec.h5, trec.lev1, trec.lev2, trec.lev3, has_transYN,
              trec.trans.strip()])
     for item in data:
         if '\t' in item or '\r' in item or '\n' in item:
@@ -112,9 +113,14 @@ def _process_mainspace_page(opf, otf_writer, title, word, ctr):
                 and not line.startswith('====')):
             trec.h3 = line[3:len(line)-3]
             trec.h4 = ''
+            trec.h5 = ''
         elif (in_english and line.startswith('====')
                 and not line.startswith('=====')):
             trec.h4 = line[4:len(line)-4]
+            trec.h5 = ''
+        elif (in_english and line.startswith('=====')
+                and not line.startswith('======')):
+            trec.h5 = line[5:len(line)-5]
         elif in_english:
             if line.startswith('{{trans-top'):
                 lev1 = ''
@@ -168,6 +174,7 @@ def _process_mainspace_page(opf, otf_writer, title, word, ctr):
         trec.tteseq = ''
         trec.h3 = ''
         trec.h4 = ''
+        trec.h5 = ''
         writerow(otf_writer, trec)
     return english_entries
 
@@ -213,6 +220,7 @@ def extract_enwk_tr_long(input_file, output_trans_file,
                 starts with 'transtop'
         - h3:   Third-level header for section with translation table
         - h4:   Fourth-level header for section with translation table
+        - h5:   Fifth-level header for section with translation table
         - lang_name_b1: First-level header (including the language name and
                 bullet) within one section of a translation table. These
                 are from lines formatted as '* [LANGUAGE NAME]:', but the
@@ -266,7 +274,7 @@ def extract_enwk_tr_long(input_file, output_trans_file,
                             quotechar=None,
                             lineterminator='\n')
         writer.writerow(['page','eeseq','tteseq','transtop_line','h3','h4',
-                         'lang_name_b1','lang_name_b2','lang_name_b3',
+                         'h5','lang_name_b1','lang_name_b2','lang_name_b3',
                          'has_trans','trans'])
         context = ET.iterparse(f, events=('end',))
 

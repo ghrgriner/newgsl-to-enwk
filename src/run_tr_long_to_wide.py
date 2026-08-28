@@ -14,7 +14,7 @@ from selected_langs import LANGUAGES
 INPUT_TRANS_FILE = '../output/intermediate/en_long_trans.txt'
 OUTPUT_FILE = '../output/intermediate/en_sel_wide_trans.txt'
 DESC_TO_CODE_DICT = {}
-PIVOT_KEY = ['eeseq','page','tteseq','h3','h4','transtop_line']
+PIVOT_KEY = ['eeseq','page','tteseq','h3','h4','h5','transtop_line']
 
 #-----------------------------------------------------------------------------
 # Functions
@@ -76,7 +76,7 @@ for var in tr_order:
     if var not in df_wide:
         df_wide[var] = ''
 
-new_order = (['page','h3','h4','tteseq','transtop_line']
+new_order = (['page','h3','h4','h5','tteseq','transtop_line']
              + tr_order + ['trans_count'])
 dups = df_wide.duplicated(['page','tteseq'])
 if dups.any():

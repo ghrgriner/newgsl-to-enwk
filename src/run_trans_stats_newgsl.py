@@ -85,9 +85,10 @@ def calc_freq(group, var):
     return pd.Series({'denom': denom, 'num': num,
                      'pct100': pct100, 'pct100str': pct100str})
 
-def get_pos(h3, h4):
+def get_pos(h3, h4, h5):
    if h3 in _PART_OF_SPEECH: return h3
    if h4 in _PART_OF_SPEECH: return h4
+   if h5 in _PART_OF_SPEECH: return h5
    return ''
 
 #------------------------------------------------------------------------------
@@ -102,7 +103,7 @@ t_df = pd.read_csv(ENWK_TRANS_FILE, sep='\t', quoting=csv.QUOTE_MINIMAL,
 t_df['tt_param1'] = t_df.transtop_line.map(get_token2)
 add_tseq(t_df)
 t_df['enwk_part_of_speech'] = [
-                    get_pos(h3, h4) for h3, h4 in t_df[['h3','h4']].values
+          get_pos(h3, h4, h5) for h3, h4, h5 in t_df[['h3','h4','h5']].values
                               ]
 print(t_df)
 
@@ -181,7 +182,7 @@ print(tk_wide)
 #                                 quoting=csv.QUOTE_NONE)
 tk_wide.to_csv(TRANS_AVAIL_FILE, sep='\t', quoting=csv.QUOTE_NONE)
 tk_long[TRANS_AVAIL_VARS + TRANS_LS_ADDL_VARS].to_csv(
-    TRANS_LANG_SENSE_FILE, sep='\t', quoting=csv.QUOTE_NONE)
+    TRANS_LANG_SENSE_FILE, sep='\t', quoting=csv.QUOTE_NONE, index=False)
 
 # Now, need data frame, one record per word_id x lang, restricted to
 #   word_ids where `enwk_def` does not start with '_' with indicator whether

@@ -10,7 +10,7 @@ import csv
 INPUT_TRANS_FILE = '../output/intermediate/en_long_trans.txt'
 BAD_NAMES_FILE = '../input/not_lang_names.txt'
 OUTPUT_FILE = '../output/translations/count_trans_all_langs.txt'
-PIVOT_KEY = ['page','tteseq','h3','h4','transtop_line']
+PIVOT_KEY = ['page','tteseq','h3','h4','h5','transtop_line']
 OUTPUT_VARS = ['lang_name1','lang_name2','lang_name3',
                'n_page_w_tr','n_tte_w_tr','n_tte_wo_tr',
                'n_tte_icho_w_tr']
