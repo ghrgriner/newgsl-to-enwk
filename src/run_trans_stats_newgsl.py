@@ -45,7 +45,7 @@ LANG_DICT = {item[0]: item[1].split(' ', maxsplit=1)[1].replace(':','')
 _PART_OF_SPEECH = ['Adjective','Adverb','Noun','Verb','Conjunction',
    'Contraction','Derived terms','Determiner','Interjection','Article',
    'Number','Numeral','Phrase','Prefix','Preposition','Prepositional phrase',
-   'Pronoun','Proper noun','Suffix']
+   'Pronoun','Proper noun','Suffix','Particle','Punctuation mark','Postposition']
 
 #------------------------------------------------------------------------------
 # Functions
