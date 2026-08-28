@@ -12,9 +12,14 @@ BAD_NAMES_FILE = '../input/not_lang_names.txt'
 OUTPUT_FILE = '../output/translations/count_trans_all_langs.txt'
 PIVOT_KEY = ['page','tteseq','h3','h4','transtop_line']
 OUTPUT_VARS = ['lang_name1','lang_name2','lang_name3',
-               'n_tte_w_tr','n_tte_wo_tr',
+               'n_page_w_tr','n_tte_w_tr','n_tte_wo_tr',
                'n_tte_icho_w_tr']
 NROWS = None
+
+#------------------------------------------------------------------------------
+# Constants
+#------------------------------------------------------------------------------
+LANG_NAMES = ['lang_name1','lang_name2','lang_name3']
 
 #------------------------------------------------------------------------------
 # Functions
@@ -75,7 +80,7 @@ print(f'-------------------------------------------------------------------\n')
 print(df)
 print(df.columns)
 
-#df_nodups = df[~df[PIVOT_KEY + ['lang_name1','lang_name2','lang_name3','has_trans']
+#df_nodups = df[~df[PIVOT_KEY + LANG_NAMES + ['has_trans']
 #                  ].duplicated(keep='last')
 #              ]
 print(df.has_trans.value_counts())
@@ -86,13 +91,10 @@ print(f'Pages with at least one translation: '
 print(f'Translation table entries with at least one translation: '
       f'{len(df[df.has_trans == "Y"][["page","tteseq"]].drop_duplicates())}')
 
-df_summ = df.groupby(
-              ['lang_name1','lang_name2','lang_name3','has_trans']
-                    )[['page']].count()
+df_summ = df.groupby(LANG_NAMES + ['has_trans'])[['page']].count()
 df_summ = df_summ.reset_index()
 
-df_summ2 = df_summ.pivot(index=['lang_name1','lang_name2','lang_name3'],
-                         columns='has_trans', values='page'
+df_summ2 = df_summ.pivot(index=LANG_NAMES, columns='has_trans', values='page'
                      ).add_prefix('trans_').fillna(0).astype(int).reset_index()
 df_summ2 = df_summ2.rename(columns = {'trans_N': 'n_tte_wo_tr',
                                       'trans_Y': 'n_tte_w_tr'})
@@ -112,6 +114,13 @@ df_summ2['n_tte_icho_w_tr_int'] = df_summ2.n_tte_icho_w_tr_int.fillna(0)
 df_summ2['n_tte_icho_w_tr'] = np.where(   (df_summ2.lang_name2 == '')
                                        & (df_summ2.lang_name3 == ''),
                      df_summ2.n_tte_icho_w_tr_int.astype(int).astype(str), '')
+
+# Count pages with at least 1
+df_for_page = df[df.has_trans == 'Y'][LANG_NAMES + ['page']].drop_duplicates()
+df_cnt_page = df_for_page.groupby(
+        LANG_NAMES)[['page']].count().rename(columns = {'page': 'n_page_w_tr'})
+df_summ2 = df_summ2.merge(df_cnt_page.reset_index(), how='left', on=LANG_NAMES)
+df_summ2['n_page_w_tr'] = df_summ2.n_page_w_tr.fillna(0)
 
 # Keep output variables and write output
 
