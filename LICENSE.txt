@@ -6,7 +6,8 @@ GNU General Public License v3. See LICENSE_GPL_v3_for_py_files.txt
 in the src/ directory for the license.
 
 -------------------------------------------------------------
-License and attribution information for files in input/ and output/ directories.
+License and attribution information for files in input/ and output/
+directories.
 -------------------------------------------------------------
 Most files in the input/ and output/ directories are made available
 under the CC BY 3.0 license.
@@ -52,12 +53,16 @@ The repository contains programs designed to work with selected information
 from the July 2026 dump file of the English Language Wiktionary from:
     https://dumps.wikimedia.org/enwiktionary/20260701/
 
-Wiktionary licenses this text under the Creative Commons Attribution-ShareAlike
-4.0 International (CC BY-SA 4.0).
+The list of languages in csv format (downloaded 28 August 2026) was also
+used. This is available from:
+    https://en.wiktionary.org/w/index.php?title=Wiktionary:List_of_languages,_csv_format&oldid=89282371
 
-Many of the analysis results that we upload to the repository are summaries (counts
-and proportions) based on the data in Wiktionary. Users who run these
-programs themselves and generate the detail-level intermediate data
+Wiktionary licenses this text (dump file and csv file) under the
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+
+Many of the analysis results that we upload to the repository are summaries
+(counts and proportions) based on the data in Wiktionary. Users who runi
+these programs themselves and generate the detail-level intermediate data
 files should be aware that these intermediate files will contain both
 CC BY 3.0 data and CC BY-SA 4.0 data.
 
@@ -66,9 +71,29 @@ columns `lang_name1` - `lang_name3` created by extracting the language
 names used in translation table entries of English-language entries. The
 combinations are modified slightly from what is present in Wiktionary.
 In particular, we deleted values where we extracted a second-level language
-name with no matching first-level language name. A small number of combinations
-that we think reflect data formatting or entry errors (or non-standard approaches)
-were also omitted. These are listed in 'input/not_lang_names.txt'.
+name with no matching first-level language name. A small number of
+combinations that we think reflect data formatting or entry errors
+(or non-standard approaches) were also omitted. These are listed in
+'input/not_lang_names.txt'.
+
+The repository file 'input/lang_names_to_codes.txt' (or 
+'lang_names_to_code.txt') has rows that are a subset of the three-way
+`lang_name1` - `lang_name3` combinations mentioned in the previous paragraph.
+Each combination is then mapped to a `lang_code` and `lang_desc` that is meant
+to match the code used for the language/variety used in Wiktionary (when
+applicable). To do this, we looked for matches in the csv list of languages.
+We considered matches to be the following:
+   (1) `lang_name1` matched `lang_name` in the csv fle and `lang_name2` and 
+       `lang_name3` were blank
+   (2) `lang_name2` matched `lang_name` in the csv file and `lang_name3` was
+        blank
+For matches, we set `lang_code` to `code` from the csv file and `lang_desc` to
+`lang_name` from the csv file. If no match was found, we enter the code
+used in `input/override_lang_code.txt`. We also used this override file to
+reassign codes when 'Arabic' or 'Latin' was the text matched in the
+`lang_name2` position, since these typically refer to the script and not
+the language. Further details on the codes in the override file are in the
+repository wiki.
 
 --------------------------------------------------------------------
 License and Attribution information for New General Service List (new-GSL) 
@@ -210,6 +235,8 @@ under the CC BY-SA 4.0 license:
 
     1. input/not_lang_names.txt
     2. output/translations/count_trans_all_langs.txt
+    3. input/lang_names_to_codes.txt
+    4. input/override_lang_code.txt
 
 URL of a human-readable summary of the CC BY-SA 4.0 license:
     https://creativecommons.org/licenses/by-sa/4.0/.

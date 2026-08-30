@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 import csv
+import math
 
 PCTS = ['pct100_1','pct100_2','pct100_3','pct100_4','pct100_5']
 PLTS_PER_FILE = 81
@@ -19,7 +20,7 @@ def make_graph(df, graph_num):
 
     for ax, data, title in zip(axs.flat, sub_df.quintiles, sub_df.lang_desc):
         ax.bar(q_labels, data, color='blue', edgecolor='black')
-        ax.set_title(title)
+        ax.set_title(title.replace(':','\n'), fontsize=10)
         #ax.set_ylim(0, 100)
         ax.set_ylabel('Comp. %')
 
@@ -38,7 +39,7 @@ def run_all():
     df[PCTS] = df[PCTS].map(lambda x: round(x, 2))
     df['quintiles'] = df[PCTS].values.tolist()
 
-    for gnum in [1, 2, 3, 4]:
+    for gnum in range(1, math.ceil(len(df)/PLTS_PER_FILE) + 1):
         make_graph(df, gnum)
 
 #-----------------------------------------------------------------------------
