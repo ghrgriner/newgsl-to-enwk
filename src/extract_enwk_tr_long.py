@@ -149,6 +149,8 @@ def _process_mainspace_page(opf, otf_writer, title, word, ctr):
                         trec.lev3 = ''
                         writerow(otf_writer, trec)
                         pending_trec = False
+                    else:
+                        print(f'WARNING: BAD (* )! {trec.title=} {trec.transtop_line=} {line=}')
                 elif line.startswith('*: '):
                     ok, left, right = split_line(line, which_colon=2)
                     if ok:
@@ -158,6 +160,8 @@ def _process_mainspace_page(opf, otf_writer, title, word, ctr):
                         trec.lev3 = ''
                         writerow(otf_writer, trec)
                         pending_trec = False
+                    else:
+                        print(f'WARNING: BAD (*: )! {trec.title=} {trec.transtop_line=} {line=}')
                 elif line.startswith('*:: '):
                     ok, left, right = split_line(line, which_colon=3)
                     if ok:
@@ -166,6 +170,8 @@ def _process_mainspace_page(opf, otf_writer, title, word, ctr):
                         trec.lev3 = left
                         writerow(otf_writer, trec)
                         pending_trec = False
+                    else:
+                        print(f'WARNING: BAD (*:: )! {trec.title=} {trec.transtop_line=} {line=}')
                 elif line.startswith('*::: '):
                     print(f'WARNING: *:::! {trec.title=} {trec.transtop_line=} {trec.lev1=}, {trec.lev2=} {trec.lev3=} {line=}')
                 elif line.startswith('*:::: '):
