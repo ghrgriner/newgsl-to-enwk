@@ -253,7 +253,8 @@ Anus			3	3	0	3
 Anuta			5	5	0	5
 Anyi			6	7	2	7
 Anāl			1	1	0	1
-Ao			1	1	192	1
+Ao			1	1	192	193
+Ao	Chungli Ao		187	193	0	
 Aoheng			4	4	0	4
 Aore			1	1	0	1
 Apabhramsa			2	2	1	3
@@ -1026,7 +1027,7 @@ Chinantec	Sochiapam Chinantec		2	2	0
 Chinantec	Tlacoatzintepec Chinantec		1	1	0	
 Chinantec	Usila Chinantec		1	1	0	
 Chinantec	Valle Nacional Chinantec		1	1	0	
-Chinese			749	778	64378	63251
+Chinese			749	778	64484	63352
 Chinese	CJKV Characters		1	1	0	
 Chinese	Cantonese		9537	10723	88	
 Chinese	Cantonese	Cantonese	3	3	0	
@@ -1046,7 +1047,7 @@ Chinese	Jin		202	205	0
 Chinese	Literary Chinese		61	64	0	
 Chinese	Madarin		1	1	0	
 Chinese	Manadrin		1	1	0	
-Chinese	Mandarin		49254	61946	1856	
+Chinese	Mandarin		49287	62047	1866	
 Chinese	Mandarin	Sichuanese	1	1	0	
 Chinese	Mandarin	Simplified	1	1	0	
 Chinese	Middle Chinese		0	0	3	
@@ -1512,7 +1513,7 @@ Filipino	Cebuano		1	1	0
 Filipino	Tagalog		1	1	0	
 Finish			1	1	0	1
 Finnih			1	1	0	1
-Finnish			70334	115829	0	115828
+Finnish			70355	115929	0	115928
 Finnish	Ancient		1	1	0	
 Finnish	Colloquial Finnish		1	1	0	
 Finnnish			1	1	0	1
@@ -1536,7 +1537,7 @@ Fox			21	21	0	21
 Franc-Comtois			4	4	0	4
 Franco-Provençal			322	345	21	345
 Frech			1	1	0	1
-French			71218	95407	1745	95450
+French			71224	95414	1843	95457
 French	(Belgium, Luxembourg, Switzerland)		1	1	0	
 French	(France, Quebec)		1	1	0	
 French	Belgium		1	1	0	
@@ -4723,7 +4724,7 @@ Southwestern Fars			1	1	0	1
 Sowa			1	1	0	1
 Soyot			1	1	0	1
 Spainish			1	1	0	1
-Spanish			62398	86570	1849	86570
+Spanish			62417	86589	1850	86589
 Spanish	Latin America		1	1	0	
 Spanish	Old Spanish		78	83	0	
 Spanish	Spanish		1	1	0	

@@ -9,6 +9,7 @@ import csv
 INPUT_TRANS_FILE = '../output/intermediate/en_long_trans.txt'
 BAD_NAMES_FILE = '../input/not_lang_names.txt'
 BAD_NAMES_OUTPUT_FILE = '../output/intermediate/not_lang_names_output.txt'
+NAME1_BLANK_OUTPUT_FILE = '../output/intermediate/name1_blank_output.txt'
 OUTPUT_FILE = '../output/translations/count_trans_all_langs.txt'
 PIVOT_KEY = ['page','tteseq','h3','h4','h5','transtop_line']
 OUTPUT_VARS = ['lang_name1','lang_name2','lang_name3',
@@ -69,6 +70,7 @@ df = df[ ~bothblank ]
 print(f'`lang_name1` and `lang_name2` both empty       {n_del1:>10}{len(df):>10}')
 name1blank = df.lang_name1 == ''
 n_del2 = len(df[name1blank])
+df[name1blank].to_csv(NAME1_BLANK_OUTPUT_FILE, sep='\t', quoting=csv.QUOTE_NONE)
 df = df[ ~name1blank ]
 print(f'`lang_name1` empty                             {n_del2:>10}{len(df):>10}')
 otherbad = df._merge == 'both'
