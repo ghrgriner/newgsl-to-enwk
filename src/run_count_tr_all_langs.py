@@ -8,6 +8,7 @@ import csv
 #------------------------------------------------------------------------------
 INPUT_TRANS_FILE = '../output/intermediate/en_long_trans.txt'
 BAD_NAMES_FILE = '../input/not_lang_names.txt'
+BAD_NAMES_OUTPUT_FILE = '../output/intermediate/not_lang_names_output.txt'
 OUTPUT_FILE = '../output/translations/count_trans_all_langs.txt'
 PIVOT_KEY = ['page','tteseq','h3','h4','h5','transtop_line']
 OUTPUT_VARS = ['lang_name1','lang_name2','lang_name3',
@@ -71,6 +72,7 @@ n_del2 = len(df[name1blank])
 df = df[ ~name1blank ]
 print(f'`lang_name1` empty                             {n_del2:>10}{len(df):>10}')
 otherbad = df._merge == 'both'
+df[otherbad].to_csv(BAD_NAMES_OUTPUT_FILE, sep='\t', quoting=csv.QUOTE_NONE)
 n_del3 = len(df[otherbad])
 df = df[ ~otherbad ]
 print(f'Other invalid names in `src/not_lang_names.txt`{n_del3:>10}{len(df):>10}')
