@@ -2,6 +2,7 @@
 import pandas as pd
 import numpy as np
 import csv
+from trans_file_util import strip_bullet1, strip_bullet2, strip_bullet3
 
 #------------------------------------------------------------------------------
 # Parameters
@@ -25,23 +26,6 @@ LANG_NAMES = ['lang_name1','lang_name2','lang_name3']
 #------------------------------------------------------------------------------
 # Functions
 #------------------------------------------------------------------------------
-def strip_bullet1(x):
-    return strip_bullet(x, '* ')
-
-def strip_bullet2(x):
-    return strip_bullet(x, '*: ')
-
-def strip_bullet3(x):
-    return strip_bullet(x, '*:: ')
-
-def strip_bullet(x, pfx):
-    if not x:
-        return ''
-    if x.startswith(pfx):
-        return x[len(pfx):]
-    else:
-        raise ValueError('ERROR: should be empty or start with prefix? '
-                         f'{x=}, {pfx=}')
 
 #------------------------------------------------------------------------------
 # Main entry point

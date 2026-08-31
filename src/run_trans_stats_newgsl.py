@@ -154,7 +154,7 @@ tk_df = t_df.merge(
     x_df[['word_id','newgsl_line','sseq','page','enwk_pos','freq_cat','seq_of_ref']],
     how='inner', on=['page'], indicator=True)
 print('\nPrinting tk_df')
-print(tk_df[ tk_df.word_id == 'NBG_as_con'][['word_id','page','enwk_pos','transtop_line','enwk_part_of_speech']])
+print(tk_df)
 
 tk_df = tk_df[(tk_df.enwk_part_of_speech == '') |
               (tk_df.enwk_part_of_speech == tk_df.enwk_pos)]
