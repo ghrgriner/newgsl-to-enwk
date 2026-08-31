@@ -15,11 +15,10 @@ Note that this program creates a dummy `note_class` that is always 'C'.
 #------------------------------------------------------------------------------
 # Parameters
 #------------------------------------------------------------------------------
-INPUT_LANG_FILE = "../input/lang_names_to_code.txt"
+NROWS = None # rows to use from ENWK_TRANS_FILE
 
 ENWK_TRANS_FILE = '../output/intermediate/en_sel_wide_trans.txt'
-#DECK_FILE = '../output/deck/dib_deck.txt'
-#DECK_FIELDS_FILE = '../output/deck/dib_deck_fields.txt'
+INPUT_LANG_FILE = "../input/lang_names_to_code.txt"
 NEWGSL_FILE = '../output/deck/newgsl_deck.txt'
 
 TRANS_AVAIL_FILE = '../output/intermediate/tr_avail_by_note_newgsl.txt'
@@ -34,19 +33,8 @@ SECT_VARS = ['denom','num','pct100str','pct100']
 TRANS_STATS_VARS = ['lang','lang_desc']
 for q in ['','_1','_2','_3','_4','_5']:
     TRANS_STATS_VARS.extend([item + q for item in SECT_VARS])
-NROWS = None # rows to use from ENWK_TRANS_FILE
-MD_ROW_FILE = '../output/intermediate/tr_stats_newgsl.txt'
 
-#------------------------------------------------------------------------------
-# Constants
-#------------------------------------------------------------------------------
-#LANG_DICT = {item[0]: item[1].split(' ', maxsplit=1)[1].replace(':','')
-#             for item in LANGUAGES}
-
-_PART_OF_SPEECH = ['Adjective','Adverb','Noun','Verb','Conjunction',
-   'Contraction','Derived terms','Determiner','Interjection','Article',
-   'Number','Numeral','Phrase','Prefix','Preposition','Prepositional phrase',
-   'Pronoun','Proper noun','Suffix','Particle','Punctuation mark','Postposition']
+MD_ROW_FILE = '../output/intermediate/tr_stats_newgsl_md.txt'
 
 #------------------------------------------------------------------------------
 # Functions
@@ -86,11 +74,6 @@ def calc_freq(group, var):
     return pd.Series({'denom': denom, 'num': num,
                      'pct100': pct100, 'pct100str': pct100str})
 
-def get_pos(h3, h4, h5):
-    if h3 in _PART_OF_SPEECH: return h3
-    if h4 in _PART_OF_SPEECH: return h4
-    if h5 in _PART_OF_SPEECH: return h5
-    return ''
 
 #------------------------------------------------------------------------------
 # Main Entry Point
@@ -108,9 +91,6 @@ t_df = pd.read_csv(ENWK_TRANS_FILE, sep='\t', quoting=csv.QUOTE_MINIMAL,
                    na_filter=False)
 t_df['tt_param1'] = t_df.transtop_line.map(get_token2)
 add_tseq(t_df)
-t_df['enwk_part_of_speech'] = [
-          get_pos(h3, h4, h5) for h3, h4, h5 in t_df[['h3','h4','h5']].values
-                              ]
 print(t_df)
 
 #f_df = pd.read_csv(DECK_FIELDS_FILE, sep='|', quoting=csv.QUOTE_NONE,
