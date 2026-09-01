@@ -11,6 +11,8 @@ INPUT_TRANS_FILE = '../output/intermediate/en_long_trans.txt'
 BAD_NAMES_FILE = '../input/not_lang_names.txt'
 BAD_NAMES_OUTPUT_FILE = '../output/intermediate/not_lang_names_output.txt'
 NAME1_BLANK_OUTPUT_FILE = '../output/intermediate/name1_blank_output.txt'
+ALL_LANG_STAT_FILE = '../output/intermediate/all_lang_stats_md.txt'
+INPUT_LANG_FILE = '../input/lang_names_to_code.txt'
 OUTPUT_FILE = '../output/translations/count_trans_all_langs.txt'
 PIVOT_KEY = ['page','tteseq','h3','h4','h5','transtop_line']
 OUTPUT_VARS = ['lang_name1','lang_name2','lang_name3',
@@ -26,6 +28,26 @@ LANG_NAMES = ['lang_name1','lang_name2','lang_name3']
 #------------------------------------------------------------------------------
 # Functions
 #------------------------------------------------------------------------------
+def write_all_lang_stats(outfile, df_, summdf):
+    row1 = ('Pages with at least one translation',
+            len(df[df.has_trans == "Y"][["page"]].drop_duplicates()))
+    row2 = ('Translation table entries with at least one translation',
+            len(df[df.has_trans == "Y"][["page","tteseq"]].drop_duplicates()))
+    row3 = ('Translation table entries (sum across all languages)',
+            len(df[df.has_trans == 'Y']))
+    row4 = ('Unique top-level language names used in translation tables [a]',
+            len(df.lang_name1.unique()))
+    row5 = ('Unique combinations of language names used in translation '
+            'tables [b]', len(summdf))
+    row6 = ('Languages with translations in English-language entries on '
+            '>= 150 pages in July 2026 dump [c]',
+          len(pd.read_csv(INPUT_LANG_FILE, sep='\t', quoting=csv.QUOTE_NONE)))
+    tbl = pd.DataFrame([row1, row2, row3, row4, row5, row6],
+                       columns=['Description','cnt'])
+    tbl['cnt'] = tbl['cnt'].map('{:,}'.format)
+    tbl['md_row'] = '| ' + tbl.Description + ' | ' + tbl.cnt + ' |'
+    tbl[['md_row']].to_csv(outfile, sep='\t', quoting=csv.QUOTE_NONE,
+                           index=False)
 
 #------------------------------------------------------------------------------
 # Main entry point
@@ -71,12 +93,6 @@ print(df.columns)
 #                  ].duplicated(keep='last')
 #              ]
 print(df.has_trans.value_counts())
-print(f'Unique lang_name1: {len(df.lang_name1.unique())}')
-
-print(f'Pages with at least one translation: '
-      f'{len(df[df.has_trans == "Y"][["page"]].drop_duplicates())}')
-print(f'Translation table entries with at least one translation: '
-      f'{len(df[df.has_trans == "Y"][["page","tteseq"]].drop_duplicates())}')
 
 df_summ = df.groupby(LANG_NAMES + ['has_trans'])[['page']].count()
 df_summ = df_summ.reset_index()
@@ -115,4 +131,6 @@ df_summ2 = df_summ2[OUTPUT_VARS]
 print(df_summ2)
 
 df_summ2.to_csv(OUTPUT_FILE, sep='\t', quoting=csv.QUOTE_NONE, index=False)
+
+write_all_lang_stats(ALL_LANG_STAT_FILE, df, df_summ2)
 
