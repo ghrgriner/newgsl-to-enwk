@@ -74,6 +74,20 @@ def calc_freq(group, var):
     return pd.Series({'denom': denom, 'num': num,
                      'pct100': pct100, 'pct100str': pct100str})
 
+def get_indices_to_drop(pages_to_keep):
+    page_df = pd.read_csv(ENWK_TRANS_FILE, sep='\t',
+                   quoting=csv.QUOTE_MINIMAL, usecols=['page'], nrows=NROWS,
+                   na_filter=False)
+    page_df['keep_page'] = page_df.page.map(lambda x: x in pages_to_keep)
+    page_df = page_df.reset_index()
+
+    # Use `item + 1` b/c page_df.index has first data row with index 0, but
+    # `skiprows` parameter will give header row index 0
+    skip_indices = {
+             item + 1
+             for item in page_df[~page_df.keep_page]['index'].tolist()
+                   }
+    return skip_indices
 
 #------------------------------------------------------------------------------
 # Main Entry Point
@@ -84,23 +98,17 @@ ldf = pd.read_csv(INPUT_LANG_FILE, sep='\t', quoting=csv.QUOTE_NONE,
 
 LANG_DICT = { cod: dsc for cod, dsc in ldf[['lang_code','lang_desc']].values }
 
-# 1. Input deck
+# 0. just get the pages
+# Input deck
+
 df = pd.read_csv(NEWGSL_FILE, sep='\t', quoting=csv.QUOTE_NONE,
-                 usecols=['word_id','newgsl_line','sseq','enwk_pos','enwk_page','enwk_def','newgsl_freq_rank'],
+                 usecols=['word_id','newgsl_line','sseq','enwk_pos',
+                          'enwk_page','enwk_def','newgsl_freq_rank'],
                  na_filter=False)
 df['freq_cat'] = df.newgsl_freq_rank.map(freq_to_cat)
 print(df.freq_cat.value_counts())
 word_ids = df[ df.enwk_def != '_NOSENSE' ][['word_id']]
 df.loc[ df.enwk_def == '_NOSENSE', 'enwk_page' ] = ''
-
-# 2. Input translation file
-
-t_df = pd.read_csv(ENWK_TRANS_FILE, sep='\t', quoting=csv.QUOTE_MINIMAL,
-                   nrows=NROWS,
-                   na_filter=False)
-t_df['tt_param1'] = t_df.transtop_line.map(get_token2)
-add_tseq(t_df)
-print(t_df)
 
 deck_copy = df.copy()
 df = df.fillna('')
@@ -113,13 +121,21 @@ x_df['seq_of_ref'] = x_df.groupby('word_id').cumcount() + 1
 print(x_df)
 
 x_df['page'] = x_df.enwk_page_1tok.copy()
-#res = x_df.enwk_def_1tok.map(
-#   lambda x: x.split(':', maxsplit=2) if not x.startswith('_') else ('','',''))
-#x_df['page'] = [ item[0] for item in res ]
-#x_df['qual'] = [ item[1] for item in res ]
-#x_df['tt_param1'] = [ item[2] for item in res ]
 
-# 3.
+pages_to_keep = set(x_df.page.unique().tolist())
+
+indices_to_drop = get_indices_to_drop(pages_to_keep)
+
+# 1. Input translation file
+t_df = pd.read_csv(ENWK_TRANS_FILE, sep='\t', quoting=csv.QUOTE_MINIMAL,
+                   nrows=NROWS,
+                   skiprows=lambda x: x in indices_to_drop,
+                   na_filter=False)
+t_df['tt_param1'] = t_df.transtop_line.map(get_token2)
+add_tseq(t_df)
+print(t_df)
+
+# 3. Merge translations and (exploded) deck
 
 tk_df = t_df.merge(
     x_df[['word_id','newgsl_line','sseq','page','enwk_pos','freq_cat','seq_of_ref']],
