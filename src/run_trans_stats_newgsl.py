@@ -84,22 +84,7 @@ ldf = pd.read_csv(INPUT_LANG_FILE, sep='\t', quoting=csv.QUOTE_NONE,
 
 LANG_DICT = { cod: dsc for cod, dsc in ldf[['lang_code','lang_desc']].values }
 
-# 1. Input translation file
-
-t_df = pd.read_csv(ENWK_TRANS_FILE, sep='\t', quoting=csv.QUOTE_MINIMAL,
-                   nrows=NROWS,
-                   na_filter=False)
-t_df['tt_param1'] = t_df.transtop_line.map(get_token2)
-add_tseq(t_df)
-print(t_df)
-
-#f_df = pd.read_csv(DECK_FIELDS_FILE, sep='|', quoting=csv.QUOTE_NONE,
-#                 na_filter=False, names=['Columns'])
-#columns = f_df.iloc[0, 0].split('\t')
-#print(f_df)
-
-# Input deck
-
+# 1. Input deck
 df = pd.read_csv(NEWGSL_FILE, sep='\t', quoting=csv.QUOTE_NONE,
                  usecols=['word_id','newgsl_line','sseq','enwk_pos','enwk_page','enwk_def','newgsl_freq_rank'],
                  na_filter=False)
@@ -108,8 +93,14 @@ print(df.freq_cat.value_counts())
 word_ids = df[ df.enwk_def != '_NOSENSE' ][['word_id']]
 df.loc[ df.enwk_def == '_NOSENSE', 'enwk_page' ] = ''
 
-#df['enwk_def'] = df.enwk_def.fillna('')
-#print(df[df.enwk_def == ''])
+# 2. Input translation file
+
+t_df = pd.read_csv(ENWK_TRANS_FILE, sep='\t', quoting=csv.QUOTE_MINIMAL,
+                   nrows=NROWS,
+                   na_filter=False)
+t_df['tt_param1'] = t_df.transtop_line.map(get_token2)
+add_tseq(t_df)
+print(t_df)
 
 deck_copy = df.copy()
 df = df.fillna('')
