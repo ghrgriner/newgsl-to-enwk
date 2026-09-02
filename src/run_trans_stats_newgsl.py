@@ -40,9 +40,9 @@ INPUT_LANG_FILE = '../input/lang_names_to_code.txt'
 NEWGSL_FILE = '../output/deck/newgsl_deck.txt'
 
 TRANS_AVAIL_FILE = '../output/intermediate/tr_avail_by_note_newgsl.txt'
-TRANS_AVAIL_VARS = ['word_id', 'page','enwk_part_of_speech',
-                    'tt_param1', 'seq_in_param1', 'seq_of_ref', 'lang',
-                    'lang_desc', 'has_trans']
+TRANS_AVAIL_VARS = ['word_id','page','tteseq','enwk_part_of_speech',
+                    'tt_param1','seq_in_param1','seq_of_ref','lang',
+                    'lang_desc','has_trans']
 TRANS_LANG_SENSE_FILE = '../output/intermediate/tr_lang_sense_newgsl.txt'
 TRANS_LS_ADDL_VARS = ['trans_count','transtop_line','translation']
 
@@ -62,12 +62,13 @@ TR_ATTR_ROWS = [
              ' but none available [b]'),
  ('LINK', 'Matching translation entry or entries available [c]'),
 ]
+TR_UNDER_DENOM = ['_NOSENSE']
 
 #------------------------------------------------------------------------------
 # Functions
 #------------------------------------------------------------------------------
 def has_trans(x):
-    if not x or 't-needed' in x:
+    if pd.isna(x) or not x or 't-needed' in x:
         return False
     else:
         return True
@@ -118,8 +119,8 @@ def get_indices_to_drop(pages_to_keep):
 
 def print_attrition(attr_file, vocab_deck, tkdf_, sm_word_ids):
     # Identify unexnm (unexpected not-matched) words in list. `
-    for_unexnm = tkdf_.merge(sm_word_ids, how='right', on='word_id',
-                             indicator='prob')
+    for_unexnm = tkdf_[pd.isna(tkdf_.missrsn)].merge(sm_word_ids,
+         how='right', on='word_id', indicator='prob')
     unexnm = for_unexnm[for_unexnm.prob == 'right_only']
 
     vocab_deck['avail'] = vocab_deck.enwk_def.map(
@@ -214,7 +215,7 @@ add_tseq(t_df)
 print(t_df)
 
 #-----------------------------------------------------------------------------
-# 3. Merge translations and (exploded) source deck data frames. Limit to
+# 4. Merge translations and (exploded) source deck data frames. Limit to
 # matching part of speech, with all records used if `enwk_part_of_speech` is
 # missing.
 #-----------------------------------------------------------------------------
@@ -222,24 +223,33 @@ tk_df = t_df.merge(
     x_df[['word_id','newgsl_line','sseq','page','enwk_pos','freq_cat',
           'seq_of_ref']],
     how='inner', on=['page'], indicator=True)
+
 print('\nPrinting tk_df')
 print(tk_df)
 
 tk_df = tk_df[(tk_df.enwk_part_of_speech == '') |
               (tk_df.enwk_part_of_speech == tk_df.enwk_pos)]
 
+allmiss = deck_copy[deck_copy.enwk_def.isin(TR_UNDER_DENOM)][
+      ['word_id','enwk_def','newgsl_line','sseq','freq_cat']].rename(
+           columns={'enwk_def': 'missrsn'})
+tk_df = pd.concat([tk_df, allmiss], axis=0)
+
 #------------------------------------------------------------------------------
 # 5. Transform translation set from wide to long.
 #------------------------------------------------------------------------------
-dupkey(df_=tk_df, vars_=['word_id','newgsl_line','sseq','page','tt_param1',
-                        'seq_in_param1','seq_of_ref'])
+dupkey(df_=tk_df, vars_=['word_id','page','tteseq','newgsl_line','sseq',
+                         'tt_param1','seq_in_param1','seq_of_ref'])
 
 tk_long = pd.wide_to_long(tk_df, stubnames='tr_enwk_',
-            i=['word_id','newgsl_line','sseq','page',
+            i=['word_id','page','tteseq','newgsl_line','sseq',
                'tt_param1','seq_in_param1','seq_of_ref'],
-            j='lang', suffix=r'\D+')
+            j='lang', suffix=r'\D+').sort_values(
+    ['word_id','page','tteseq','lang'])
 tk_long = tk_long.reset_index()
 tk_long['has_trans'] = tk_long.tr_enwk_.map(has_trans)
+print(tk_long.has_trans.value_counts())
+print(len(tk_long))
 tk_long['has_trans_YN'] = tk_long.has_trans.map(lambda x: 'Y' if x else 'N')
 tk_long['lang_desc'] = tk_long.lang.map(lambda x: LANG_DICT[x])
 tk_long['t_lang'] = 't_' + tk_long.lang
@@ -247,22 +257,29 @@ tk_long.rename(columns = {'tr_enwk_': 'translation'}, inplace=True)
 print('\nPrinting tk_long')
 print(tk_long)
 
+dupkey(df_=tk_long, vars_=['word_id','page','tteseq','lang'])
+
 tk_long[TRANS_AVAIL_VARS + TRANS_LS_ADDL_VARS].to_csv(
-    TRANS_LANG_SENSE_FILE, sep='\t', quoting=csv.QUOTE_NONE, index=False)
+    TRANS_LANG_SENSE_FILE, sep='\t', quoting=csv.QUOTE_NONE, index=False,
+    float_format=lambda x: f'{x:.0f}')
 
 #------------------------------------------------------------------------------
 # 6. We already have a wide data frame, but pivoting back only loses
 # a bit of time and the code is cleaner (compare to commented-out below)
 # so we will use `pivot`.
 #------------------------------------------------------------------------------
-tk_wide = tk_long.pivot(index=['word_id','newgsl_line','sseq','page',
+tk_wide = tk_long.pivot(index=['word_id','page','tteseq','newgsl_line','sseq',
                'enwk_part_of_speech','tt_param1','seq_in_param1','seq_of_ref'],
                         columns = 't_lang',
-                        values = 'has_trans_YN').sort_values(['word_id'])
-tk_wide.to_csv(TRANS_AVAIL_FILE, sep='\t', quoting=csv.QUOTE_NONE)
+                        values = 'has_trans_YN').reset_index().sort_values(
+       ['word_id','page','tteseq'])
+dupkey(df_=tk_wide, vars_=['word_id','page','tteseq'])
+tk_wide.to_csv(TRANS_AVAIL_FILE, sep='\t', quoting=csv.QUOTE_NONE,
+               float_format=lambda x: f'{x:.0f}', index=False
+              )
 
 #-----------------------------------
-# the code below gives same data with slightly different sort by
+# the code below gives same data as above pivot with slightly different sort by
 # just transforming the original wide df (tk_df)
 #-----------------------------------
 #
@@ -313,6 +330,7 @@ final_df.reset_index(inplace=True)
 final_df['lang_desc'] = final_df.lang.map(lambda x: LANG_DICT[x])
 print(final_df)
 final_df[TRANS_STATS_VARS].to_csv(TRANS_STATS_FILE, sep='\t',
+                                  float_format=lambda x: f'{x:.2f}',
                                   quoting=csv.QUOTE_NONE, index=False)
 
 final_df['md_row'] = ('| ' + final_df.lang + ' | ' + final_df.lang_desc +
