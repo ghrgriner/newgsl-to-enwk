@@ -57,10 +57,10 @@ MD_ROW_FILE = '../output/intermediate/tr_stats_newgsl_md.txt'
 TR_ATTR_FILE = '../output/intermediate/tr_attrition_md.txt'
 
 TR_ATTR_ROWS = [
- ('_NOSENSE', 'Page exists but no translation table [a]'),
+ ('_NOSENSE', 'Page exists but no translation table [*]'),
  ('_UNEXNM', 'Matching translation entry or entries expected'
              ' but none available [b]'),
- ('LINK', 'Matching translation entry or entries available [c]'),
+ ('LINK', 'Matching translation entry or entries available [*]'),
 ]
 TR_UNDER_DENOM = ['_NOSENSE']
 
