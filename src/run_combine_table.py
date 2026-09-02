@@ -48,7 +48,7 @@ plt.ylabel('Deutsch im Blick translation completion %')
 plt.savefig("../output/translations/newgsl_by_dib_scatterplot.png")
 #plt.show()
 
-final_df = mrg.sort_values(['pct100_ngsl','lang_desc_ngsl'], ascending=[False, True])
+final_df = mrg.sort_values(['num_ngsl','lang_ngsl'], ascending=[False, True])
 #print(final_df[pd.isna(final_df.pct100str_ngsl)])
 
 final_df['md_row'] = ('| ' + final_df.lang_ngsl +
