@@ -248,7 +248,6 @@ tk_long = pd.wide_to_long(tk_df, stubnames='tr_enwk_',
     ['word_id','page','tteseq','lang'])
 tk_long = tk_long.reset_index()
 tk_long['has_trans'] = tk_long.tr_enwk_.map(has_trans)
-print(tk_long.has_trans.value_counts())
 print(len(tk_long))
 tk_long['has_trans_YN'] = tk_long.has_trans.map(lambda x: 'Y' if x else 'N')
 tk_long['lang_desc'] = tk_long.lang.map(lambda x: LANG_DICT[x])
@@ -325,7 +324,7 @@ for q in [1,2,3,4,5]:
     final_df = final_df.merge(add_df, how='inner',
                               left_index=True, right_index=True,
                               suffixes=('', f'_{q}'))
-final_df = final_df.sort_values(by='pct100', ascending=False)
+final_df = final_df.sort_values(by=['num','lang'], ascending=[False, True])
 final_df.reset_index(inplace=True)
 final_df['lang_desc'] = final_df.lang.map(lambda x: LANG_DICT[x])
 print(final_df)
