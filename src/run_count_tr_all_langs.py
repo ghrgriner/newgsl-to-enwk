@@ -76,11 +76,13 @@ df = df[ ~bothblank ]
 print(f'`lang_name1` and `lang_name2` both empty       {n_del1:>10}{len(df):>10}')
 name1blank = df.lang_name1 == ''
 n_del2 = len(df[name1blank])
-df[name1blank].to_csv(NAME1_BLANK_OUTPUT_FILE, sep='\t', quoting=csv.QUOTE_NONE)
+df[name1blank].to_csv(NAME1_BLANK_OUTPUT_FILE, sep='\t', quoting=csv.QUOTE_NONE,
+                      index=False)
 df = df[ ~name1blank ]
 print(f'`lang_name1` empty                             {n_del2:>10}{len(df):>10}')
 otherbad = df._merge == 'both'
-df[otherbad].to_csv(BAD_NAMES_OUTPUT_FILE, sep='\t', quoting=csv.QUOTE_NONE)
+df[otherbad].to_csv(BAD_NAMES_OUTPUT_FILE, sep='\t', quoting=csv.QUOTE_NONE,
+                    index=False)
 n_del3 = len(df[otherbad])
 df = df[ ~otherbad ]
 print(f'Other invalid names in `src/not_lang_names.txt`{n_del3:>10}{len(df):>10}')
