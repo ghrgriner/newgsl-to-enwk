@@ -14,8 +14,8 @@ BAD_NAMES_OUTPUT_FILE = '../output/intermediate/not_lang_names_output.txt'
 NAME1_BLANK_OUTPUT_FILE = '../output/intermediate/name1_blank_output.txt'
 ALL_LANG_STAT_FILE = '../output/intermediate/all_lang_stats_md.txt'
 INPUT_LANG_FILE = '../input/lang_names_to_code.txt'
-BN_OUTPUT_FILE = '../output/translations/count_trans_all_langs.txt'
-NN_OUTPUT_FILE = '../output/intermediate/count_en_trans_sel_langs.txt'
+BN_OUTPUT_FILE = '../output/translations/count_en_tr_all_langs.txt'
+NN_OUTPUT_FILE = '../output/intermediate/count_en_tr_sel_langs.txt'
 PIVOT_KEY = ['page','tteseq','h3','h4','h5','transtop_line']
 # output variables, excluding `lang_name1`-`lang_name3` and 'n_tte_icho_w_tr'
 NN_OUTPUT_VARS = ['lang_code','lang_desc','n_page_w_tr','n_tte_w_tr',
